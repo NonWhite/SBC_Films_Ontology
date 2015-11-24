@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY renata "http://www.ime.usp.br/~renata/" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#"
+     xml:base="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:renata="http://www.ime.usp.br/~renata/"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4">
+        <owl:imports rdf:resource="&renata;FOAF-modified"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.ime.usp.br/~renata/FOAF-modifiedmember -->
+
+    <rdf:Description rdf:about="&renata;FOAF-modifiedmember"/>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#e_membro -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#e_membro">
+        <owl:inverseOf rdf:resource="&renata;FOAF-modifiedmember"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Ator"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#estrela -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#estrela">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#estrelado -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#estrelado">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#estrela"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#ano_lancamento -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#ano_lancamento">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#elenco_do_filme -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#elenco_do_filme">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#nome_filme -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#nome_filme">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme"/>
+        <rdfs:range rdf:resource="&rdfs;Literal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Ator -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Ator">
+        <rdfs:subClassOf rdf:resource="&renata;FOAF-modifiedPerson"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Diretor -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Diretor">
+        <rdfs:subClassOf rdf:resource="&renata;FOAF-modifiedPerson"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco">
+        <rdfs:subClassOf rdf:resource="&renata;FOAF-modifiedGroup"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme">
+        <rdfs:subClassOf rdf:resource="&renata;FOAF-modifiedProject"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco_do_Filme_do_IME -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco_do_Filme_do_IME">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco"/>
+        <estrelado rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme_do_IME"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme_do_IME -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme_do_IME">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Kon -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Kon">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Ator"/>
+        <e_membro rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Elenco_do_Filme_do_IME"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Renata -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Renata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Diretor"/>
+        <renata:FOAF-modifiedmade rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Filme_do_IME"/>
+        <renata:FOAF-modifiedknows rdf:resource="http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#Kon"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.1) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,224 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX foaf: <http://www.ime.usp.br/~renata/FOAF-modified>
+PREFIX onto: <http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4#>
+
+
+
+lembrar que ao usar made e maker, prefixo é 'foaf'
+para os demais, usar o nosso prefixo, no caso, 'onto'
+
+---------------------------------------------------
+
+Atores que fizeram parte do filme F
+
+SELECT ?nome_ator ?sobrenome_ator ?nome_filme
+	WHERE { 
+	?ator onto:e_membro ?elenco.
+	?elenco onto:estrelado ?filme.
+	?filme onto:nome_filme "Capitão América 3: A Guerra Civil"@pt.
+
+	?elenco rdf:type onto:Elenco.
+	?filme rdf:type onto:Filme.
+
+	?ator foaf:firstName ?nome_ator.
+	?ator foaf:familyName ?sobrenome_ator.
+	?filme onto:nome_filme ?nome_filme}
+
+---------------------------------------------------
+
+Quais filmes foram dirigidos pelo diretor D?
+
+SELECT ?nome_filme ?nome_diretor ?sobrenome_diretor
+	WHERE { 
+	?filme foaf:maker ?diretor.
+
+	?filme rdf:type onto:Filme.
+	?diretor rdf:type onto:Diretor.
+	?diretor foaf:firstName "Anthony"@en.
+
+	?diretor foaf:firstName ?nome_diretor.
+	?diretor foaf:familyName ?sobrenome_diretor.
+	?filme onto:nome_filme ?nome_filme}
+
+ou
+
+SELECT ?nome_filme
+	WHERE { 
+	?filme foaf:maker onto:Anthony_Russo.
+	
+	?filme onto:nome_filme ?nome_filme}
+
+---------------------------------------------------
+
+Em quais filmes o ator X atuou?
+
+SELECT ?nome_ator ?sobrenome_ator ?nome_filme
+	WHERE { 
+	?ator onto:e_membro ?elenco.
+	?elenco onto:estrelado ?filme.
+	?ator foaf:firstName "Scarlett"@en.
+
+	?ator rdf:type onto:Ator.
+	?elenco rdf:type onto:Elenco.
+	?filme rdf:type onto:Filme.
+
+	?ator foaf:firstName ?nome_ator.
+	?ator foaf:familyName ?sobrenome_ator.
+	?filme onto:nome_filme ?nome_filme}
+
+ou
+
+SELECT ?nome_filme
+	WHERE { 
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson.
+
+	?filme onto:nome_filme ?nome_filme.}
+
+---------------------------------------------------
+
+Em quais filmes o ator X atuou junto com Y?
+
+SELECT ?nome_filme
+	WHERE { 
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson;
+		foaf:member onto:Chris_Evans.
+
+	?filme onto:nome_filme ?nome_filme.}
+
+---------------------------------------------------
+
+Quem foram os diretores dos filmes nos quais os atores X e Y atuam juntos?
+
+SELECT ?nome_diretor ?sobrenome_diretor
+	WHERE { 
+	?diretor foaf:made ?filme.
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson;
+		foaf:member onto:Kon.
+
+	?diretor foaf:firstName ?nome_diretor.
+	?diretor foaf:familyName ?sobrenome_diretor.}
+
+ou para não mostrar duplicado
+
+SELECT DISTINCT ?diretor
+	WHERE { 
+	?diretor foaf:made ?filme.
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson;
+		foaf:member onto:Chris_Evans.}
+
+---------------------------------------------------
+
+Qual o diretor que mais dirigiu filmes do ator X?
+
+SELECT ?diretor (COUNT(?diretor) as ?quantidade_de_filmes)
+	WHERE { 
+	?diretor foaf:made ?filme.
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson.
+
+	?diretor rdf:type onto:Diretor}
+	GROUP BY ?diretor
+	ORDER BY DESC (?filmes)
+	LIMIT 1
+
+---------------------------------------------------
+
+Qual o ator que mais aparece nos filmes do diretor D?
+
+SELECT ?ator (COUNT(?ator) as ?quantidade_de_filmes)
+	WHERE { 
+	?ator onto:e_membro ?elenco.
+	?elenco onto:estrelado ?filme.
+	?filme foaf:maker onto:Anthony_Russo.
+
+	?ator rdf:type onto:Ator.
+	 }
+	GROUP BY ?ator
+	ORDER BY DESC (?quantidade_de_filmes)
+	LIMIT 1
+
+---------------------------------------------------
+
+Entre os anos N1 e N2, quais diretores dirigiram filmes onde X e Y aparecem?
+
+SELECT DISTINCT ?diretor
+	WHERE { 
+	?diretor foaf:made ?filme.
+	?filme onto:estrela ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson;
+		foaf:member onto:Robert_Downey_Jr.
+	
+	?filme onto:ano_lancamento ?ano
+
+	FILTER (?ano > 2015)
+	FILTER (?ano < 2017)}
+
+---------------------------------------------------
+
+Entre os anos N1 e N2, quais atores atuaram juntos nos filmes onde X e Y aparecem?
+
+SELECT DISTINCT ?ator
+	WHERE { 
+	?ator onto:e_membro ?elenco.
+	?elenco foaf:member onto:Scarlett_Johansson;
+		foaf:member onto:Chris_Evans.
+	?elenco onto:estrelado ?filme.
+
+	?filme onto:ano_lancamento ?ano
+
+	FILTER (?ano > 2010 && 
+		?ano < 2015 && 
+		?ator != onto:Scarlett_Johansson &&
+		?ator != onto:Chris_Evans)
+	}
+
+---------------------------------------------------
+
+Quais filmes do diretor do filme F possuem X ou Y como atores?
+
+SELECT DISTINCT ?filme
+	WHERE { 
+		{
+		?filme foaf:maker ?diretor.
+		?diretor foaf:made onto:Capitao_America_3_A_Guerra_Civil.
+		?filme onto:estrela ?elenco.
+		?elenco foaf:member onto:Chris_Evans
+		}
+
+		UNION
+
+		{
+		?filme foaf:maker ?diretor.
+		?diretor foaf:made onto:Capitao_America_3_A_Guerra_Civil.
+		?filme onto:estrela ?elenco.
+		?elenco foaf:member onto:Scarlett_Johansson
+		}
+
+		FILTER (?filme != onto:Capitao_America_3_A_Guerra_Civil)
+	}
+
+
+
+
+// comparar inteiros
+SELECT ?filme
+	WHERE { ?filme onto:ano_lancamento 2015}
+
+// comparar strings. Precisa dizer qual é o idioma com @
+SELECT ?diretor ?name
+	WHERE { 
+	?diretor rdf:type onto:Diretor.
+	?diretor foaf:firstName "Renata"@pt.
+	?diretor foaf:firstName ?name}
+
+// listar propriedades
+SELECT ?diretor ?property ?value
+	WHERE { ?diretor rdf:type onto:Diretor.
+		?diretor ?property ?value}

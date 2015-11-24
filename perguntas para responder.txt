@@ -1,0 +1,10 @@
+Quais atores participaram do filme F?
+Quais filmes foram dirigidos pelo diretor D?
+Em quais filmes o ator X atuou?
+Em quais filmes o ator X atuou junto com Y?
+Quem foram os diretores dos filmes nos quais os atores X e Y atuam juntos?
+Qual o diretor que mais dirigiu filmes do ator X?
+Qual o ator que mais aparece nos filmes do diretor D?
+Entre os anos N1 e N2, quais diretores dirigiram filmes onde X e Y aparecem?
+Entre os anos N1 e N2, quais atores atuaram juntos nos filmes onde X e Y aparecem?
+Quais filmes do diretor do filme F possuem X ou Y como atores?
