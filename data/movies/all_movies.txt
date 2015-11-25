@@ -45,7 +45,7 @@ CAST
 	Johnny Depp
 	Antonio Gil
 	JJ Holiday
-	João Costa Menezes
+	Joao Costa Menezes
 	Alfred Molina
 	Hugh OConor
 	Aurelien Parent Koenig
@@ -4178,7 +4178,7 @@ CAST
 	Timothy Everett Moore
 	Don Pugsley
 	Zoltan Seress
-	Andras Szöke
+	Andras Szoke
 	Zsolt Zagoni
 	Kati Bacs
 	Agnes Banfalvy
@@ -4203,7 +4203,7 @@ CAST
 	Jacqueline Steiger
 	Klaudia Szabo
 	Zsuzsa Szager
-	Éva Szörenyi
+	Éva Szorenyi
 	Mae Whitman
 MOVIE
 	Annie Hall
@@ -8404,7 +8404,7 @@ CAST
 	Clint Eastwood
 	Jonah Hill
 	Philip Seymour Hoffman
-	Mikael Hafström
+	Mikael Hafstrom
 	Muramasa Kudo
 	John Legend
 	Richard Lewis
@@ -12058,7 +12058,7 @@ CAST
 	Richard McCabe
 	Henry McCook
 	Joshua McGuire
-	João Costa Menezes
+	Joao Costa Menezes
 	Stuart Neal
 	Josh OConnor
 	Jonny Owen-Last
@@ -12808,7 +12808,7 @@ CAST
 	Nic Main
 	Tony Maudsley
 	Ian McDiarmid
-	João Costa Menezes
+	Joao Costa Menezes
 	Marc Pickering
 	Orlando Seale
 	Robert Sella
@@ -13700,7 +13700,7 @@ CAST
 	Joseph Goebbels
 	Gordon Gould
 	Harold Red Grange
-	Hermann Göring
+	Hermann Goring
 	George Hamlin
 	Gale Hansen
 	William Randolph Hearst
