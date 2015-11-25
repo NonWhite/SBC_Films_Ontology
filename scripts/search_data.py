@@ -1,6 +1,6 @@
 import sys
 
-FILES = [ '../data/actors.list' , '../data/actresses.list' , '../data/directors.list' ]
+FILES = [ '../raw_data/actors.list' , '../raw_data/actresses.list' , '../raw_data/directors.list' ]
 TO_PRUNE = [ '(TV)' , '(V)' , '{' , '(voice)' , '(archive footage)' , '(uncredited)' , '(VG)' , '(????)' ]
 
 def parse( fpath , search ) :
