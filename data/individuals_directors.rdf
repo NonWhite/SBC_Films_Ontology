@@ -1,0 +1,1729 @@
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Cameron_Crowe">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Cameron</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Crowe</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;We_Bought_a_Zoo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Terry_Gilliam">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Terry</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gilliam</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Fear_and_Loathing_in_Las_Vegas"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Imaginarium_of_Doctor_Parnassus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Brian_Robbins">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Brian</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Robbins</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Perfect_Score"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tim_Burton">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Tim</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Burton</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Charlie_and_the_Chocolate_Factory"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Luau"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Ed_Wood"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Mars_Attacks"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Alice_in_Wonderland"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Corpse_Bride"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Frankenweenie"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Planet_of_the_Apes"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Beetlejuice"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Batman_Returns"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Big_Fish"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_World_of_Stainboy"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Vincent"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Island_of_Doctor_Agor"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Doctor_of_Doom"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sleepy_Hollow"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Big_Eyes"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Edward_Scissorhands"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dark_Shadows"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sweeney_Todd_The_Demon_Barber_of_Fleet_Street"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Batman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joe_Russo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joe</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Russo</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Captain_America_The_Winter_Soldier"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Captain_America_Civil_War"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Julian_Schnabel">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Julian</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Schnabel</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Before_Night_Falls"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ken_Watanabe">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ken</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Watanabe</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Unite_for_Japan"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Matt_McNally">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Matt</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">McNally</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Movie_Rush"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hans_Fjellestad">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Hans</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Fjellestad</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sunset_Strip"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Woody_Allen">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Woody</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Allen</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Shadows_and_Fog"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hannah_and_Her_Sisters"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Purple_Rose_of_Cairo"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Celebrity"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Alice"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hollywood_Ending"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Everyone_Says_I_Love_You"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Radio_Days"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Midnight_in_Paris"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Whatever_Works"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Magic_in_the_Moonlight"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Broadway_Danny_Rose"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Annie_Hall"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Irrational_Man"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Manhattan_Murder_Mystery"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;You_Will_Meet_a_Tall_Dark_Stranger"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Melinda_and_Melinda"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Deconstructing_Harry"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Everything_You_Always_Wanted_to_Know_About_Sex_But_Were_Afraid_to_Ask"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Match_Point"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Love_and_Death"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Bullets_Over_Broadway"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Anything_Else"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;To_Rome_with_Love"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Scoop"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;September"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Untitled_Woody_Allen_Project"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Vicky_Cristina_Barcelona"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Another_Woman"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Crimes_and_Misdemeanors"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Small_Time_Crooks"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Take_the_Money_and_Run"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Husbands_and_Wives"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Mighty_Aphrodite"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;New_York_Stories"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Stardust_Memories"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sweet_and_Lowdown"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Zelig"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Manhattan"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Curse_of_the_Jade_Scorpion"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Blue_Jasmine"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Interiors"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sleeper"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Bananas"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Paul_Greengrass">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Paul</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Greengrass</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Theory_of_Flight"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;John_Waters">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">John</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Waters</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;CryBaby"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pierre_Cavassilas">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pierre</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Cavassilas</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hamlet"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Shari_Springer_Berman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Shari</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Springer Berman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Nanny_Diaries"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Charlie_Paul">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Charlie</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Paul</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;For_No_Good_Reason"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Espen_Sandberg">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Espen</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Sandberg</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fritz_Muri">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Fritz</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Muri</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Marc_Forster_Der_Weg_zu_007"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;CINEMAsuisse_Marc_Forster"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gerardo_Vera">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Gerardo</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Vera</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Segunda_piel"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jeremiah_S_Chechik">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jeremiah</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">S Chechik</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Benny_&_Joon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gore_Verbinski">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Gore</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Verbinski</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_Dead_Mans_Chest"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Lone_Ranger"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_At_Worlds_End"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dennis_Lauengco">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Dennis</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Lauengco</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dark_Shadows"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ethan_Coen">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ethan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Coen</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Man_Who_Wasnt_There"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hail_Caesar"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;No_Country_for_Old_Men"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Wally_Pfister">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Wally</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Pfister</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Transcendence"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Nick_Bridger">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Nick</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bridger</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_At_Worlds_End"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Daniel_Nyiri">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Daniel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Nyiri</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Six_Minutes_with_Ludwig"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_Bierman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bierman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Keep_the_Aspidistra_Flying"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Michael_Petroni">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Michael</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Petroni</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Till_Human_Voices_Wake_Us"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Imanol_Uribe">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Imanol</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Uribe</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dias_contados"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Thomas_Rigler">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Thomas</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Rigler</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Extreme_Close_Up_with"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Michael_Mann">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Michael</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Mann</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Collateral"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Public_Enemies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mariano_Barroso">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mariano</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Barroso</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Extasis"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Los_lobos_de_Washington"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Eduardo_Airoso">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Eduardo</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Airoso</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Cartaz_Cultural"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Raja_Gosnell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Raja</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gosnell</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Home_Alone_3"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fiorella_Infascelli">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Fiorella</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Infascelli</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;La_maschera"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Iain_Softley">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Iain</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Softley</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Wings_of_the_Dove"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mike_Barker">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mike</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Barker</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;A_Good_Woman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ridley_Scott">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ridley</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Scott</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Counselor"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pedro_Perez_Jimenez">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pedro</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Perez Jimenez</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Mambru"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Paul_Weitz">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Paul</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Weitz</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;In_Good_Company"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Laurence_Dunmore">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Laurence</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Dunmore</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Libertine"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rob_Marshall">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rob</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Marshall</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_On_Stranger_Tides"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Into_the_Woods"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pierre_Morel">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pierre</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Morel</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Gunman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Thaddeus_OSullivan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Thaddeus</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">OSullivan</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Heart_of_Me"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joao_Pelica">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joao</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Pelica</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Jet_7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Kenneth_Branagh">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Kenneth</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Branagh</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Frankenstein"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Cinderella"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;JeanPierre_Jeunet">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jean-Pierre</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Jeunet</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Young_and_Prodigious_TS_Spivet"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Milos_Forman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Milos</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Forman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Goyas_Ghosts"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lasse_Hallstrom">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Lasse</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Hallstrom</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Chocolat"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Whats_Eating_Gilbert_Grape"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Wes_Craven">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Wes</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Craven</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;A_Nightmare_on_Elm_Street"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Coky_Giedroyc">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Coky</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Giedroyc</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Women_Talking_Dirty"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jeremy_Leven">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jeremy</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Leven</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Don_Juan_DeMarco"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manuel_Gomez_Pereira">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Manuel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gomez Pereira</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Boca_a_boca"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;El_amor_perjudica_seriamente_la_salud"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Entre_las_piernas"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Yvan_Attal">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Yvan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Attal</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Ils_se_marierent_et_eurent_beaucoup_denfants"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sally_Potter">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sally</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Potter</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Man_Who_Cried"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Chuck_Workman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Chuck</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Workman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Source_The_Story_of_the_Beats_and_the_Beat_Generation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Laurie_Frank">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Laurie</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Frank</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dummies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joss_Whedon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joss</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Whedon</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Avengers"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Avengers_Age_of_Ultron"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lisa_Krueger">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Lisa</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Krueger</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Manny_&_Lo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mike_Newell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mike</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Newell</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Donnie_Brasco"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Love_in_the_Time_of_Cholera"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Great_Expectations"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sarah_Gavron">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sarah</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gavron</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Suffragette"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;James_Bobin">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">James</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bobin</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Alice_Through_the_Looking_Glass"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Charles_Sturridge">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Charles</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Sturridge</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Where_Angels_Fear_to_Tread"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Scott_Cooper">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Scott</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Cooper</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Black_Mass"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joachim_Ronning">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joachim</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ronning</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jose_Maria_Borrell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jose</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Maria Borrell</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;El_mundo_es_tuyo"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Las_Alas_del_Fenix"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_B_Weide">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">B Weide</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Woody_Allen_A_Documentary"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ken_Kwapis">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ken</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Kwapis</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hes_Just_Not_That_Into_You"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Shannah_Laumeister">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Shannah</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Laumeister</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Bert_Stern_Original_Madman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mort_Ransen">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mort</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ransen</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Margarets_Museum"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jon_Favreau">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jon</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Favreau</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Chef"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Iron_Man_2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mathieu_Bitton">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mathieu</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bitton</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Looking_Back_on_Love_Making_Black_and_White_America"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Charlie_Sheen">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Charlie</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Sheen</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;RPG_II"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;RPG"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Kevin_Smith">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Kevin</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Smith</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Tusk"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Yoga_Hosers"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pedro_Almodovar">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pedro</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Almodovar</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Carne_tremula"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Tacones_lejanos"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;David_Atkins">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">David</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Atkins</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Novocaine"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Julian_Starks">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Julian</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Starks</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Journey_to_Sundance"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rupert_Sanders">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rupert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Sanders</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Ghost_in_the_Shell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Cindy_Meehl">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Cindy</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Meehl</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Buck"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Malcolm_Mowbray">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Malcolm</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Mowbray</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Revengers_Comedies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jim_Jarmusch">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jim</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Jarmusch</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dead_Man"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ellory_Elkayem">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ellory</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Elkayem</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Eight_Legged_Freaks"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Liliana_Cavani">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Liliana</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Cavani</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Francesco"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Thierry_Coup">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Thierry</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Coup</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_Escape_from_Gringotts"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Florian_Henckel_von_Donnersmarck">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Florian</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Henckel von Donnersmarck</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Tourist"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mark_Pellington">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mark</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Pellington</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;United_States_of_Poetry"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hans_Canosa">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Hans</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Canosa</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Conversations_with_Other_Women"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Javier_Aguirre">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Javier</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Aguirre</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Variaciones_1113"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Brian_De_Palma">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Brian</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">De Palma</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Black_Dahlia"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Bigas_Luna">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Bigas</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Luna</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;La_teta_y_la_luna"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Las_edades_de_Lulu"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Huevos_de_oro"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Jamon_Jamon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Peter_Webber">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Peter</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Webber</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Girl_with_a_Pearl_Earring"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joel_Coen">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Coen</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Man_Who_Wasnt_There"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hail_Caesar"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;No_Country_for_Old_Men"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Juanma_Bajo_Ulloa">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Juanma</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bajo Ulloa</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Airbag"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Richard_Martini">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Richard</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Martini</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Cannes_Man"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;James_Ivory">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">James</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ivory</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Howards_End"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;A_Room_with_a_View"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Wayne_Ewing">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Wayne</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ewing</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Breakfast_with_Hunter"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sofia_Coppola">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sofia</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Coppola</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Lost_in_Translation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_Pulcini">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Pulcini</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Nanny_Diaries"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;John_Badham">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">John</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Badham</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Nick_of_Time"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Michael_Bay">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Michael</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bay</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Island"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Shainee_Gabel">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Shainee</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gabel</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;A_Love_Song_for_Bobby_Long"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alex_de_la_Iglesia">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Alex</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">de la Iglesia</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Perdita_Durango"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Marc_Forster">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Marc</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Forster</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Finding_Neverland"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;David_Yates">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">David</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Yates</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_Deathly_Hallows_Part_1"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_Deathly_Hallows_Part_2"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_Order_of_the_Phoenix"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_HalfBlood_Prince"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Michael_McCormick">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Michael</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">McCormick</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Iron_Man_2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Laurent_Bouzereau">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Laurent</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bouzereau</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Dont_Say_No_Until_I_Finish_Talking_The_Story_of_Richard_D_Zanuck"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Eva_Gardos">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Eva</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gardos</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;An_American_Rhapsody"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rob_Reiner">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rob</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Reiner</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;North"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Santiago_Zannou">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Santiago</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Zannou</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Alacran_enamorado"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alex_Gibney">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Alex</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gibney</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Gonzo_The_Life_and_Work_of_Dr_Hunter_S_Thompson"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gabriel_Friedman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Gabriel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Friedman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;All_the_Love_You_Cannes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;George_Bowers">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">George</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bowers</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Private_Resort"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lloyd_Kaufman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Lloyd</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Kaufman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;All_the_Love_You_Cannes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ryan_Murphy">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ryan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Murphy</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Eat_Pray_Love"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ted_Demme">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ted</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Demme</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Blow"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joseph_GordonLevitt">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Joseph</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gordon-Levitt</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Don_Jon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Eric_Schaeffer">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Eric</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Schaeffer</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;If_Lucy_Fell"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Fall"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Juan_Antonio_Bardem">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Juan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Antonio Bardem</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Resultado_final"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sam_Mendes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sam</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Mendes</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Skyfall"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ralph_Palmer">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ralph</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Palmer</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_HalfBlood_Prince"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ulf_Andersson">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Ulf</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Andersson</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Terminator_Salvation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Arne_Glimcher">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Arne</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Glimcher</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Just_Cause"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sean_McGrath">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sean</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">McGrath</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;All_the_Love_You_Cannes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Julien_Temple">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Julien</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Temple</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Joe_Strummer_The_Future_Is_Unwritten"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_Taylor">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Taylor</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Iron_Man_2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Erik_Fleming">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Erik</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Fleming</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;My_Brother_the_Pig"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Justin_Chadwick">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Justin</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Chadwick</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Other_Boleyn_Girl"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Franco_Zeffirelli">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Franco</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Zeffirelli</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hamlet"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Antonio_Mollà">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Antonio</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Mollà</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Pronostic_reservat"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Johnny_Depp">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Johnny</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Depp</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Brave"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tom_Thurman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Tom</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Thurman</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Buy_the_Ticket_Take_the_Ride_Hunter_S_Thompson_on_Film"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_Rodriguez">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Rodriguez</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Once_Upon_a_Time_in_Mexico"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tom_Hooper">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Tom</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Hooper</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Kings_Speech"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Oliver_Stone">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Oliver</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Stone</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Platoon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Henry_Ferrini">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Henry</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ferrini</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Lowell_Blues_The_Words_of_Jack_Kerouac"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Matt_Birch">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Matt</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Birch</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Harry_Potter_and_the_Order_of_the_Phoenix"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mary_Kerr">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mary</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Kerr</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Radioman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Emilio_Martinez_Lazaro">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Emilio</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Martinez Lazaro</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Amo_tu_cama_rica"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Miguel_Bardem">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Miguel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Bardem</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;La_madre"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Emir_Kusturica">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Emir</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Kusturica</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Arizona_Dream"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Albert_Hughes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Albert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Hughes</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;From_Hell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Randal_Kleiser">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Randal</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Kleiser</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Getting_It_Right"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Megan_Griffiths">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Megan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Griffiths</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Lucky_Them"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Bruce_Robinson">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Bruce</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Robinson</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Rum_Diary"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rand_Ravich">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rand</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ravich</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Astronauts_Wife"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Michael_Conroy">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Michael</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Conroy</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Alice_in_Wonderland"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Terrence_Malick">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Terrence</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Malick</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;To_the_Wonder"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Trevor_Nunn">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Trevor</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Nunn</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Lady_Jane"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Twelfth_Night_or_What_You_Will"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gaby_Dellal">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Gaby</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Dellal</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Football"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Andre_Ferreira">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Andre</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ferreira</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Jet_7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Frank_Miller">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Frank</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Miller</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Spirit"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sean_Penn">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sean</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Penn</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Last_Face"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Aaron_T_Wells">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Aaron</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">T Wells</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Rock_and_a_Hard_Place_Another_Night_at_the_Agora"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sancho_Gracia">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sancho</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gracia</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Huidos"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sacha_Gervasi">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Sacha</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gervasi</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Hitchcock"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tiziano_Sossi">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Tiziano</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Sossi</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Close_Up"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mari_Navarro">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Mari</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Navarro</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;El_dia_por_delante"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Robert_Redford">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Robert</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Redford</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Horse_Whisperer"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jonathan_Glazer">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jonathan</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Glazer</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Under_the_Skin"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;David_Fincher">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">David</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Fincher</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Fight_Club"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pau_De_La_Sierra">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pau</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">De La Sierra</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Brain"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Paul_Weiland">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Paul</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Weiland</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sixty_Six"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Anthony_Russo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Anthony</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Russo</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Captain_America_The_Winter_Soldier"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Captain_America_Civil_War"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Roman_Polanski">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Roman</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Polanski</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;A_Therapy"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Ninth_Gate"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Richard_Ryan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Richard</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ryan</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Taste_of_Hollywood"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Allen_Hughes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Allen</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Hughes</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;From_Hell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fernando_Leon_de_Aranoa">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Fernando</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Leon de Aranoa</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Los_lunes_al_sol"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Martine_Dugowson">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Martine</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Dugowson</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Portraits_chinois"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Richard_Schickel">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Richard</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Schickel</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Charlie_The_Life_and_Art_of_Charles_Chaplin"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pepita_Ferrari">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Pepita</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Ferrari</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Petticoat_Expeditions"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Christopher_Nolan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Christopher</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Nolan</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Prestige"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Terry_Zwigoff">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Terry</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Zwigoff</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Ghost_World"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rachel_Talalay">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rachel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Talalay</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Freddys_Dead_The_Final_Nightmare"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Daniel_Tarr">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Daniel</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Tarr</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Sherman_and_Pacifico"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;David_Koepp">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">David</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Koepp</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Mortdecai"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Secret_Window"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Carlos_Pedro_Dias">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Carlos</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Pedro Dias</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Cartaz_Cultural"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jasmine_Dellal">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Jasmine</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Dellal</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;When_the_Road_Bends_Tales_of_a_Gypsy_Caravan"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rick_McKay">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Rick</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">McKay</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Broadway_The_Next_Generation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Luc_Besson">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Luc</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Besson</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Lucy"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alejandro_Gonzalez_Inarritu">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Alejandro</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Gonzalez Inarritu</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Biutiful"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gonzalo_Suarez">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">Gonzalo</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Suarez</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;El_detective_y_la_muerte"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;John_Malkovich">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
+	<rdf:type rdf:resource="&renata;FOAF-modifiedPerson"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Diretor"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+	<renata:FOAF-modifiedfirstName xml:lang="en">John</renata:FOAF-modifiedfirstName>
+	<renata:FOAF-modifiedfamilyName xml:lang="en">Malkovich</renata:FOAF-modifiedfamilyName>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;The_Dancer_Upstairs"/>
+</owl:NamedIndividual>

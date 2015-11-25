@@ -1,0 +1,2108 @@
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;El_detective_y_la_muerte">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">El detective y la muerte</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gonzalo_Suarez"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_El_detective_y_la_muerte"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lowell_Blues_The_Words_of_Jack_Kerouac">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Lowell Blues The Words of Jack Kerouac</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Henry_Ferrini"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Lowell_Blues_The_Words_of_Jack_Kerouac"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Chocolat">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Chocolat</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lasse_Hallstrom"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Chocolat"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Charlie_and_the_Chocolate_Factory">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Charlie and the Chocolate Factory</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Charlie_and_the_Chocolate_Factory"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Counselor">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Counselor</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ridley_Scott"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Counselor"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Joe_Strummer_The_Future_Is_Unwritten">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Joe Strummer The Future Is Unwritten</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Julien_Temple"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Joe_Strummer_The_Future_Is_Unwritten"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Heart_of_Me">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Heart of Me</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Thaddeus_OSullivan"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Heart_of_Me"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Shadows_and_Fog">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1991</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Shadows and Fog</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Shadows_and_Fog"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Chef">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Chef</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jon_Favreau"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Chef"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Collateral">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Collateral</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_Mann"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Collateral"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Segunda_piel">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Segunda piel</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gerardo_Vera"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Segunda_piel"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Captain_America_The_Winter_Soldier">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Captain America The Winter Soldier</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Anthony_Russo"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joe_Russo"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Captain_America_The_Winter_Soldier"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hannah_and_Her_Sisters">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1986</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hannah and Her Sisters</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hannah_and_Her_Sisters"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Purple_Rose_of_Cairo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1985</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Purple Rose of Cairo</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Purple_Rose_of_Cairo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;A_Nightmare_on_Elm_Street">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1984</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">A Nightmare on Elm Street</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Wes_Craven"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_A_Nightmare_on_Elm_Street"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Keep_the_Aspidistra_Flying">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Keep the Aspidistra Flying</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_Bierman"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Keep_the_Aspidistra_Flying"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;For_No_Good_Reason">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">For No Good Reason</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Charlie_Paul"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_For_No_Good_Reason"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Avengers">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Avengers</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joss_Whedon"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Avengers"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Football">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Football</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gaby_Dellal"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Football"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Luau">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1982</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Luau</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Luau"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Eight_Legged_Freaks">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Eight Legged Freaks</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ellory_Elkayem"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Eight_Legged_Freaks"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sixty_Six">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sixty Six</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Paul_Weiland"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sixty_Six"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Biutiful">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Biutiful</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Alejandro_Gonzalez_Inarritu"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Biutiful"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Under_the_Skin">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Under the Skin</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jonathan_Glazer"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Under_the_Skin"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Island">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Island</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_Bay"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Island"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Gonzo_The_Life_and_Work_of_Dr_Hunter_S_Thompson">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Gonzo The Life and Work of Dr Hunter S Thompson</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Alex_Gibney"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Gonzo_The_Life_and_Work_of_Dr_Hunter_S_Thompson"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Where_Angels_Fear_to_Tread">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1991</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Where Angels Fear to Tread</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Charles_Sturridge"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Where_Angels_Fear_to_Tread"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;If_Lucy_Fell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">If Lucy Fell</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Eric_Schaeffer"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_If_Lucy_Fell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ed_Wood">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Ed Wood</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ed_Wood"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hitchcock">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hitchcock</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sacha_Gervasi"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hitchcock"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;El_mundo_es_tuyo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">El mundo es tuyo</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jose_Maria_Borrell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_El_mundo_es_tuyo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;A_Therapy">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">A Therapy</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Roman_Polanski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_A_Therapy"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Celebrity">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Celebrity</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Celebrity"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mars_Attacks">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Mars Attacks!</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Mars_Attacks"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alice">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1990</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Alice</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Alice"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Carne_tremula">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Carne tremula</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pedro_Almodovar"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Carne_tremula"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alice_in_Wonderland">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Alice in Wonderland</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_Conroy"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Alice_in_Wonderland"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pirates_of_the_Caribbean_On_Stranger_Tides">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pirates of the Caribbean On Stranger Tides</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rob_Marshall"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_On_Stranger_Tides"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;From_Hell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">From Hell</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Albert_Hughes"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Allen_Hughes"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_From_Hell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Breakfast_with_Hunter">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Breakfast with Hunter</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Wayne_Ewing"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Breakfast_with_Hunter"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Huidos">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Huidos</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sancho_Gracia"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Huidos"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;La_madre">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">La madre</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Miguel_Bardem"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_La_madre"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;All_the_Love_You_Cannes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">All the Love You Cannes!</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gabriel_Friedman"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lloyd_Kaufman"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sean_McGrath"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_All_the_Love_You_Cannes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Novocaine">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Novocaine</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Atkins"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Novocaine"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hollywood_Ending">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hollywood Ending</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hollywood_Ending"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Revengers_Comedies">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Revengers Comedies</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Malcolm_Mowbray"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Revengers_Comedies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Eat_Pray_Love">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Eat Pray Love</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ryan_Murphy"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Eat_Pray_Love"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Everyone_Says_I_Love_You">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Everyone Says I Love You</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Everyone_Says_I_Love_You"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lady_Jane">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1986</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Lady Jane</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Trevor_Nunn"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Lady_Jane"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Wings_of_the_Dove">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Wings of the Dove</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Iain_Softley"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Wings_of_the_Dove"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Last_Face">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Last Face</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sean_Penn"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Last_Face"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Bert_Stern_Original_Madman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Bert Stern Original Madman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Shannah_Laumeister"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Bert_Stern_Original_Madman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Radio_Days">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1987</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Radio Days</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Radio_Days"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Boca_a_boca">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Boca a boca</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Manuel_Gomez_Pereira"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Boca_a_boca"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Midnight_in_Paris">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Midnight in Paris</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Midnight_in_Paris"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Las_Alas_del_Fenix">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Las Alas del Fenix</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jose_Maria_Borrell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Las_Alas_del_Fenix"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Airbag">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Airbag</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Juanma_Bajo_Ulloa"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Airbag"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Harry_Potter_and_the_Escape_from_Gringotts">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Harry Potter and the Escape from Gringotts</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Thierry_Coup"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Harry_Potter_and_the_Escape_from_Gringotts"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Corpse_Bride">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Corpse Bride</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Corpse_Bride"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Man_Who_Wasnt_There">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Man Who Wasnt There</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ethan_Coen"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joel_Coen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Man_Who_Wasnt_There"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Looking_Back_on_Love_Making_Black_and_White_America">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Looking Back on Love Making Black and White America</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mathieu_Bitton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Looking_Back_on_Love_Making_Black_and_White_America"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;We_Bought_a_Zoo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">We Bought a Zoo</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Cameron_Crowe"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_We_Bought_a_Zoo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Nanny_Diaries">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Nanny Diaries</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Shari_Springer_Berman"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_Pulcini"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Nanny_Diaries"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Whatever_Works">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Whatever Works</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Whatever_Works"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Magic_in_the_Moonlight">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Magic in the Moonlight</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Magic_in_the_Moonlight"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Into_the_Woods">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Into the Woods</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rob_Marshall"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Into_the_Woods"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Till_Human_Voices_Wake_Us">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Till Human Voices Wake Us</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_Petroni"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Till_Human_Voices_Wake_Us"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Amo_tu_cama_rica">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Amo tu cama rica</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Emilio_Martinez_Lazaro"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Amo_tu_cama_rica"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Source_The_Story_of_the_Beats_and_the_Beat_Generation">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Source The Story of the Beats and the Beat Generation</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Chuck_Workman"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Source_The_Story_of_the_Beats_and_the_Beat_Generation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Broadway_Danny_Rose">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1984</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Broadway Danny Rose</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Broadway_Danny_Rose"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Donnie_Brasco">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Donnie Brasco</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mike_Newell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Donnie_Brasco"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;An_American_Rhapsody">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">An American Rhapsody</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Eva_Gardos"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_An_American_Rhapsody"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Annie_Hall">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1977</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Annie Hall</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Annie_Hall"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hamlet">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1990</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hamlet</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pierre_Cavassilas"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Franco_Zeffirelli"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hamlet"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Irrational_Man">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Irrational Man</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Irrational_Man"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manhattan_Murder_Mystery">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Manhattan Murder Mystery</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Manhattan_Murder_Mystery"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sunset_Strip">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sunset Strip</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Hans_Fjellestad"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sunset_Strip"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Dancer_Upstairs">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Dancer Upstairs</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;John_Malkovich"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Dancer_Upstairs"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;You_Will_Meet_a_Tall_Dark_Stranger">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">You Will Meet a Tall Dark Stranger</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_You_Will_Meet_a_Tall_Dark_Stranger"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Melinda_and_Melinda">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Melinda and Melinda</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Melinda_and_Melinda"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Theory_of_Flight">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Theory of Flight</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Paul_Greengrass"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Theory_of_Flight"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Twelfth_Night_or_What_You_Will">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Twelfth Night or What You Will</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Trevor_Nunn"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Twelfth_Night_or_What_You_Will"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pronostic_reservat">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pronostic reservat</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Antonio_Mollà"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pronostic_reservat"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;A_Love_Song_for_Bobby_Long">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">A Love Song for Bobby Long</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Shainee_Gabel"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_A_Love_Song_for_Bobby_Long"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Frankenstein">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Frankenstein</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Kenneth_Branagh"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Frankenstein"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Public_Enemies">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Public Enemies</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_Mann"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Public_Enemies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Deconstructing_Harry">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Deconstructing Harry</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Deconstructing_Harry"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Everything_You_Always_Wanted_to_Know_About_Sex_But_Were_Afraid_to_Ask">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1972</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Everything You Always Wanted to Know About Sex * But Were Afraid to Ask</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Everything_You_Always_Wanted_to_Know_About_Sex_But_Were_Afraid_to_Ask"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Skyfall">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Skyfall</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sam_Mendes"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Skyfall"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Just_Cause">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Just Cause</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Arne_Glimcher"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Just_Cause"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Match_Point">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Match Point</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Match_Point"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Petticoat_Expeditions">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Petticoat Expeditions</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pepita_Ferrari"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Petticoat_Expeditions"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Tourist">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Tourist</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Florian_Henckel_von_Donnersmarck"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Tourist"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alacran_enamorado">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Alacran enamorado</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Santiago_Zannou"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Alacran_enamorado"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pirates of the Caribbean The Curse of the Black Pearl</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gore_Verbinski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dead_Man">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Dead Man</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jim_Jarmusch"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Dead_Man"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Love_and_Death">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1975</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Love and Death</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Love_and_Death"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Bullets_Over_Broadway">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Bullets Over Broadway</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Bullets_Over_Broadway"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fear_and_Loathing_in_Las_Vegas">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Fear and Loathing in Las Vegas</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Terry_Gilliam"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Fear_and_Loathing_in_Las_Vegas"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Whats_Eating_Gilbert_Grape">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Whats Eating Gilbert Grape</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lasse_Hallstrom"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Whats_Eating_Gilbert_Grape"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Anything_Else">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Anything Else</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Anything_Else"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Libertine">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Libertine</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Laurence_Dunmore"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Libertine"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;To_Rome_with_Love">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">To Rome with Love</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_To_Rome_with_Love"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Howards_End">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Howards End</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;James_Ivory"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Howards_End"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Journey_to_Sundance">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Journey to Sundance</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Julian_Starks"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Journey_to_Sundance"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Spirit">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Spirit</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Frank_Miller"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Spirit"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ils_se_marierent_et_eurent_beaucoup_denfants">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Ils se marierent et eurent beaucoup denfants</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Yvan_Attal"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ils_se_marierent_et_eurent_beaucoup_denfants"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;In_Good_Company">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">In Good Company</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Paul_Weitz"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_In_Good_Company"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2017</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pirates of the Caribbean Dead Men Tell No Tales</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joachim_Ronning"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Espen_Sandberg"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Scoop">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Scoop</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Scoop"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;September">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1987</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">September</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_September"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ghost_in_the_Shell">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2017</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Ghost in the Shell</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rupert_Sanders"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ghost_in_the_Shell"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Untitled_Woody_Allen_Project">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Untitled Woody Allen Project</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Untitled_Woody_Allen_Project"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Vicky_Cristina_Barcelona">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Vicky Cristina Barcelona</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Vicky_Cristina_Barcelona"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Frankenweenie">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Frankenweenie</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Frankenweenie"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Brave">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Brave</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Johnny_Depp"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Brave"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Another_Woman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1988</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Another Woman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Another_Woman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Radioman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Radioman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mary_Kerr"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Radioman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Planet_of_the_Apes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Planet of the Apes</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Planet_of_the_Apes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Man_Who_Cried">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Man Who Cried</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sally_Potter"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Man_Who_Cried"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Crimes_and_Misdemeanors">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Crimes and Misdemeanors</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Crimes_and_Misdemeanors"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Private_Resort">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1985</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Private Resort</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;George_Bowers"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Private_Resort"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Beetlejuice">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1988</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Beetlejuice</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Beetlejuice"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Rum_Diary">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Rum Diary</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Bruce_Robinson"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Rum_Diary"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Conversations_with_Other_Women">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2005</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Conversations with Other Women</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Hans_Canosa"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Conversations_with_Other_Women"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;My_Brother_the_Pig">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">My Brother the Pig</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Erik_Fleming"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_My_Brother_the_Pig"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Small_Time_Crooks">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Small Time Crooks</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Small_Time_Crooks"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Unite_for_Japan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Unite for Japan</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ken_Watanabe"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Unite_for_Japan"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;RPG_II">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1988</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">RPG II</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Charlie_Sheen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_RPG_II"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lucky_Them">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Lucky Them</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Megan_Griffiths"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Lucky_Them"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mortdecai">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Mortdecai</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Koepp"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Mortdecai"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dias_contados">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Dias contados</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Imanol_Uribe"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Dias_contados"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hail_Caesar">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hail Caesar!</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ethan_Coen"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joel_Coen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hail_Caesar"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Marc_Forster_Der_Weg_zu_007">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Marc Forster - Der Weg zu 007</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Fritz_Muri"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Marc_Forster_Der_Weg_zu_007"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Perfect_Score">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Perfect Score</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Brian_Robbins"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Perfect_Score"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Prestige">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Prestige</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Christopher_Nolan"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Prestige"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Six_Minutes_with_Ludwig">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1988</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Six Minutes with Ludwig</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Daniel_Nyiri"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Six_Minutes_with_Ludwig"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Freddys_Dead_The_Final_Nightmare">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1991</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Freddys Dead The Final Nightmare</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rachel_Talalay"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Freddys_Dead_The_Final_Nightmare"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;North">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">North</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rob_Reiner"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_North"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;A_Good_Woman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">A Good Woman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mike_Barker"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_A_Good_Woman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Cannes_Man">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Cannes Man</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Richard_Martini"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Cannes_Man"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Batman_Returns">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Batman Returns</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Batman_Returns"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Astronauts_Wife">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Astronauts Wife</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rand_Ravich"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Astronauts_Wife"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Finding_Neverland">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Finding Neverland</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Marc_Forster"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Finding_Neverland"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Big_Fish">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Big Fish</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Big_Fish"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Goyas_Ghosts">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Goyas Ghosts</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Milos_Forman"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Goyas_Ghosts"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Take_the_Money_and_Run">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1969</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Take the Money and Run</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Take_the_Money_and_Run"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;No_Country_for_Old_Men">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">No Country for Old Men</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ethan_Coen"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joel_Coen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_No_Country_for_Old_Men"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Variaciones_1113">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Variaciones 1113</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Javier_Aguirre"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Variaciones_1113"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ghost_World">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Ghost World</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Terry_Zwigoff"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ghost_World"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Young_and_Prodigious_TS_Spivet">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Young and Prodigious TS Spivet</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;JeanPierre_Jeunet"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Young_and_Prodigious_TS_Spivet"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jet_7">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Jet 7</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Andre_Ferreira"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joao_Pelica"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Jet_7"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Girl_with_a_Pearl_Earring">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Girl with a Pearl Earring</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Peter_Webber"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Girl_with_a_Pearl_Earring"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;A_Room_with_a_View">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1985</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">A Room with a View</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;James_Ivory"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_A_Room_with_a_View"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Extasis">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Extasis</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mariano_Barroso"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Extasis"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Captain_America_Civil_War">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Captain America Civil War</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Anthony_Russo"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joe_Russo"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Captain_America_Civil_War"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Harry_Potter_and_the_Deathly_Hallows_Part_1">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Harry Potter and the Deathly Hallows Part 1</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Yates"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Harry_Potter_and_the_Deathly_Hallows_Part_1"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Harry_Potter_and_the_Deathly_Hallows_Part_2">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Harry Potter and the Deathly Hallows Part 2</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Yates"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Harry_Potter_and_the_Deathly_Hallows_Part_2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_World_of_Stainboy">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The World of Stainboy</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_World_of_Stainboy"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Getting_It_Right">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Getting It Right</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Randal_Kleiser"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Getting_It_Right"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Taste_of_Hollywood">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Taste of Hollywood</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Richard_Ryan"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Taste_of_Hollywood"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Vincent">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1982</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Vincent</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Vincent"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Woody_Allen_A_Documentary">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Woody Allen A Documentary</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_B_Weide"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Woody_Allen_A_Documentary"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Resultado_final">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Resultado final</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Juan_Antonio_Bardem"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Resultado_final"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Los_lobos_de_Washington">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Los lobos de Washington</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mariano_Barroso"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Los_lobos_de_Washington"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Island_of_Doctor_Agor">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1971</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Island of Doctor Agor</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Island_of_Doctor_Agor"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pirates_of_the_Caribbean_Dead_Mans_Chest">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pirates of the Caribbean Dead Mans Chest</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gore_Verbinski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_Dead_Mans_Chest"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Suffragette">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Suffragette</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sarah_Gavron"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Suffragette"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Arizona_Dream">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Arizona Dream</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Emir_Kusturica"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Arizona_Dream"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;La_teta_y_la_luna">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">La teta y la luna</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Bigas_Luna"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_La_teta_y_la_luna"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Husbands_and_Wives">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Husbands and Wives</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Husbands_and_Wives"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Los_lunes_al_sol">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2002</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Los lunes al sol</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Fernando_Leon_de_Aranoa"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Los_lunes_al_sol"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Nick_of_Time">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Nick of Time</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;John_Badham"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Nick_of_Time"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Rock_and_a_Hard_Place_Another_Night_at_the_Agora">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Rock and a Hard Place Another Night at the Agora</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Aaron_T_Wells"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Rock_and_a_Hard_Place_Another_Night_at_the_Agora"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mighty_Aphrodite">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Mighty Aphrodite</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Mighty_Aphrodite"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Broadway_The_Next_Generation">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Broadway The Next Generation</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rick_McKay"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Broadway_The_Next_Generation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Black_Mass">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Black Mass</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Scott_Cooper"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Black_Mass"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Terminator_Salvation">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Terminator Salvation</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ulf_Andersson"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Terminator_Salvation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;El_dia_por_delante">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">El dia por delante</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mari_Navarro"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_El_dia_por_delante"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Portraits_chinois">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Portraits chinois</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Martine_Dugowson"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Portraits_chinois"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Blow">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Blow</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ted_Demme"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Blow"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Iron_Man_2">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Iron Man 2</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jon_Favreau"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Michael_McCormick"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_Taylor"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Iron_Man_2"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Love_in_the_Time_of_Cholera">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Love in the Time of Cholera</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mike_Newell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Love_in_the_Time_of_Cholera"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;CINEMAsuisse_Marc_Forster">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">CINEMAsuisse Marc Forster</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Fritz_Muri"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_CINEMAsuisse_Marc_Forster"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Lone_Ranger">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Lone Ranger</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gore_Verbinski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Lone_Ranger"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;New_York_Stories">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">New York Stories</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_New_York_Stories"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Buck">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2011</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Buck</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Cindy_Meehl"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Buck"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Cinderella">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Cinderella</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Kenneth_Branagh"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Cinderella"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Stardust_Memories">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1980</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Stardust Memories</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Stardust_Memories"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Pirates_of_the_Caribbean_At_Worlds_End">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Pirates of the Caribbean At Worlds End</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Nick_Bridger"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gore_Verbinski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_At_Worlds_End"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tacones_lejanos">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1991</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Tacones lejanos</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pedro_Almodovar"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Tacones_lejanos"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Once_Upon_a_Time_in_Mexico">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Once Upon a Time in Mexico</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_Rodriguez"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Once_Upon_a_Time_in_Mexico"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Perdita_Durango">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Perdita Durango</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Alex_de_la_Iglesia"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Perdita_Durango"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Movie_Rush">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Movie Rush</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Matt_McNally"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Movie_Rush"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Close_Up">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Close Up</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tiziano_Sossi"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Close_Up"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Doctor_of_Doom">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1979</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Doctor of Doom</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Doctor_of_Doom"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sleepy_Hollow">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sleepy Hollow</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sleepy_Hollow"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Tusk">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Tusk</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Kevin_Smith"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Tusk"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Kings_Speech">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2010</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Kings Speech</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tom_Hooper"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Kings_Speech"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Platoon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1986</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Platoon</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Oliver_Stone"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Platoon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;La_maschera">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1988</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">La maschera</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Fiorella_Infascelli"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_La_maschera"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Alice_Through_the_Looking_Glass">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Alice Through the Looking Glass</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;James_Bobin"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Alice_Through_the_Looking_Glass"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Las_edades_de_Lulu">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1990</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Las edades de Lulu</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Bigas_Luna"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Las_edades_de_Lulu"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Big_Eyes">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Big Eyes</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Big_Eyes"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sweet_and_Lowdown">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sweet and Lowdown</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sweet_and_Lowdown"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lost_in_Translation">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Lost in Translation</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Sofia_Coppola"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Lost_in_Translation"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;El_amor_perjudica_seriamente_la_salud">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">El amor perjudica seriamente la salud</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Manuel_Gomez_Pereira"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_El_amor_perjudica_seriamente_la_salud"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Margarets_Museum">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Margarets Museum</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mort_Ransen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Margarets_Museum"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;To_the_Wonder">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">To the Wonder</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Terrence_Malick"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_To_the_Wonder"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Brain">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1991</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Brain</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pau_De_La_Sierra"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Brain"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Zelig">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1983</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Zelig</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Zelig"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Hes_Just_Not_That_Into_You">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Hes Just Not That Into You</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ken_Kwapis"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Hes_Just_Not_That_Into_You"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;When_the_Road_Bends_Tales_of_a_Gypsy_Caravan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">When the Road Bends Tales of a Gypsy Caravan</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jasmine_Dellal"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_When_the_Road_Bends_Tales_of_a_Gypsy_Caravan"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Entre_las_piernas">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Entre las piernas</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Manuel_Gomez_Pereira"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Entre_las_piernas"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manhattan">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1979</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Manhattan</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Manhattan"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;CryBaby">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1990</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Cry-Baby</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;John_Waters"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_CryBaby"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Curse_of_the_Jade_Scorpion">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Curse of the Jade Scorpion</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Curse_of_the_Jade_Scorpion"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Secret_Window">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2004</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Secret Window</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Koepp"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Secret_Window"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;RPG">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1986</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">RPG</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Charlie_Sheen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_RPG"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fall">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Fall</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Eric_Schaeffer"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Fall"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Edward_Scissorhands">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1990</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Edward Scissorhands</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Edward_Scissorhands"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Blue_Jasmine">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Blue Jasmine</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Blue_Jasmine"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Harry_Potter_and_the_Order_of_the_Phoenix">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Harry Potter and the Order of the Phoenix</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Matt_Birch"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Yates"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Harry_Potter_and_the_Order_of_the_Phoenix"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Interiors">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1978</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Interiors</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Interiors"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Great_Expectations">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Great Expectations</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mike_Newell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Great_Expectations"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dark_Shadows">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Dark Shadows</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Dennis_Lauengco"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Dark_Shadows"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Ninth_Gate">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Ninth Gate</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Roman_Polanski"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Ninth_Gate"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Horse_Whisperer">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1998</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Horse Whisperer</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Robert_Redford"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Horse_Whisperer"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Imaginarium_of_Doctor_Parnassus">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Imaginarium of Doctor Parnassus</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Terry_Gilliam"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Imaginarium_of_Doctor_Parnassus"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Fight_Club">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Fight Club</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Fincher"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Fight_Club"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Benny_&_Joon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Benny & Joon</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jeremiah_S_Chechik"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Benny_&_Joon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Francesco">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Francesco</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Liliana_Cavani"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Francesco"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Lucy">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Lucy</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Luc_Besson"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Lucy"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Yoga_Hosers">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2016</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Yoga Hosers</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Kevin_Smith"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Yoga_Hosers"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Women_Talking_Dirty">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1999</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Women Talking Dirty</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Coky_Giedroyc"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Women_Talking_Dirty"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Avengers_Age_of_Ultron">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Avengers Age of Ultron</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joss_Whedon"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Avengers_Age_of_Ultron"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Don_Jon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Don Jon</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Joseph_GordonLevitt"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Don_Jon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Gunman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2015</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Gunman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pierre_Morel"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Gunman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sleeper">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1973</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sleeper</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sleeper"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Charlie_The_Life_and_Art_of_Charles_Chaplin">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Charlie The Life and Art of Charles Chaplin</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Richard_Schickel"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Charlie_The_Life_and_Art_of_Charles_Chaplin"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Huevos_de_oro">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Huevos de oro</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Bigas_Luna"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Huevos_de_oro"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Jamon_Jamon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1992</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Jamon Jamon</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Bigas_Luna"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Jamon_Jamon"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Harry_Potter_and_the_HalfBlood_Prince">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2009</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Harry Potter and the Half-Blood Prince</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Ralph_Palmer"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Yates"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Harry_Potter_and_the_HalfBlood_Prince"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;United_States_of_Poetry">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1995</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">United States of Poetry</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Mark_Pellington"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_United_States_of_Poetry"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Bananas">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1971</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Bananas</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Bananas"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Other_Boleyn_Girl">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2008</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Other Boleyn Girl</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Justin_Chadwick"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Other_Boleyn_Girl"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Cartaz_Cultural">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2003</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Cartaz Cultural</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Eduardo_Airoso"/>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Carlos_Pedro_Dias"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Cartaz_Cultural"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Don_Juan_DeMarco">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1994</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Don Juan DeMarco</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jeremy_Leven"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Don_Juan_DeMarco"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dont_Say_No_Until_I_Finish_Talking_The_Story_of_Richard_D_Zanuck">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2013</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Dont Say No Until I Finish Talking The Story of Richard D Zanuck</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Laurent_Bouzereau"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Dont_Say_No_Until_I_Finish_Talking_The_Story_of_Richard_D_Zanuck"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Transcendence">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2014</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Transcendence</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Wally_Pfister"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Transcendence"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;The_Black_Dahlia">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">The Black Dahlia</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Brian_De_Palma"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Black_Dahlia"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manny_&_Lo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Manny & Lo</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lisa_Krueger"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Manny_&_Lo"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Home_Alone_3">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1997</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Home Alone 3</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Raja_Gosnell"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Home_Alone_3"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Extreme_Close_Up_with">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2001</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Extreme Close Up with</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Thomas_Rigler"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Extreme_Close_Up_with"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Mambru">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Mambru</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Pedro_Perez_Jimenez"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Mambru"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sweeney_Todd_The_Demon_Barber_of_Fleet_Street">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2007</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sweeney Todd The Demon Barber of Fleet Street</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sweeney_Todd_The_Demon_Barber_of_Fleet_Street"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Batman">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1989</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Batman</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tim_Burton"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Batman"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Sherman_and_Pacifico">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2012</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Sherman and Pacifico</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Daniel_Tarr"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Sherman_and_Pacifico"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Dummies">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1985</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Dummies</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Laurie_Frank"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Dummies"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Buy_the_Ticket_Take_the_Ride_Hunter_S_Thompson_on_Film">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2006</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Buy the Ticket Take the Ride Hunter S Thompson on Film</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Tom_Thurman"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Buy_the_Ticket_Take_the_Ride_Hunter_S_Thompson_on_Film"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Before_Night_Falls">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2000</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Before Night Falls</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Julian_Schnabel"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Before_Night_Falls"/>
+</owl:NamedIndividual>
