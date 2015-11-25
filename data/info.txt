@@ -1,0 +1,25 @@
+REPOSITORY:
+	http://www.imdb.com/interfaces
+	- Click em ftp.fu-berlin.de (Germany)
+
+Actors:
+
+	Scarlet Johansson:
+		http://www.imdb.com/name/nm0424060/
+
+	Javier Bardem
+		http://www.imdb.com/name/nm0000849/
+
+	Johnny Depp
+		http://www.imdb.com/name/nm0000136/
+
+	Helena Bonham Carter
+		http://www.imdb.com/name/nm0000307/
+
+Directors:
+
+	Woody Allen
+		http://www.imdb.com/name/nm0000095/
+	
+	Tim Burton
+		http://www.imdb.com/name/nm0000318/
