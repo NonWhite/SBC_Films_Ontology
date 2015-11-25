@@ -1,0 +1,102 @@
+MOVIE = A Good Woman (2004)
+	Barker, Mike (I)
+MOVIE = A Love Song for Bobby Long (2004)
+	Gabel, Shainee
+MOVIE = An American Rhapsody (2001)
+	Gardos, Eva
+MOVIE = Avengers Age of Ultron (2015)
+	Whedon, Joss
+MOVIE = Bert Stern Original Madman (2011)
+	Laumeister, Shannah
+MOVIE = Broadway The Next Generation (2016)
+	McKay, Rick
+MOVIE = Buck (2011)
+	Meehl, Cindy
+MOVIE = Captain America Civil War (2016)
+	Russo, Anthony (II)
+	Russo, Joe (II)
+MOVIE = Captain America The Winter Soldier (2014)
+	Russo, Anthony (II)
+	Russo, Joe (II)
+MOVIE = Chef (2014)
+	Favreau, Jon
+MOVIE = Don Jon (2013)
+	Gordon-Levitt, Joseph
+MOVIE = Eight Legged Freaks (2002)
+	Elkayem, Ellory
+MOVIE = Fall (1997)
+	Schaeffer, Eric (I)
+MOVIE = Ghost in the Shell (2017)
+	Sanders, Rupert
+MOVIE = Ghost World (2001)
+	Zwigoff, Terry
+MOVIE = Girl with a Pearl Earring (2003)
+	Webber, Peter (I)
+MOVIE = Hail Caesar! (2016)
+	Coen, Ethan
+	Coen, Joel
+MOVIE = Hes Just Not That Into You (2009)
+	Kwapis, Ken
+MOVIE = Hitchcock (2012)
+	Gervasi, Sacha
+MOVIE = Home Alone 3 (1997)
+	Gosnell, Raja
+MOVIE = If Lucy Fell (1996)
+	Schaeffer, Eric (I)
+MOVIE = In Good Company (2004)
+	Weitz, Paul (I)
+MOVIE = Iron Man 2 (2010)
+	Favreau, Jon
+	McCormick, Michael (X)
+	Taylor, Robert (XXXIV)
+MOVIE = Just Cause (1995)
+	Glimcher, Arne
+MOVIE = Lost in Translation (2003)
+	Coppola, Sofia
+MOVIE = Lucy (2014)
+	Besson, Luc
+MOVIE = Manny & Lo (1996)
+	Krueger, Lisa (I)
+MOVIE = Match Point (2005)
+	Allen, Woody
+MOVIE = My Brother the Pig (1999)
+	Fleming, Erik (I)
+MOVIE = North (1994)
+	Reiner, Rob
+MOVIE = Scoop (2006)
+	Allen, Woody
+MOVIE = The Avengers (2012)
+	Whedon, Joss
+MOVIE = The Black Dahlia (2006)
+	De Palma, Brian
+MOVIE = The Horse Whisperer (1998)
+	Redford, Robert (I)
+MOVIE = The Island (2005)
+	Bay, Michael
+MOVIE = The Man Who Wasnt There (2001)
+	Coen, Ethan
+	Coen, Joel
+MOVIE = The Nanny Diaries (2007)
+	Berman, Shari Springer
+	Pulcini, Robert
+MOVIE = The Other Boleyn Girl (2008)
+	Chadwick, Justin (I)
+MOVIE = The Perfect Score (2004)
+	Robbins, Brian (I)
+MOVIE = The Prestige (2006)
+	Nolan, Christopher (I)
+MOVIE = The Spirit (2008)
+	Miller, Frank (II)
+MOVIE = Under the Skin (2013)
+	Glazer, Jonathan (I)
+MOVIE = Vicky Cristina Barcelona (2008)
+	Allen, Woody
+MOVIE = We Bought a Zoo (2011)
+	Crowe, Cameron (I)
+MOVIE = Woody Allen A Documentary (2012)
+	Weide, Robert B.
+MOVIE = Jet 7 (1996)
+	Ferreira, Andre (I)
+	Pelica, Joao
+MOVIE = Movie Rush (2006)
+	McNally, Matt

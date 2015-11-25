@@ -1,0 +1,2189 @@
+MOVIE = Resultado final (1998)
+	Alcobendas, Jose Luis
+	Alonso, Alejandro (I)
+	Andres, Gumersindo
+	Astray, Maximo
+	Bardem, Carlos
+	Bardem, Javier
+	Blazquez, Eduardo
+	Clement, Francisco
+	Colomar, Vicente
+	de la Fuente, Juanjo
+	de Morales, Manuel
+	Gallego, Juan Antonio
+	Garcia, Luis (II)
+	Gil, Fernando (II)
+	Gisbert, Vicente
+	Gonzalez, David (I)
+	Hintz, Alexis Daniel
+	Latonda, Adan
+	Leonardo (II)
+	Leon, Arsenio
+	Maroto, Carlos
+	Martin, Diego (I)
+	Martinez, Fernando J.
+	Mateu, Sergi
+	Morales, Andres
+	Navarro, Julian (I)
+	Ortega, David (I)
+	Ortiz, Miguel Angel
+	Pardo, Juanjo
+	Pinilla, David
+	Segura, Jose (I)
+	Torres, Francisco (I)
+	Zenet, Tony
+	Acevedo, Mari Angeles
+	Aviles, Helena
+	Bardem, Monica
+	Fernandez, Dafne
+	Fernandez, Leticia (I)
+	Flores, Mar
+	Hernaiz, Susana
+	Hoyos, Maria Jesus
+	Jimenez, Maite
+	Knafo, Carolina
+	Mariscal, Oliva
+	Mariscal, Rosa
+	Moreno, Almudena
+	Rico, Laura (I)
+	Sabena, Nadine
+	Segarra, Carmen (I)
+	Teigell, Marisa
+	Toral, Sandra
+MOVIE = Airbag (1997)
+	Aguinagalde, Gorka
+	Alegre, Luis
+	Arguinano, Karlos
+	Bajo Ulloa, Juanma
+	Bardem, Javier
+	Barea, Ramon
+	Barricada
+	Cansado, Javier
+	Cuenca, Luis (I)
+	Cunill, Gonzalo
+	Diez, Vicente (I)
+	Elejalde, Karra
+	Garcia Rimada, Fernando
+	Garmendia, Mikel
+	Guillen Cuervo, Fernando
+	Lajusticia, Santiago
+	Lucas, Carlos (I)
+	Manquina, Manuel
+	Martinez, Ismael (I)
+	Mauleon, Joshean
+	Mazo, Aitor
+	Medem, Julio
+	Pazos, Sergio
+	Pla, Albert
+	Potau, Joan
+	Puigcorbe, Juanjo
+	Rabal, Francisco
+	San Juan, Alberto
+	Sansegundo, Fernando
+	Segura, Santiago (I)
+	Tallafe, Manuel
+	Torrijo, Jose Luis
+	Trueba, David
+	Alaska (IV)
+	Aledo, Marta
+	Aparicio, Laura
+	Bardem, Pilar
+	Berrocal, Yola
+	Climent, Noemi
+	Condado, Fanny
+	de la Maza, Carmen
+	de Medeiros, Maria
+	Garcia Diez, Susana
+	Irureta, Elena
+	Jurado, Maria
+	Merono, Raquel
+	Mora, Sara
+	N'Dongo, Vicenta
+	Palma, Rossy de
+	Pastor, Maite
+	Roy, Gabriella
+	Santiago, Beatriz (I)
+	Sarda, Rosa Maria
+	Segarra, Carmen (I)
+	Sesena, Nathalie
+	Sevilla, Beatriz
+	Soldevila, Paula
+	Valdes, Yoima
+	Walls, Rosanna
+MOVIE = Alacran enamorado (2013)
+	Aga, L.
+	Alcalde, Carlos
+	Bardem, Carlos
+	Bardem, Javier
+	Baron, Ruben
+	Cabezas, Sergio
+	Cabra, Carlos
+	Carrasco, Jose Lazaro
+	Cepeda, Cesar
+	Cheung Fung, Biu Keung
+	Conejero, Inaki
+	Cortecero, Francisco Javier
+	del Pomar, Ramon G.
+	Enguema, Gabriel
+	Figueroa, Hector
+	Fuente Castro, Jose Antonio
+	Garcia, Francisco (XIV)
+	Gombau, Daniel
+	Gombe, Dosel Kamana
+	Gonzalez, Alex (II)
+	Guevara, Inaki
+	Hughes, David (XL)
+	Iglesias Bustamante, Javier
+	Kaniowsky, Carlos
+	Keuchkerian, Hovik
+	Lopez, Adrian (III)
+	Mancebo, Javier
+	Martin, Angel (VIII)
+	Medina, Melquisedec
+	Morales, Cristian (II)
+	Mottola, Luis
+	Munoz Aguilar, Luis
+	Munoz, Samuel (II)
+	Navascues, Pablo
+	Prado, Sergio (V)
+	Recio, Gonzalo (II)
+	Ruiz Morote, Ivan
+	Schuster (II)
+	Silvestre, Miguel Angel
+	Toffana, Elio
+	Valls, Alejandro
+	Vargas, Fran (II)
+	Vellido, Juan Carlos
+	Velez, Cristian
+	Yebes Mota, Jose
+	De Almeida, Dori
+	Diakhate, Judith
+	Gutierrez, Malena
+	Patino, La China
+	Ruiz, Natalia (I)
+	Zannou, Frankie Habiba
+MOVIE = Amo tu cama rica (1992)
+	Bardem, Javier
+	Botella, Juan
+	Cairo, Roberto
+	Carmona, Antonio
+	Casariego, Martin
+	Cassen
+	Garbisu, Gabriel
+	Goyanes, Ramon
+	Jimenez, Alberto (I)
+	Klimovsky, Leon (I)
+	Klingenberg, Lucas
+	Maldonado, Paco (I)
+	Munoz Zielinski, Juan Pablo
+	Novo, Nancho
+	Pablos, Juan de
+	Polo, Gonzalo
+	Ponce, Pere
+	Prieto, Walter
+	Squarcia, Bruno
+	Trueba, David
+	Vivanco, Fernando
+	Barilli, Ayanta
+	Canalejas, Lina
+	Cano-Manuel, Begonya
+	Curra, Carmen
+	Gil, Ariadna (I)
+	Guillen Cuervo, Cayetana
+	Gutierrez, Blanca (I)
+	Lebrero, Maria Jose
+	Martins, Susana (I)
+	Merida, Beatriz
+	Ruiz de la Prada, Isabel
+	Sanchis, Clara
+	Sanchez, Mari Carmen (I)
+	Torresblanco, Frida
+	Valle, Maria Jose del
+MOVIE = Before Night Falls (2000)
+	Antonio, Eduardo
+	Armendariz Jr., Pedro
+	Arroyuelo, Eduardo
+	Babenco, Hector
+	Bardem, Javier
+	Benites, Aquiles
+	Benitez, Benjamin (I)
+	Bucio, Julian
+	Castro, Fidel (I)
+	Compte, Maurice
+	Depp, Johnny
+	Di Stefano, Andrea (I)
+	Domingo, Xavier (I)
+	Diaz, Yulian
+	Ehrenberg, Matthias
+	Estrella, Filiberto
+	Fernandez, Khotan
+	Florido, Giovanni
+	Ganuza, Eloy
+	Garcia, Manolo (IV)
+	Gattorno, Francisco
+	Gonzalez, Manuel (VI)
+	Hebra, Melanio Filiberto
+	Laresca, Vincent
+	Luna, Diego (I)
+	Magill, Santiago
+	Makala, Adrian
+	Martinez, Olivier (I)
+	Medina, Noel
+	Murillo, Juan Cristobal
+	Nemo (II)
+	Nugent, Jimmy
+	Oliver, Mario (I)
+	Ortiz, John (I)
+	Osoria, Claudio
+	Penn, Sean (I)
+	Pereyra, Rene
+	Rivera, Rene (I)
+	Rivero, Manolo
+	Schnabel, Cy
+	Schnabel, Jack
+	Schnabel, Olmo
+	Schnabel, Vito Maria
+	Silva, Batan
+	Skolimowski, Jerzy
+	Springer, Eric (I)
+	Valdez, Robertico
+	Villa, Alfredo (III)
+	Wincott, Michael
+	Woolrich, Abel
+	Zamora, Jorge (III)
+	Zavala Kugler, Antonio
+	Zepeda, Jorge (VI)
+	Zarate, Jorge
+	Abbott, Diahnne
+	Barragan, Lois
+	Beato, Carmen
+	Borayo, Olga
+	Chapman, Lia (I)
+	Cruz, Zulema
+	Diaz, Marlene
+	Fassler, Andrea
+	Gil, Annie
+	Lopez Garmendia, Olatz
+	Magda (IV)
+	Maille, Claudette
+	Martinez, Caridad
+	Medina, Ofelia
+	Navarro, Lolo
+	Nimri, Najwa
+	Padilla Sanchez, Marisol
+	Piaskowska, Ewa (II)
+	Puertas, Chanel
+	Reyes Spindola, Patricia
+	Schnabel, Esther G.
+	Schnabel, Lola
+	Schnabel, Stella (I)
+MOVIE = Biutiful (2010)
+	Alcayde, Isaac
+	Almendros, German
+	Arjona, Angel Luis
+	Bardem, Javier
+	Capdevila, Albert Grabuleda
+	Chen, Xueheng
+	Cheng, Taishen
+	Chibuikwem Chukwuma, George
+	Cubero, Felix
+	del Estal, Tomas
+	Elejalde, Karra
+	Elies, Ramon
+	Estrella, Guillermo
+	Fernandez, Eduard
+	Gomez, Eduardo (III)
+	Hernandez, Alain
+	Lin, Tuo
+	Luo, Jin (I)
+	Moline, Nacho
+	Moya Juarez, Raul
+	Munoz, Federico (I)
+	Ndiaye, Cheikh
+	Ochandiano, Ruben
+	Puchol, Jesus
+	Saleh, Nasser (I)
+	Solo, Manolo
+	Sanchez, Juan Vicente
+	Yang, Yodian
+	Ye, Ailie
+	Albizuri, Leticia
+	Bao, Xianlin
+	Bouchaib, Hanaa
+	Calvo, Adelfa
+	Casado, Maria (I)
+	Cruz, Sonia (I)
+	Daff, Diaryatou
+	Diaz, Victoria M.
+	Echepares, Dolores
+	Evans, Sophie (I)
+	Huertas, Judith
+	Jimemez Colindres, Luna
+	La Lata, Carmen
+	Lin, Lang Sofia
+	Montenegro, Dunia
+	Ortiz, Aroa
+	Peleteiro, Carmen
+	Princess, Pitu
+	Perez, Violeta (I)
+	Totusaus, Annabel
+	Ungureanu, Rodica Ioana
+	Wagener, Ana
+	Zhang, Xiaoyan (II)
+MOVIE = Boca a boca (1995)
+	Alcazar, Angel
+	Anido, Javier
+	Bardem, Javier
+	Bielski, Jaroslaw
+	Bores, Jaime
+	Bosch, Jordi (I)
+	Cobos, German
+	Colomo, Fernando
+	del Arco, Miguel (I)
+	Flotats, Josep Maria
+	Garcia, Saturnino (I)
+	Gayo, Tomas
+	Guillen Cuervo, Fernando
+	Gutierrez Caba, Emilio
+	Lallave, David
+	Lili, Shangay
+	Mackenzie, Alastair (I)
+	Mosquera, Jose Luis
+	Otegui, Juan Jose
+	Puigcorbe, Juanjo
+	Resines, Antonio
+	Suau, John
+	Tiedra, Manuel
+	Vellido, Juan Carlos
+	Alonso, Anabel
+	Balaguer, Asuncion
+	Balague, Carmen (II)
+	Bardem, Monica
+	Bardem, Pilar
+	Barranco, Maria
+	Baro, Amparo
+	Geyer, Maria
+	Goya, Ana
+	Hanley, Tres
+	Herrera, Margo
+	Lavi, Daliah
+	Martin, Mercedes (I)
+	Martin, Eloisa
+	Manver, Kiti
+	Mezières, Myriam
+	Padellano, Iman
+	Pena, Candela
+	Reyes Arias, Maria
+	Sanchez-Gijon, Aitana
+MOVIE = Brain (1991)
+	Bardem, Javier
+MOVIE = Carne tremula (1997)
+	Angulo, Alex
+	Bardem, Javier
+	Henares, Antonio
+	Lanchas, Daniel
+	Molins, Josep (I)
+	Paz, Diego de
+	Prats, Matias (I)
+	Rabal, Liberto
+	Rodriguez, Emilio (IV)
+	Sancho, Jose
+	Bardem, Pilar
+	Be, Yael
+	Cruz, Penelope
+	Fuentes, Mariola
+	Molina, Angela
+	Neri, Francesca
+	Rosenfeldt, Maria
+MOVIE = Collateral (2004)
+	Adelstein, Paul
+	Aulicino, Paul
+	Bachrach, Howard
+	Bardem, Javier
+	Bentt, Michael
+	Berg, Peter (I)
+	Blendell, Troy
+	Burns, Joey
+	Cavanagh, Auggie
+	Convertino, John
+	Cruise, Tom
+	Cruze, Josh (I)
+	Daniel, Chic
+	Deamer, Robert
+	Dean, Donald
+	Del Toro, Danny
+	Diaz, Eddie (II)
+	Dotson, Michael (II)
+	DTeflon
+	Eckert, Ron (I)
+	Elfman, Bodhi
+	English, Bobby
+	Flores, Martin (IV)
+	Foxx, Jamie
+	Garcia, Rick (V)
+	Garner, Jerald
+	Goldman, Larry G.
+	Hannin, Ian
+	Henley, Barry Shabaka
+	Jones, Richard T. (I)
+	Klima, Laszlo
+	Kozlowski, Steven
+	Kubr, Mark
+	Lambert, Pharaoh
+	Lee, Cameron (I)
+	Lee, Kyu C.
+	Lujan, Daniel
+	McBride, Jamie (I)
+	McElroy, J.D.
+	McGill, Bruce
+	McKernan, Peter
+	Mersault, David
+	Mihm, Ben (I)
+	Molale, Brandon
+	Moncada, Luis (I)
+	Montesinos, Gino
+	Muldrow, Ronald
+	Newman, Elliott
+	Ochoa, Anthony (I)
+	Orozco, Omar (I)
+	Patil, Neil
+	Petrina, George
+	Pineda, Maurilio
+	Rivera, Emilio (I)
+	Rodriguez, Gary
+	Rosales Jr., Thomas
+	Roth, Niles
+	Ruffalo, Mark
+	Sagastizado I, Tony
+	Sandberg, Rodney
+	Schmidt, Charlie E.
+	Shier, Ivor
+	Silver, Spike
+	Sistos, Dan
+	Stainbrook, Mark
+	Statham, Jason
+	Stoneburner, Roger
+	Sanchez, Edgar
+	Tiffe, Angelo
+	Urquiola, Cosme
+	Urrego, Manuel
+	Valenzuela, Jacob
+	Vidrio, Ismeal
+	Villegas, Luis (I)
+	Ware, Trevor
+	Waters, Ken
+	Waxman, Michael
+	Wenger, Yussi
+	Williams, Wade (II)
+	Wolfe, Michael-John
+	Wong, Wilson (II)
+	Yamada, Henry T.
+	Yuon, Inmo
+	Arreaga, Marianne M.
+	Asuma, Linda
+	Basada, Lisa Marie
+	Bernard, Jessie
+	Chooey, Corinne
+	Erickson, Tara
+	Ferrarone, Jessica
+	Gomez, Lila
+	Gopacco, Kate
+	Gutman, Annabella
+	Hall, Irma P.
+	Hiratzka, Megan
+	Kennedy, JoNell
+	Linn, Janet
+	Mazar, Debi
+	Mun, Janessa
+	Okada, Masami (I)
+	Paik, Janice (I)
+	Pinkett Smith, Jada
+	Schroeder, Sandi
+	Scott, Klea
+	Teal, Dyna
+	VanSonnenberg, Emily
+	Wang, Emily Ming-An
+	Yi, Christy
+	Yungmee, Addie
+MOVIE = Dias contados (1994)
+	Abades, Reyes
+	Apaolaza, Joseba
+	Bardem, Javier
+	Carreras, Chacho
+	Casablanc, Pedro
+	Casares, Leopoldo
+	Colmenero, Pepe
+	Elejalde, Karra
+	Gomez, Carmelo
+	Gomez, Alvaro (I)
+	Martorell, Jose
+	Nieto, Pepon
+	Olivera, Pietro
+	Pinilla, David
+	Videto, Francisco
+	Fuentes, Mariola
+	Gabriel, Ruth
+	Minguez, Elvira
+	Padellano, Iman
+	Pena, Candela
+	Piedrabuena, Encarnacion
+	Sanchis, Raquel
+	Sirvent, Gloria
+	Sanchez, Marga (I)
+MOVIE = Eat Pray Love (2010)
+	Argentero, Luca
+	Arpesella, Peter
+	Bapat, Anand Yeshwant
+	Bardem, Javier
+	Bhandari, Ajay
+	Campbell, Rich (I)
+	Clark, Dwayne (I)
+	Coulter-Stevenson, Rahad
+	Crudup, Billy
+	Cumpsty, Michael
+	Davis, Peter (XII)
+	Dhamejani, Micky
+	Di Palma, Roberto
+	Di Stefano, Andrea (I)
+	Dunham, Zachary (I)
+	Franco, James
+	Gandini, Giuseppe
+	Jenkins, Richard (I)
+	Joseph, Kahlil (I)
+	Kuna, Kaidy
+	Lastrucci, Marco
+	Leavitt, Ned
+	Leonardo, Jian
+	Lipari, Joe (II)
+	Lyons, David (IX)
+	Narayan, Roger
+	O'Malley, Mike (I)
+	O'Nan, Ryan
+	Pandey, Sd
+	Power, T.J.
+	Puspawati, I. Gusti Ayu
+	Radcliff, A. Jay
+	Remotti, Remo
+	Rosario, Jose Ramon
+	Rossi, Silvano (I)
+	Schram, James
+	Selander, Robb
+	Smolarski, Tomasz
+	Subiyanto, Hadi
+	Thornton, Paul (I)
+	Tolhurst, Dean Allan
+	Tucker, Elijah
+	Tyagi, Ritvik
+	Uzimann
+	Vogt, Richard V.
+	Yassin, Alexander
+	Arvigo, Elena
+	Atkinson, Ashlie
+	Benson, Shona
+	Biondi, Lidia
+	Brunetti, Chiara
+	Brunetti, Emma
+	Couvillion, Adriene
+	Davis, Viola (I)
+	Gal, Natalie
+	Gillan, Lisa Roberts
+	Guzzardi, Lucia
+	Hakim, Christine
+	Kwok, Jen
+	Lapae, Anakia
+	Margileth, Lynn
+	Marini, Vanessa
+	Morgen, Alyxx
+	Novotny, Tuva
+	Oaks, Clair
+	Reddy, Gita
+	Roberts, Julia (I)
+	Segal, Elysia
+	Singh, Rushita
+	Testa, Mary
+	Thompson, Sophie (I)
+	Trindle, Karen
+	Tur, Arlene
+	Virga, Ludovica
+	White, Welker
+MOVIE = El amante bilingüe (1993)
+	Aleu, Franc
+	Alonso, Paco (I)
+	Antunez, Marcelli
+	Aranda, Palmiro (I)
+	Arias, Imanol
+	Bardem, Javier
+	Bertomeu, Xavier
+	Borras, Ricard
+	Bozzo, Joan Lluis
+	Caballero, Sergio (I)
+	Cerro, Jose
+	Cruz, Pep
+	Dauder, Jordi
+	Gelli, Cesare
+	Gracia, Manolo
+	Guillen Cuervo, Fernando
+	Guillen, Fernando (I)
+	Gomez, Javier (I)
+	Hita, Felipe
+	Jorda, Bruno
+	Lamas, Carlos
+	Latorre, Alex
+	Les Palau, Enric
+	Llopis, Blai
+	Martin, Luigi (II)
+	Minguell, Joan
+	Nubiola, Pau
+	Pere
+	Roca, Victor (I)
+	Soler, Eugeni
+	Torne, Enric
+	Tres (I)
+	Verdaguer, Arnau
+	Vilardebo, Arnau
+	Apilanez, Blanca
+	Brianso, Anna
+	Cayuela, Conchita
+	Conca, Diana
+	Cunille, Teresa (I)
+	Font, Mireia (I)
+	Grases, Esperanza
+	Jimenez, Maite
+	Leon, Loles
+	Lombardi, Carla
+	Muti, Ornella
+	Pena, Vicky
+	Roman, Eufemia
+	Rosado, Pepa
+	Sanders, Sara
+	Serrano, Julieta
+	Verdu, Maribel
+MOVIE = El amor perjudica seriamente la salud (1996)
+	Alves, Luis Fernando
+	Auguy, Francis
+	Bardem, Javier
+	Boira, Francisco
+	Carbajo, Juan Jose
+	Cisneros, Jesus (I)
+	Colomo, Fernando
+	Corbacho, Jose
+	Diego, Gabino
+	Egido, Jose Angel (I)
+	Estebanez, Cesareo
+	Fayet, Marc
+	Fumanal, Jose
+	Garcia, Fernando (XXIX)
+	Gayo, Tomas
+	Gutierrez Santos, Luis M.
+	Hugo, Peter
+	Ibanez de la Cruz, Manuel
+	Ingles, Ricardo
+	Ledan, Christian
+	Lemos, Antonio
+	Luke, Anthony (I)
+	Mauleon, Joshean
+	Melgar, Alfredo
+	Milles, Mike
+	Millan, Santi
+	Mino, Jean-Claude
+	Monje, Alvaro
+	Navarro, Jose Antonio
+	Palenzuela, Miguel
+	Pinilla, David
+	Puigcorbe, Juanjo
+	Perezagua, Luis
+	Raphael (II)
+	Riaran, Jesus
+	Ruiz Penas, Jaime
+	Ruiz Penas, Victor
+	Sans, Carles
+	Silva, Julio (I)
+	Sociloto, Mario
+	Tiedra, Manuel
+	Balague, Carmen (II)
+	Bello, Bella
+	Belen, Ana (I)
+	Conde, Maite
+	Conejero, Laura
+	Cruz, Penelope
+	Gonzalez, Nuria (I)
+	Herrera, Lola
+	Otero, Ana (I)
+	Rodriguez, Pepita
+	Roman, Olga
+	Santiago, Cecilia (I)
+	Sanchez-Gijon, Aitana
+MOVIE = El detective y la muerte (1994)
+	Alterio, Hector
+	Bardem, Javier
+	Bonczak, Jerzy
+	Emanuel, Grzegorz
+	Gomez, Carmelo
+	Lorenzo, Francis (I)
+	Marciniewski, Ryszard
+	Priwieziencew, Eugeniusz
+	Walczewski, Marek
+	Zarnecki, Andrzej
+	Zbrojewicz, Miroslaw
+	Bargielowska, Katarzyna
+	De Maeztu, Myriam
+	de Medeiros, Maria
+	Galan, Mapi
+	Galvez, Paulina
+	Lopez, Charo (I)
+	Szul, Ethel
+MOVIE = El mundo es tuyo (2004)
+	Bardem, Javier
+	Llovera, Albert
+	Sainz, Carlos (I)
+MOVIE = Entre las piernas (1999)
+	Albala, Javier
+	Alonso, Ramiro
+	Anido, Javier
+	Bardem, Javier
+	Bazaga, Antonio
+	Briales, Pedro (I)
+	de la Torre, Antonio (I)
+	Diego, Juan (I)
+	Fernandez, Adolfo (I)
+	Gabilondo, Inaki
+	Gallego, Jose Antonio
+	Garcia Millan, Gines
+	Gomez, Carmelo
+	Lajusticia, Santiago
+	Lorente, David
+	Lopez, Sergi (I)
+	Madrid, Salvador (I)
+	Manquina, Manuel
+	Mira, Juli
+	Moreno, Gabriel (I)
+	Munoz, Chema
+	Potau, Joan
+	Rueda, Victor (II)
+	San Juan, Alberto
+	Sandoval, Txema
+	Sansegundo, Fernando
+	Sanchez, Jose Antonio (III)
+	Zýka, Josef
+	Abril, Victoria
+	Adanez, Maria
+	Apilanez, Blanca
+	Balague, Carmen (II)
+	Bassas, Angels
+	Bergamin, Beatriz
+	Bona, Carolina
+	Brondo, Cristina
+	Calderon, Ana (I)
+	Cobo, Alexandra
+	Collado, Conchita
+	de Juan, Arantxa
+	Dicenta, Natalia
+	Dwyre, Shona
+	Fernandez, Dafne
+	Gaton, Silvia M.
+	Guzman, Maria Mar
+	Herrero, Marta (I)
+	Hortiguela, Cristina
+	Martin, Chus (I)
+	Ochandiano, Amelia
+	Pastor, Maite
+	Portillo, Blanca (I)
+	Puente, Pilar
+	San Jose, Marina
+	Santesmases, Rosario
+	Urbina, Natalia
+	Zapardiel, Charo
+MOVIE = Goyas Ghosts (2006)
+	Al Moubayed, Wael
+	Al-Moubayed, Wael
+	Alias, Jose
+	Andreu, Simon
+	Anton, Fran
+	Baker, Frank (III)
+	Bardem, Carlos
+	Bardem, Javier
+	Bellido, Antonio
+	Bermejo, Fernando (II)
+	Brun, Manuel
+	Cabrero, Daniel
+	Calder, David
+	Caro, Manolo (I)
+	Catala, Paco
+	Cleverdon, Scott
+	Coromina, Javier
+	de Blas, Manuel
+	Garcia Casalderrey, Marcos
+	Gomez, Haritz
+	Gomez, Jose Luis (I)
+	Hidalgo, Paco
+	Hidalgo, Angel (II)
+	Israel, Victor
+	Lacosta, Balbino
+	Langa, Ramon
+	Lima, Andres (I)
+	Linder, Emilio
+	Lonsdale, Michael (I)
+	Luis, Jose (I)
+	Luque, David (I)
+	Lazaro, Eusebio
+	Martinez de Irujo, Cayetano
+	Martinez, Enrique (I)
+	Miranda, Carlos (XIII)
+	Novas, Tamar
+	Quaid, Randy
+	Quiroga, Alvaro
+	Riordan, Thomas (I)
+	Rodriguez, Toni (II)
+	Roman, Daniel
+	Sacristan, Jose Maria
+	Sagredo, Benito
+	Skarsgård, Stellan
+	Stevenson, Craig (I)
+	Taylor, Jack (II)
+	Temple, Ben
+	Tielve, Fernando
+	Tous, Alejandro
+	Ugalde, Unax
+	Vasquez, Jose L.
+	Wadham, Julian
+	Casanova, Genoveva
+	Castro, Mercedes (I)
+	Gil, Natalia (III)
+	Heatherly, May
+	Hidalgo, Concha
+	Kal, Silvia
+	Kittay, Lola
+	Kittay, Romy
+	Lorentzen, Helena
+	Magal, Barbara
+	Peno, Lola
+	Petterson, Carolina
+	Portillo, Blanca (I)
+	Portman, Natalie
+	Rivera, Cecilia (III)
+	Rivera, Mabel
+	Rugero, Trinidad
+	Swann, Rose
+	Sanchez, Irene (II)
+	Thierree, Aurelia
+MOVIE = Hijos de las nubes la ultima colonia (2012)
+	Abdelaziz, Mohamed (I)
+	Ahmed, Mohamed Lamine
+	Ali, Dahbi Mohamed
+	Bardem, Carlos
+	Bardem, Javier
+	Bastagli, Francesco
+	Belghuiche, Teyeb
+	Beltran, Esteban
+	Bolton, John R.
+	Bouhali, Mohamed Lamine
+	Chao, Manu
+	Dumas, Roland
+	Francois-Poncet, Jean
+	Goldstein, Eric (XII)
+	Goncalves, Marselha
+	Gonzalez, Felipe (I)
+	Haidar, Aminetu
+	Inhofe, James
+	Kaced, Said
+	Lanc, Erwin
+	Lebsir, Salem
+	Longoria, Alvaro
+	Manis, Omar Bashir
+	Moragas, Jorge
+	Nahon, Paul
+	Okiti, Ese
+	Rezzag-Bara, Kamel
+	Ruddy, Frank
+	Smith, Gare A.
+	Zunes, Stephen
+	Anaya, Elena (I)
+	Beiruk, Suelma
+	de Birch, Angie
+	Hartley, Lilly
+	Mehdi, Fatma
+	Pascoe, Lynn
+	Scholte, Suzanne
+MOVIE = Huevos de oro (1993)
+	Andres Lopez, Angel de
+	Bardem, Javier
+	Carlo, Ismael 'East'
+	Casares, Francisco (I)
+	Cusi, Enric
+	de Andalucia, Ecos
+	Del Toro, Benicio
+	Dominedo, Francesco
+	Gassman, Alessandro
+	Lusht, Thomas
+	Merelles, Alberto
+	Messana, Johnny
+	Vidal, Albert (I)
+	Bianca, Raquel
+	Condorelli, Stella
+	de Medeiros, Maria
+	Escayola, Elisabeth
+	Martin, Maria (I)
+	Moro, Alicia
+	Morrall, Ingrid
+	Tovati, Elisa
+	Verdu, Maribel
+MOVIE = Huidos (1993)
+	Bardem, Javier
+	Chao, Ernesto (I)
+	Conde, Xose Manuel
+	Diez del Corral, Pedro
+	Gracia, Sancho
+	Guevara, Inaki
+	Jimenez, Jose A. (I)
+	Lago, Quico
+	Llanderas, Miguel
+	Lorenzo, Francis (I)
+	Malvida, Orlando
+	Mares, Jorge
+	Merino, Aitor
+	Montero, Rodolfo (I)
+	Olveira 'Pico', Xose Manuel
+	Parada, Celso
+	Rodriguez, Alfredo (I)
+	Valverde, Tito
+	Vilarelle, Xose
+	Vivanco, Fernando
+	Vieitez, Marcos
+	Baldrich, Lola
+	Blanco, Uxia
+	Caccamo, Helen
+	Casal, Mela
+	Del Prado, Esther
+	Mora, Sara
+	Perez, Celeste
+	Santana, Beatriz
+	Soto, Marisa
+MOVIE = Jamon Jamon (1992)
+	Bardem, Javier
+	Bermejo, Roberto
+	Callao, Nazaret
+	Diego, Juan (I)
+	Garcia Borda, Miquel
+	Martin, Tomas (I)
+	Mazo, Chema
+	Molla, Jordi
+	Rio, Armando del
+	Cruz, Penelope
+	De Bigas, Lira Herce
+	de Castro Oros, Isabel
+	Galiena, Anna
+	Godoy, Nadia
+	Hermitte, Marianne
+	Koska, Susana
+	Lopez de la Sierra, Guaca
+	Reniu, Maria
+	Sandrelli, Stefania
+	Sassen, Diana
+MOVIE = Journey to Sundance (2014)
+	Bardem, Javier
+	Biskind, Peter (I)
+	Carnahan, Joe
+	Cathey, Reg E.
+	Christensen, Jon W.
+	Coyne, Tim
+	Curtis, Cliff
+	Curtis-Hall, Vondie
+	Diesel, Vin
+	DMX
+	Ealy, Michael
+	Gore, Chris (III)
+	Gyllenhaal, Jake
+	Herb, Lenny
+	Jacobson, Bill (I)
+	Kava, Terence (I)
+	Malkovich, John
+	Mayer, Kyle (I)
+	Moore, Chris (II)
+	Myrick, Daniel
+	Palminteri, Chazz
+	Pantoliano, Joe
+	Quinn, Aidan (I)
+	Redford, Robert (I)
+	Simens, Dov
+	Simmons, Johnny (I)
+	Slater, Christian (I)
+	Starks, Julian
+	Woods, James (I)
+	Aniston, Jennifer
+	Fonda, Jane
+	Hayek, Salma
+	Hope, Courtney (II)
+	Ragsdale, Georgia
+	Sorenson, Jennifer
+	Sorvino, Mira
+MOVIE = La madre (1995)
+	Bardem, Javier
+	Barea, Ramon
+	Castejon, Jesus
+	Franco, Ricardo (I)
+	Hernandez, Antonio (I)
+	Lamor, Alex
+	Pinilla, David
+	Agut, Alicia
+	Bardem, Pilar
+MOVIE = La teta y la luna (1994)
+	Anglada, Salvador
+	Bardem, Javier
+	Busquets, Jordi
+	Darmon, Gerard
+	Duran, Biel
+	Fernandez, Diego (II)
+	Folk, Abel
+	Masse, Xavier
+	Poveda, Miguel (I)
+	Romero, Daniel (II)
+	Sanchez, Genis
+	Estruch, Xus
+	Harvey, Jane (I)
+	Isbert, Vanessa
+	Lepori, Victoria
+	May, Mathilda
+	Mana, Laura
+	Velazquez, Prado
+MOVIE = Las Alas del Fenix (2005)
+	Bardem, Javier
+	Llovera, Albert
+	Sainz, Carlos (I)
+MOVIE = Las edades de Lulu (1990)
+	Amposta, Luis
+	Bardem, Javier
+	Coll, Javi
+	Corominas, Pep
+	Cruz, Amado
+	Denis, Christian (I)
+	Diaz Gomar, Roberto
+	Fernandez, Angel (II)
+	Graell, Juan
+	Guillen Cuervo, Fernando
+	Gomez, Manuel (IV)
+	Jove, Angel
+	Ladoire, Oscar
+	Luna, Luis (I)
+	Maluenda, Luis
+	Mas, Javier (I)
+	Navarro, Jose Antonio
+	Olivera, Pietro
+	Ordonez, Tomas (I)
+	Patatin, Pepe
+	Sala, Juan
+	Sanchez-Migallon, Raul
+	Tome, Alberto
+	Valverde, Rodrigo
+	Bardem, Pilar
+	Barranco, Maria
+	Barrionuevo, Inma
+	Bruna, Leonor (I)
+	Carresi, Marina
+	Grey, Carmen (I)
+	May, Marta
+	Neri, Francesca
+	Pastor, Rosana
+	Perez, Ainara
+	Rodriquez, Gloria
+	Serrano, Pepa
+MOVIE = Looking Back on Love Making Black and White America (2013)
+	Alvarez, Alex (XV)
+	Ayeroff, Jeff (I)
+	Bardem, Javier
+	Baron, David (XII)
+	Breit, Anthony
+	Broomfield, Vincent
+	Cruz, Eduardo (II)
+	Edmonds, Tom (II)
+	Hunter, Michael (XXVIII)
+	Kisoka, Fabien
+	Kravitz, Lenny
+	Laks, George
+	Leonard, Herman
+	Ross, Craig (I)
+	Shorty, Trombone
+	Swizz Beatz
+	Thave, Mathieu
+	Todd, Harold (II)
+	Vanderbilt, Franklin
+	Washington, Rickey
+	Williams, Chris (XII)
+	Woodiel Jr., Dale Paul
+	Allen, Donna (VI)
+	Barston, Amy Sue
+	Campbell, Kim (XII)
+	Cruz, Penelope
+	Enomoto, Kiky
+	Harris, Pauline Kim
+	Kravitz, Zoe
+	Kresek, Katie
+	Richards, Lessa
+	Wilde, Dee Dee
+MOVIE = Los lobos de Washington (1999)
+	Alterio, Ernesto
+	Bardem, Javier
+	Bosch, Jorge
+	Casales, Felix
+	Clavijo, Victor
+	Cortes, Pep
+	Cucalon, Juanjo
+	Camara, Javier (I)
+	Diez, Vicente (I)
+	Fernandez, Adolfo (I)
+	Fernandez, Eduard
+	Garces, Inigo
+	Javivi
+	Maestre, Francisco (I)
+	Molla, Ricardo
+	Moron, Manuel (I)
+	Ormaetxe, Josu
+	San Juan, Alberto
+	Sancho, Jose
+	Topera, Janfri
+	Vellido, Juan Carlos
+	Catalan, Paloma
+	Cifredo, Alicia
+	Duato, Ana
+	Montero, Patricia (II)
+	N'Dongo, Vicenta
+	Pujalte, Maria
+MOVIE = Los lunes al sol (2002)
+	Bardem, Javier
+	Borines, Miguel
+	Bugallo, Celso
+	Cambeiro, Cesar
+	Climent, Joaquin
+	de la Fuente, Pablo
+	Duran 'Morris', Antonio
+	Egido, Jose Angel (I)
+	Gomez, Denis
+	Lima, Andres (I)
+	Mourelos, Antonio
+	Oliva, Pepo
+	Riaboukine, Serge
+	Soaxe, Lois
+	Talco (I)
+	Tejero, Fernando
+	Tosar, Luis
+	Villen, Enrique
+	Vazquez, Jesus (II)
+	Vazquez, Pablo (VI)
+	Zahera, Luis
+	Cervino, Isabel
+	de Medina, Nieve
+	Dominguez, Laura (I)
+	Folch, Aida
+	Garcia, Casilda
+	Garcia, Monica (I)
+	Lopez, Belen (IX)
+	Martinez, Luisa (I)
+	Merelas, Luisa
+	Mestre, Gracia
+MOVIE = Love in the Time of Cholera (2007)
+	Aguilar, Samuel
+	Aldana, Isaac Jos Ricardo
+	Bardem, Javier
+	Basile, Salvatore (I)
+	Bitar, Juan Antonio Restom
+	Bratt, Benjamin (I)
+	Cajales, Fernando
+	Campos, Jose Luis Garcia
+	Canal, Miguel
+	Cardona, Luis Adolfo Tamara
+	Castaneda, Andres (III)
+	de Lavalle Ospino, Antonio Jose
+	Duplat, Carlos
+	Diaz, Julian (I)
+	Echeverri, Gerardo Norberto Arango
+	Elizondo, Hector (I)
+	Galindo, Miguel Angel Pazos
+	Garcia Garzon, Esteban
+	Garcia, Oscar Ezequiel Padilla
+	Gil Caldera, Luis Fernando
+	Hoyos, Luis Fernando
+	Leguizamo, John
+	Linero, Francisco Raul
+	Mah, Alfonso Wong
+	Parra, Andres
+	Parra, Rodolfo Enrique Mercado
+	Pombo, Ivan Diaz
+	Ruiz, Luis Alberto Moreno
+	Sarmiento, Manuel (I)
+	Schreiber, Liev
+	Tavera, Horacio
+	Toro, John Alex
+	Ugalde, Unax
+	Vergara, Rafael
+	Villamil, Nicolas Bolano
+	Zyka, Josef
+	Arboleda, Maria Eugenia
+	Atencia, Maria Alejandra Fuentes
+	Bendek, Rita
+	Borrachero, Alicia
+	Borrero, Alejandra
+	Botero, Catalina
+	Cadavid, Dora
+	Cantor, Adriana
+	Castaneda, Patricia (I)
+	Castro, Margalida
+	Cepeda, Angie
+	Chirolla, Marina
+	Cuervo, Carolina
+	de Insignares, Ena Ortega
+	Forbes, Gina Bernard
+	Garcia, Laura (VI)
+	Gomez, Eliris Sierra
+	Gonzalez, Liliana
+	Harring, Laura
+	Herrera, Maria Cecilia
+	Jaramillo, Rosario
+	Manzur, Lisseth Janeth Figueroa
+	Mar, Marcela
+	Marulanda, Laura Garcia
+	Mezzogiorno, Giovanna
+	Millan, Nohemi
+	Montenegro, Fernanda
+	Moreno, Catalina Sandino
+	Moreno, Denis Mercado
+	Negrao, Rubria
+	Ospino, Beatriz Colombia
+	Rodriguez, Marta Helena Sawades
+	Romero, Maria Teresa Mateos
+	Schonwald, Noelle
+	Serrano, Indhira
+	Talancon, Ana Claudia
+	Turbay, Paola
+	Zuniga, Julieth Paola Hoyos
+MOVIE = Mambru (1996)
+	Aladro, Carlos
+	Ayuso, Sayago
+	Bardem, Javier
+	Cano, Raul
+	Carrion, Jose Pedro
+	Coll, Javi
+	del Viejo, Miguel
+	Lopez Ibarlucea, Jaime
+	Lopez, Daniel (XII)
+	Lopez, Francisco (VIII)
+	Racaj, Santiago
+	Arevalo, Carmen
+	Esteve, Vanesa
+	Godoy, Carmen
+	Inclan, Laura
+	Rodriguez, Flor
+	Ruz, Maria Jesus
+MOVIE = Mas que amor frenesi (1996)
+	Albacete, Javier
+	Albala, Javier
+	Alterio, Ernesto
+	Bardem, Carlos
+	Bardem, Javier
+	Becerra, Juanfra
+	Botto, Juan Diego
+	Cervino, Jose Manuel
+	Colomo, Fernando
+	de la Torre, Antonio (I)
+	Iezzi, Luca
+	Llorente, Jesus
+	Lorente, David
+	Manrique, Javier
+	Mirabal, Daniel
+	Nieto, Pepon
+	Novo, Nancho
+	Olivares, Carlos (I)
+	Rabal, Liberto
+	Salmeron, Gustavo
+	Vea, Cesar
+	Akinfenwa, Miriam
+	Amanda (III)
+	Bardem, Monica
+	Cruz, Penelope
+	Diossa
+	Esteve, Maria
+	Fernandez, Bibiana
+	Gallardo, Nuria
+	Guillen Cuervo, Cayetana
+	La Calva
+	Malyzzia
+	Martin, Elena (II)
+	Ochandiano, Amelia
+	Pastor, Maite
+	Roca, Raquel
+	Rubio, Ingrid
+	Sanroman, Blanca
+	Santiago, Beatriz (I)
+	Tabasco, Paloma
+MOVIE = No Country for Old Men (2007)
+	Adelo, George
+	Alvarado Jr., Angel H.
+	Antonio Garcia, Eduardo
+	Bardem, Javier
+	Bentham, Philip
+	Blaylock, Josh (I)
+	Boyce, Rodger
+	Brolin, Josh
+	Corbin, Barry
+	Cravens, Rutherford
+	Dillahunt, Garret
+	Douglas, Jason (IV)
+	Flick, Scott
+	Fry Jr., Albert
+	Gomez, David A.
+	Greer, Mathew
+	Harrelson, Woody
+	Hector, Johnnie
+	Hernandez, Milton (II)
+	Hopkins, Zach
+	Jackson, Richard (VII)
+	Jones, Caleb Landry
+	Jones, Gene (I)
+	Jones, Tommy Lee
+	Kopache, Thomas
+	Love, Chip
+	Mancha, John
+	Martinez, Angelo (I)
+	Meyer, Josh (III)
+	Miles, Marc
+	Moore, Trent
+	Posey, Matthew
+	Rains, Luce
+	Ray, Dorsey
+	Reeves, Eric (II)
+	Root, Stephen (I)
+	Smith, Brandon (I)
+	Southerland, Boots
+	Uribe, Roland
+	Warner, Chris (IV)
+	Watford, Myk
+	Bowman, Margaret
+	Grant, Beth
+	Gwin, Kit
+	Hargrave, Doris
+	Harper, Tess
+	Lamkin, Kathy
+	Macdonald, Kelly
+	Reeder, Ana (I)
+	Slagsvol, Elizabeth
+MOVIE = Perdita Durango (1997)
+	Arau, Carlos
+	Bacuzzi, Marco
+	Bardem, Carlos
+	Bardem, Javier
+	Berthier, Gabriel
+	Bichir, Demian
+	Caron, Benjamin Joel
+	Cox, Alex (I)
+	Cross, Harley
+	Cudney, Roger (I)
+	Dapra, Paul
+	Galvan, Miguel (I)
+	Gandolfini, James
+	Gooden, James
+	Gomez, Salvador (II)
+	Hawkins, Screamin' Jay
+	Iglesias, Miguel (II)
+	Jacobs, Kenny (I)
+	Kellogg, Dewey
+	Kennedy, Steve (II)
+	Lopez, Roberto (III)
+	Lopez, Marco (I)
+	Paterson, Lazaro
+	Pharrez, Paco
+	Porter, Harry (I)
+	Rodriguez, Cesar (I)
+	Segura, Santiago (I)
+	Smith, Forrie J.
+	So, Jay
+	Stamper, William G.
+	Stone, Norman (II)
+	Strickland, Will 'Nahkohe'
+	Stroud, Don (I)
+	Villalpando, David
+	Vincent, Craig (I)
+	Woolrich, Abel
+	Zepeda, Gerardo
+	Barberi, Katie
+	Blanton, Emily (I)
+	Carlsson, Erika
+	Echanove, Josefina
+	Faller, Jessie
+	Godinez, Cheli
+	Graham, Aimee (I)
+	Orozco, Regina
+	Perez, Rosie
+	Risner, Pam
+	Russell, Andaluz
+	Sinohui, Adelina
+	Zapata, Maya
+	Zapata, Vadira
+MOVIE = Pirates of the Caribbean Dead Men Tell No Tales (2017)
+	Afif, Rodney
+	Armont, Akos
+	Armstrong, Herb (III)
+	Bardem, Javier
+	Barnett, Angus
+	Baxter, Donnie
+	Bloom, Orlando
+	Brown, Adam (XXXIX)
+	Canton, Alexander
+	Caplash, Akshay
+	Chee, Joshua (I)
+	Christopher, Jon (VII)
+	Clayton, Matt (II)
+	Cortez, Nico
+	Deen, Samuel
+	Depp, Johnny
+	Fraser, Andrew (XXII)
+	Frazer, Sean Edward
+	Fulleylove, Jordan
+	Graham, Stephen (I)
+	Hall, Stephen (XXXII)
+	Harris, Dylan Kai
+	Hounsell, Ray
+	Hurley, Matt (III)
+	Ireland, Finn
+	Jadu, Mahesh
+	Jeffery, Travis
+	Karbouris, Baz
+	Keevers, Kris
+	Kingsman, Gary
+	Kirrane, Danny
+	Klebba, Martin
+	Kleut, Goran D.
+	Knights, Joel
+	Lopez, Stephen
+	Lynch, Sean (IV)
+	Mackay, James (V)
+	McGowan, Lewis
+	McMurray, Declan
+	McNally, Kevin (I)
+	Michael, Valiant
+	Oliveira, Joseph (III)
+	Preston, Mark (IX)
+	Radford, Christian
+	Raineri, Rupert (I)
+	Reynolds, John (IX)
+	Rush, Geoffrey
+	Scheer, Alexander
+	Thwaites, Brenton
+	Valentine, Gary (IV)
+	Vellido, Juan Carlos
+	Venkov, George
+	Wenham, David
+	Arnott, Maria
+	Britten, Christie-Lee
+	Farahani, Golshifteh
+	Goodman, Asabi
+	Green, Jessica (XIII)
+	Haley, Madison
+	Lorenz, Rachael (I)
+	Lorenz-Stockdale, Charlotte
+	McMurray, Jenaya
+	Nairn, Piper
+	Pompeo, Melissa
+	Scodelario, Kaya
+	Ventoura, Zoe
+MOVIE = Pronostic reservat (1994)
+	Bardem, Javier
+	Martinez, Marc (I)
+	Molla, Jordi
+	Thio, Eduard
+	Colome, Helena
+	Gil, Maife
+MOVIE = Segunda piel (1999)
+	Albala, Javier
+	Alonso, Ramiro
+	Bardem, Javier
+	Mateos, Ivan
+	Molla, Jordi
+	Queipo, Christian
+	Sac, Adrian
+	Santiago, Luis B.
+	Castro, Pilar (I)
+	Espigado, Silvia
+	Espinosa, Cristina (II)
+	Gil, Ariadna (I)
+	Grey, Carmen (I)
+	Lucrecia
+	Rosal, Angela
+	Roth, Cecilia
+	Sampietro, Mercedes
+MOVIE = Sherman and Pacifico (2012)
+	Bardem, Javier
+	Haugan, Don
+	Sherman, Marc
+	Bast, Tara
+MOVIE = Skyfall (2012)
+	Adegboyega, Daniel
+	Adkin, James
+	Akram, Adil
+	Alley, Bhanu
+	Aoki, Jozef
+	Arsene, Mihai
+	Arthur, Alexander (II)
+	Awasti, Raj
+	Bagayawa, Eddie
+	Banks, Richard (VII)
+	Bardem, Javier
+	Barnett, Steve (XI)
+	Basham, Peter
+	Bay, Chooye
+	Bennett, Greg (XIII)
+	Bentley, Alon
+	Berry, Harry
+	Blackwell, Paul (I)
+	Blitzer, Wolf
+	Bolaji, Adebayo
+	Bonar, Ian (I)
+	Bonfils, Khan
+	Boutrous, Amir
+	Buckhurst, Bill
+	Caesar, Burt
+	Casey, Duncan
+	Comber, Trevor
+	Conway, Jim (IX)
+	Corbin, Leon
+	Coulston, Tom
+	Cowlin, Chris
+	Craig, Daniel (I)
+	Crossley, Elliott
+	Crowder, Myles
+	Curry, Graham
+	D'Imperio, Philippe
+	Darweish, Kammy
+	Davis, Paul (XII)
+	DeSilva, Simon
+	Dickins, Michael
+	Dillon, Kriss
+	Dong, Tank
+	Edip, Mehmet
+	Edwards, Huw
+	Egyiawan, Kurt
+	Fairbrother, Jake
+	Fazzani, Dino
+	Ferdinand, Joshua
+	Fiennes, Ralph
+	Finney, Albert
+	Francis, Brandon
+	Francis, Duane
+	Francis, Jake (I)
+	Frost, Enoch
+	Gillies, David (I)
+	Goh, Nicholas
+	Gordon, Wayne (IV)
+	Harland, Daniel (I)
+	Harris, Lee Nicholas
+	Hazeldine, Kenneth
+	Ho, Rob
+	Hodgkinson, John
+	Hope, Luke
+	Horwood, Nick
+	Howard, Luke (I)
+	Hulten, Jens
+	Ibik, Askin
+	Izzard, Craig
+	Johnstone, Oliver (II)
+	Kapor, Milorad
+	Kershaw, Harry (I)
+	Kinnear, Rory
+	Lee, Orion
+	Leon Martinez, Jorge
+	Letts, Crispin
+	Li, James (VIII)
+	Low, Alan (I)
+	Loyd-Holmes, Ben
+	Lucas, Shaun (III)
+	Lynch, Darren (II)
+	Man, Sid
+	Mayger, Martyn
+	McLeod, Vander
+	Meadows, Duncan
+	Michels, Eric
+	Milne, Gordon (I)
+	Mitchell, Mike (XI)
+	Mulcaster, Stuart
+	Murphy, Benjayx
+	Nolan, Shane (I)
+	Norfolk, David
+	O'Donnell, Anthony (I)
+	Oliver, Mayo
+	Pink, Michael (I)
+	Poole, Martin (II)
+	Rapace, Ola
+	Rasalingam, Selva
+	Riedacher, Michael
+	Scinelli, Santi
+	Sciueref, Christopher
+	Seager, Julian
+	Skottowe, Joss
+	Smith, Neil Alexander
+	So, Clem (I)
+	Stanway, Glen
+	Tauro, Elia Lo
+	Venables, Paul
+	Waiton, Ross
+	Webster, Glenn (I)
+	Whishaw, Ben
+	Williams, Daniel Craig
+	Williams, Dion (II)
+	Wilson, Gregg (II)
+	Wilson, Michael G. (I)
+	Wong, Dave (I)
+	Woodeson, Nicholas
+	Wu, Tom (I)
+	Yang, Liang (I)
+	Yuan, Roger
+	Zýka, Josef
+	Cameron Brown, Jo
+	Cheung, Yennis
+	Cummings, Carol (III)
+	Curnew, Beatrice
+	Dench, Judi
+	Dent, Leigh
+	Doyle, Alexandra
+	du Toit, Elize
+	Elizabeth, Amber
+	Gachev, Neve
+	Harris, Naomie
+	Hickey, Rebecca (IV)
+	Jeffrees, Joanna
+	Jones, Dominique Anne
+	Li, Chelsea
+	Mann, Demi
+	Mariano, Jarah
+	Marlohe, Berenice
+	McCrory, Helen
+	McLean, Katherine Elizabeth
+	Potter, Lisa
+	Sotiropoulou, Tonia
+	Stokely, Hannah
+	Temiz, Senem
+	Thornton, Caroline (II)
+	Tran, Angela (I)
+	Watson Parr, Claira
+MOVIE = Tacones lejanos (1991)
+	Almodovar, Agustin
+	Atkine, Feodor
+	Bardem, Javier
+	Benavente, Javier (I)
+	Bose, Miguel
+	De Lucifer, El Martillo
+	Diez del Corral, Pedro
+	Garbisu, Gabriel
+	Garcia, Abraham (I)
+	Guimaraes, Placido
+	Martin, Luigi (II)
+	Martinez, Nacho (I)
+	Montero, Rodolfo (I)
+	Otegui, Juan Jose
+	Pino, Hilario (I)
+	Prados, Fernando (I)
+	Sacristan, Jose Maria
+	Strello
+	Abril, Victoria
+	Barrado, Lupe
+	Camino, Elia
+	Dominguez, Maria Pau
+	Diaz-Aroca, Miriam
+	Fernandez, Bibiana
+	Garcia, Ana (II)
+	Ibanez, Maria Dolores
+	Lizaran, Anna
+	Llongueras, Angelina
+	Marcos, Cristina (I)
+	Martinez de la Riva, Almudena
+	Mira, Lina
+	Munoz, Yolanda (II)
+	Navarro, Carmen (II)
+	O'Wisiedo, Mayrata
+	Paredes, Marisa
+	Romeu, Montse G.
+	Sanchis, Raquel
+	Siva, Eva
+	Soldevila, Paula
+	Torres, Victoria (I)
+	Vaz, Roxy
+MOVIE = The Counselor (2013)
+	Aguirre, Cesar (III)
+	Bardem, Javier
+	Biggie, Alexander
+	Blades, Ruben
+	Blickem, Vic (I)
+	Brake, Richard
+	Cabral, Richard
+	Cayo, Fernando
+	Dalmases, Roger
+	Dangadze, Gio
+	Dash, Dar
+	De Nogales, Kolya Dam
+	Dukes, Robert (II)
+	Fassbender, Michael
+	Ganz, Bruno
+	Hafner, Alex
+	Haldor, Mark
+	Holguin, Daniel
+	Hugill, John (II)
+	Kebbell, Toby
+	Leguizamo, John
+	Luna, Marco Tulio
+	Marchant, Chris
+	Marzal, Alejandro
+	Max, Arthur (I)
+	Miramontes, Cesar
+	Molina, Carlos Julio
+	Monaco, Gerard
+	Mulvihill, William Henry
+	Norris, Dean (I)
+	Obi, Christopher
+	Paredes, Pablo (II)
+	Pitt, Brad
+	Purwin, Alan D.
+	Ramirez, Edgar (II)
+	Rodriguez, Juan Jose (I)
+	Schwarz, Jurgen
+	Shrimpton, Mark (I)
+	Spano, Frank
+	Spear, Josh
+	Spijksma, Alex
+	Spruell, Sam
+	Topic, Velibor
+	van de Geer, Marijn
+	Ventura, Cavassa
+	Verdejo, Pablo (II)
+	Vialon, Julien
+	Visnjic, Goran
+	Wichard, Josh
+	Young, Eben
+	Air, Donna
+	Cardona, Lidia
+	Cruz, Penelope
+	Dagoo, Eva
+	Deck, Andrea
+	Diaz, Cameron
+	Dormer, Natalie
+	Durkin, Barbara
+	Facio, Giannina
+	Jefferson, Paris
+	Maydew, Provence
+	Perez, Rosie
+	Rigby, Emma
+MOVIE = The Dancer Upstairs (2002)
+	Aguilar, Daniel (I)
+	Aguilar, David (I)
+	Almeida, Joao Emilio
+	Bardem, Javier
+	Bokhari, Yousaf
+	Boonnak, Benjamas
+	Botto, Juan Diego
+	Carreno, Ignacio
+	Carrillo, Carlos (III)
+	Chuen, Lam
+	Chugchilan, Pachacutic
+	Cintra, Luis Miguel
+	Cotton, Oliver (I)
+	Duran, Ignacio
+	Elorriaga, Xabier
+	Emerson, Steve (I)
+	Flores, Jairon
+	Folk, Abel
+	Garcia, Tito (I)
+	Gaspar, Luis
+	Izaguirre, Jose Antonio
+	Jimenez, Ramiro
+	Lopes, Ricardo (I)
+	Lazaro, Eusebio
+	Malkovich, John
+	Manrique, Javier
+	Naranjo, Diego (I)
+	Nunez, German
+	Paez, Javier
+	Repertorio, Nuevo
+	Rodrigues, Alexis
+	Rodriguez, Lucas (I)
+	Salazar, Esteban (I)
+	Sinue, Wolframio
+	Thiebaut, Carlos
+	Urbina, Galo
+	Vellido, Juan Carlos
+	Aguilar, Paulina (I)
+	Agüero, Vivian
+	Al Levi, Nur
+	Astudillo, Montserrat
+	Berganza, Marie-Anne
+	Casari, Celina
+	Cobo, Yohana
+	Dias, Olga
+	Dicenta, Natalia
+	Garrigues, Alicia
+	Iglesias, Montserrat
+	Lencastre, Alexandra
+	Loureiro, Joana
+	Lozano, Ana (IV)
+	Manrique, Elvira
+	Morante, Laura
+	Minguez, Elvira
+	Noboa, Veronica
+	Peno, Lola
+	Prinz, Isabel
+	Rivera, Maribel
+	Rocha, Raquel (I)
+	Tarnawiecki, Natalia
+	Torresblanco, Frida
+	Walker, Devon (I)
+MOVIE = The Gunman (2015)
+	Adegboyega, Daniel
+	Alhassan, Yussifu
+	Anganda, Gino
+	Aoki, Jozef
+	Ayinde, David Olawale
+	Bardem, Javier
+	Barisey, Florian
+	Beltran, Domingo
+	Billingham, Billy (II)
+	Blakeley, David (I)
+	Brooke, Peter (I)
+	Buale, Emilio
+	Caballero, Dacio
+	Capdet, Xavier
+	Cham, Baboucarr Mbye
+	Choong, Siong Loong
+	Comber, Trevor
+	Corvillo, Tony
+	Curtis, Clive
+	Dannenberg, Juan Carlos
+	De Lega, Armando
+	Elba, Idris
+	Foote, Dan (II)
+	Foronda, Oscar
+	Franzen, Peter
+	Fabrega, Carlus
+	Garcia, Jordi (V)
+	Gomis, Hubert
+	Hayden, Erick
+	Holland, Leigh (I)
+	Howkins, David
+	Hurley-Smith, Bomber
+	Joseph, Jegede
+	Kande, John Samuel
+	Lehane, Brian
+	Leon Martinez, Jorge
+	Lopez, Jesus (XII)
+	Luque, Miguel Angel
+	Martinez, Boris
+	McCoy, Simon (II)
+	Munne, Pep
+	Murnaghan, Dermot
+	Oliveira, Joseph (III)
+	Oppong, Enock
+	Oyefeso, Ade
+	Padron, Abian
+	Penn, Sean (I)
+	Pujolras, Xavier
+	Puwanarajah, Prasanna
+	Rajpal, Ricky
+	Ripeu, Miquel Angel
+	Rodgers, Alito
+	Rylance, Mark
+	Sackur, Stephen
+	Schardan, Mark
+	Scott, James Thomas
+	Solar, Cesar (I)
+	Starkie, Chris
+	Swiftt, Jayme
+	Talavante, Alejandro
+	Tunkara, Amara
+	Tunkara, Ismael
+	Usin, Cuco
+	Warman, John
+	Westwood, Daniel
+	Winstone, Ray (I)
+	Zyka, Josef
+	Blades, Lynn
+	Blasi, Txiki
+	Boneva, Paulina
+	Breaban, Ancuta
+	Dee, Ginny (I)
+	Dent, Leigh
+	Diaz, Elia (I)
+	Fernandez, Catalina
+	Fuente, Angela
+	Gomez, Angel (II)
+	Kaplinsky, Natasha
+	Lascar, Rachel
+	Matthews, Melina
+	Moyle, Sarah
+	Olivera, Blanca Star
+	Polley, TyLean
+	Perez, Carla (II)
+	Rosan, Deborah
+	Sharpe, Janette
+	Trinca, Jasmine
+	Weerts, Annick
+	Yelamos, San
+MOVIE = The Last Face (2015)
+	Bardem, Javier
+	Best, Oscar
+	Harris, Jared (I)
+	Miccoli, Justin
+	Penn, Hopper
+	Reno, Jean (I)
+	Stein, Christopher (II)
+	Brossard, Julie
+	Exarchopoulos, Adèle
+	Gainullina, Olga
+	Jablonska, Dominika (I)
+	Mlambo, Sibo
+	Muhoho, Sarah
+	Reed, Bronwyn
+	Theron, Charlize
+	Weyime, Ebby
+MOVIE = To the Wonder (2012)
+	Affleck, Ben
+	Anderson, Jeff (XXXIX)
+	Anderson, Michael (LXXXVII)
+	Baker, Charles (II)
+	Bardem, Javier
+	Bell, Marshall
+	Black, Wigi
+	Boston, Lois
+	Brown, Shane (V)
+	Bumpus, Michael
+	Christiansen, Brian (II)
+	Clark, Ashley (X)
+	Conner, Jamie
+	Corley, Dan (I)
+	Cox, Darryl (I)
+	Elliott, Gregg
+	Gardner, Francis
+	Hines, Jack (I)
+	Horsley, Bobby Davis
+	Inman, Danyeil
+	Johnson, Emma (XI)
+	Macdonald, Tom (I)
+	Mason, Scott (IX)
+	O'Gans, Tony
+	Patnode, Darren
+	Peabody, Bruce
+	Riddle, William (III)
+	Vaclaw, Russell
+	Van Liew, Doug
+	Williams, Casey (IX)
+	Williams, Greg (LI)
+	Woodhams, Kenneth
+	York, Terry (III)
+	Always, Paris
+	Baruch, Tamar (I)
+	Chiline, Tatiana
+	Christiansen, Amy (II)
+	Folks, Samaria
+	Gilmartin, Ginger
+	Kurylenko, Olga
+	McAdams, Rachel
+	Mondello, Romina
+	Vandalia, Cassidee
+MOVIE = Variaciones 1113 (2003)
+	Bardem, Javier
+	Borges, Jorge Luis
+	Carrion, Jose Pedro
+	Cervino, Jose Manuel
+	Fernan Gomez, Fernando
+	Gil, Manuel (I)
+	Picazo, Angel (I)
+	Pou, Josep Maria
+	Rabal, Francisco
+	Cohen, Emma (I)
+	Sastre, Ines
+MOVIE = Vicky Cristina Barcelona (2008)
+	Barcelo, Manel
+	Bardem, Javier
+	Baste, Jordi
+	Bennett, Michael (VIII)
+	Caner, Christian
+	de Benito, Emilio
+	Domènech, Josep Maria (II)
+	Dunn, Kevin (I)
+	Folk, Abel
+	Joan, Joel
+	Messina, Chris (I)
+	Mir, Paco
+	Montane, Jaume (I)
+	Moon, Oliver
+	Orth, Zak
+	Pera, Joan
+	Perillan, Julio
+	Quesada, Juan (II)
+	Rojas, Rodrigo (IV)
+	Salom, Ricard
+	Schreiber, Pablo
+	Sonnenberg, Maurice
+	Welch, Christopher Evan
+	Bertran, Lloll
+	Clarkson, Patricia
+	Cruz, Penelope
+	Hall, Rebecca (I)
+	Johansson, Scarlett
+	Preston, Carrie (I)
+	Sabate, Silvia
+MOVIE = Extasis (1996)
+	Bardem, Javier
+	Botto, Juan Diego
+	Carreno, Ignacio
+	Catala, Paco
+	Cortes, Pep
+	Diaz, Juan (I)
+	Guinyol, Pep
+	Guzman, Daniel (I)
+	Lucas, Carlos (I)
+	Luppi, Federico
+	Lusson, Alfonso
+	Mauleon, Joshean
+	Pinilla, David
+	Prado, Juan (I)
+	Queen, Mr.
+	Rodriguez, Guillermo (II)
+	Berrocal, Leyre
+	Castro, Mercedes (I)
+	Condado, Fanny
+	Munt, Silvia
+	Munoz, Elia
+	Pombo, Macarena
+MOVIE = Cartaz Cultural (2003)
+	Bacon, Kevin (I)
+	Bale, Christian
+	Bana, Eric
+	Bardem, Javier
+	Camane
+	Canelas, Ivo
+	Cintra, Luis Miguel
+	Corbet, Brady
+	Crawford, Chace
+	Culkin, Rory
+	Dafoe, Willem
+	Dallas, Matt (I)
+	Dano, Paul
+	de Almeida, Joaquim
+	De Niro, Robert
+	de Oliveira, Manoel
+	Depp, Johnny
+	DiCaprio, Leonardo
+	Duarte, Filipe (II)
+	Duchovny, David
+	Franco, James
+	Garrel, Louis
+	Gordon-Levitt, Joseph
+	Gyllenhaal, Jake
+	Infante, Diogo
+	Jonas, Joe
+	Jonas, Kevin
+	Jonas, Nick
+	Ledger, Heath
+	Long, Justin (I)
+	Lopes, Nuno (I)
+	Malkovich, John
+	Morais, Edgar
+	Morais, Rafael
+	Murphy, Cillian
+	Pacino, Al (I)
+	Parrish, Hunter (III)
+	Pattinson, Robert
+	Pitt, Brad
+	Pitt, Michael (II)
+	Rhys Meyers, Jonathan
+	Ronaldo, Cristiano
+	Ruffalo, Mark
+	Tatum, Channing
+	Westwick, Ed
+	Wilson, Patrick (I)
+	Anderson, Gillian (I)
+	Barrymore, Drew (I)
+	Batarda, Beatriz
+	Blanchett, Cate
+	Bledel, Alexis
+	Cerveira, Sofia
+	Collette, Toni
+	Connelly, Jennifer
+	Cornish, Abbie
+	de Sousa, Adelaide
+	Dunst, Kirsten
+	Fanning, Dakota
+	Fox, Megan (I)
+	Furtado, Nelly
+	Green, Eva (I)
+	Gyllenhaal, Maggie
+	Keener, Catherine
+	Kidman, Nicole
+	Knightley, Keira
+	Meester, Leighton
+	Moniz, Lucia (I)
+	Moore, Julianne
+	Page, Ellen
+	Portman, Natalie
+	Sagnier, Ludivine
+	Sevigny, Chloe
+	Stewart, Kristen (I)
+	Streep, Meryl
+	Thurman, Uma
+	Wilde, Olivia
+	Williams, Michelle (I)
+	Winslet, Kate
+MOVIE = El dia por delante (1989)
+	Bardem, Javier
+	Millan, Santi
+	Navarro, Pepe (I)
+	Romero, Antonio (VI)
+	Rosa, Juan
+	Ruiz, Rafael (II)
+	Sarria, Manuel
+	Urrialde, Santiago
+	Martinez, Sonia (I)
+	Serrano, Isabel
+MOVIE = Extreme Close Up with (2001)
+	Bardem, Javier
+	Schnabel, Julian
+	Thomas, Jeremy (XV)
+	Thornton, Billy Bob
+	Willis, Bruce
+	Barrymore, Drew (I)
+	Blanchett, Cate
+	Malave, Tina
+MOVIE = Movie Rush (2006)
+	Affleck, Ben
+	Apatow, Judd
+	Bana, Eric
+	Bardem, Javier
+	Brand, Russell
+	Buscemi, Steve
+	Cage, Nicolas
+	Cera, Michael
+	Christensen, Hayden
+	Considine, Paddy
+	Damon, Matt
+	Ferrell, Will (I)
+	Freeman, Martin (II)
+	Frost, Nick (I)
+	Gervais, Ricky
+	Giamatti, Paul
+	Groening, Matt
+	Hanks, Tom
+	Hill, Jonah
+	Hirsch, Emile
+	Maguire, Tobey
+	McGregor, Ewan
+	Norton, Edward (I)
+	Pegg, Simon
+	Rogen, Seth
+	Rudd, Paul (I)
+	Seinfeld, Jerry
+	Spacey, Kevin
+	Travolta, John (I)
+	Vaughn, Vince (I)
+	Washington, Denzel
+	Alba, Jessica
+	Blanchett, Cate
+	Bosworth, Kate
+	Johansson, Scarlett
+	Miller, Sienna
+	Portman, Natalie
+	Ricci, Christina (I)
+	Sarandon, Susan (I)
+	Zellweger, Renee

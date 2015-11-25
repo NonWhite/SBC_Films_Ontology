@@ -1,0 +1,160 @@
+MOVIE = A Nightmare on Elm Street (1984)
+	Craven, Wes
+MOVIE = Alice in Wonderland (2010)
+	Conroy, Michael (IX)
+MOVIE = Alice Through the Looking Glass (2016)
+	Bobin, James
+MOVIE = All the Love You Cannes! (2002)
+	Friedman, Gabriel
+	Kaufman, Lloyd
+	McGrath, Sean (I)
+MOVIE = Arizona Dream (1992)
+	Kusturica, Emir
+MOVIE = Before Night Falls (2000)
+	Schnabel, Julian
+MOVIE = Benny & Joon (1993)
+	Chechik, Jeremiah S.
+MOVIE = Black Mass (2015)
+	Cooper, Scott (III)
+MOVIE = Blow (2001)
+	Demme, Ted
+MOVIE = Breakfast with Hunter (2003)
+	Ewing, Wayne
+MOVIE = Buy the Ticket Take the Ride Hunter S Thompson on Film (2006)
+	Thurman, Tom (I)
+MOVIE = Cannes Man (2011)
+	Martini, Richard (I)
+MOVIE = Charlie and the Chocolate Factory (2005)
+	Burton, Tim (I)
+MOVIE = Charlie The Life and Art of Charles Chaplin (2003)
+	Schickel, Richard
+MOVIE = Chocolat (2000)
+	Hallstrom, Lasse
+MOVIE = CINEMAsuisse Marc Forster (2012)
+	Muri, Fritz
+MOVIE = Close Up (2012)
+	Sossi, Tiziano
+MOVIE = Cry-Baby (1990)
+	Waters, John (I)
+MOVIE = Dark Shadows (2012)
+	Burton, Tim (I)
+	Lauengco, Dennis
+MOVIE = Dead Man (1995)
+	Jarmusch, Jim
+MOVIE = Don Juan DeMarco (1994)
+	Leven, Jeremy
+MOVIE = Dont Say No Until I Finish Talking The Story of Richard D Zanuck (2013)
+	Bouzereau, Laurent
+MOVIE = Donnie Brasco (1997)
+	Newell, Mike (I)
+MOVIE = Dummies (1985)
+	Frank, Laurie (I)
+MOVIE = Ed Wood (1994)
+	Burton, Tim (I)
+MOVIE = Edward Scissorhands (1990)
+	Burton, Tim (I)
+MOVIE = Fear and Loathing in Las Vegas (1998)
+	Gilliam, Terry
+MOVIE = Finding Neverland (2004)
+	Forster, Marc (I)
+MOVIE = For No Good Reason (2012)
+	Paul, Charlie
+MOVIE = Freddys Dead The Final Nightmare (1991)
+	Talalay, Rachel
+MOVIE = From Hell (2001)
+	Hughes, Albert (I)
+	Hughes, Allen
+MOVIE = Gonzo The Life and Work of Dr Hunter S Thompson (2008)
+	Gibney, Alex (I)
+MOVIE = Ils se marierent et eurent beaucoup denfants (2004)
+	Attal, Yvan
+MOVIE = In Search of Ted Demme (2010)
+MOVIE = Into the Woods (2014)
+	Marshall, Rob (I)
+MOVIE = Joe Strummer The Future Is Unwritten (2007)
+	Temple, Julien
+MOVIE = Lowell Blues The Words of Jack Kerouac (2000)
+	Ferrini, Henry
+MOVIE = Lucky Them (2013)
+	Griffiths, Megan (I)
+MOVIE = Marc Forster - Der Weg zu 007 (2008)
+	Muri, Fritz
+MOVIE = Mortdecai (2015)
+	Koepp, David
+MOVIE = Nick of Time (1995)
+	Badham, John
+MOVIE = Once Upon a Time in Mexico (2003)
+	Rodriguez, Robert (I)
+MOVIE = Pirates of the Caribbean At Worlds End (2007)
+	Bridger, Nick
+	Verbinski, Gore
+MOVIE = Pirates of the Caribbean Dead Mans Chest (2006)
+	Verbinski, Gore
+MOVIE = Pirates of the Caribbean Dead Men Tell No Tales (2017)
+	Ronning, Joachim
+	Sandberg, Espen
+MOVIE = Pirates of the Caribbean On Stranger Tides (2011)
+	Marshall, Rob (I)
+MOVIE = Pirates of the Caribbean The Curse of the Black Pearl (2003)
+	Verbinski, Gore
+MOVIE = Platoon (1986)
+	Stone, Oliver (I)
+MOVIE = Private Resort (1985)
+	Bowers, George (I)
+MOVIE = Public Enemies (2009)
+	Mann, Michael (I)
+MOVIE = RPG (1986)
+	Sheen, Charlie
+MOVIE = RPG II (1988)
+	Sheen, Charlie
+MOVIE = Radioman (2012)
+	Kerr, Mary (II)
+MOVIE = Rock and a Hard Place Another Night at the Agora (2008)
+	Wells, Aaron T.
+MOVIE = Secret Window (2004)
+	Koepp, David
+MOVIE = Sleepy Hollow (1999)
+	Burton, Tim (I)
+MOVIE = Sunset Strip (2012)
+	Fjellestad, Hans
+MOVIE = Sweeney Todd The Demon Barber of Fleet Street (2007)
+	Burton, Tim (I)
+MOVIE = Taste of Hollywood (2009)
+	Ryan, Richard (XII)
+MOVIE = The Astronauts Wife (1999)
+	Ravich, Rand
+MOVIE = The Brave (1997)
+	Depp, Johnny
+MOVIE = The Imaginarium of Doctor Parnassus (2009)
+	Gilliam, Terry
+MOVIE = The Libertine (2004)
+	Dunmore, Laurence
+MOVIE = The Lone Ranger (2013)
+	Verbinski, Gore
+MOVIE = The Man Who Cried (2000)
+	Potter, Sally (I)
+MOVIE = The Ninth Gate (1999)
+	Polanski, Roman (I)
+MOVIE = The Rum Diary (2011)
+	Robinson, Bruce (I)
+MOVIE = The Source The Story of the Beats and the Beat Generation (1999)
+	Workman, Chuck
+MOVIE = The Tourist (2010)
+	Henckel von Donnersmarck, Florian
+MOVIE = Transcendence (2014)
+	Pfister, Wally
+MOVIE = Tusk (2014)
+	Smith, Kevin (I)
+MOVIE = Unite for Japan (2011)
+	Watanabe, Ken (I)
+MOVIE = Whats Eating Gilbert Grape (1993)
+	Hallstrom, Lasse
+MOVIE = When the Road Bends Tales of a Gypsy Caravan (2006)
+	Dellal, Jasmine
+MOVIE = Yoga Hosers (2016)
+	Smith, Kevin (I)
+MOVIE = Cartaz Cultural (2003)
+	Airoso, Eduardo
+	Dias, Carlos Pedro
+MOVIE = United States of Poetry (1995)
+	Pellington, Mark

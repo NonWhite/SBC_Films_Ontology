@@ -1,0 +1,111 @@
+MOVIE = Resultado final (1998)
+	Bardem, Juan Antonio
+MOVIE = Airbag (1997)
+	Bajo Ulloa, Juanma
+MOVIE = Alacran enamorado (2013)
+	Zannou, Santiago
+MOVIE = Amo tu cama rica (1992)
+	Martinez Lazaro, Emilio
+MOVIE = Before Night Falls (2000)
+	Schnabel, Julian
+MOVIE = Biutiful (2010)
+	Gonzalez Inarritu, Alejandro
+MOVIE = Boca a boca (1995)
+	Gomez Pereira, Manuel
+MOVIE = Brain (1991)
+	De La Sierra, Pau
+MOVIE = Carne tremula (1997)
+	Almodovar, Pedro
+MOVIE = Collateral (2004)
+	Mann, Michael (I)
+MOVIE = Dias contados (1994)
+	Uribe, Imanol
+MOVIE = Eat Pray Love (2010)
+	Murphy, Ryan (I)
+MOVIE = El amante bilingue (1993)
+	Aranda, Vicente
+MOVIE = El amor perjudica seriamente la salud (1996)
+	Gomez Pereira, Manuel
+MOVIE = El detective y la muerte (1994)
+	Suarez, Gonzalo (I)
+MOVIE = El mundo es tuyo (2004)
+	Borrell, Jose Maria
+MOVIE = Entre las piernas (1999)
+	Gomez Pereira, Manuel
+MOVIE = Goyas Ghosts (2006)
+	Forman, Milos
+MOVIE = Hijos de las nubes la última colonia (2012)
+	Longoria, Alvaro
+MOVIE = Huevos de oro (1993)
+	Luna, Bigas
+MOVIE = Huidos (1993)
+	Gracia, Sancho
+MOVIE = Jamon Jamon (1992)
+	Luna, Bigas
+MOVIE = Journey to Sundance (2014)
+	Starks, Julian
+MOVIE = La madre (1995)
+	Bardem, Miguel
+MOVIE = La teta y la luna (1994)
+	Luna, Bigas
+MOVIE = Las Alas del Fenix (2005)
+	Borrell, Jose Maria
+MOVIE = Las edades de Lulu (1990)
+	Luna, Bigas
+MOVIE = Looking Back on Love Making Black and White America (2013)
+	Bitton, Mathieu
+MOVIE = Los lobos de Washington (1999)
+	Barroso, Mariano
+MOVIE = Los lunes al sol (2002)
+	Leon de Aranoa, Fernando
+MOVIE = Love in the Time of Cholera (2007)
+	Newell, Mike (I)
+MOVIE = Mambru (1996)
+	Perez Jimenez, Pedro
+MOVIE = Más que amor frenesí (1996)
+	Albacete, Alfonso (I)
+	Bardem, Miguel
+	Menkes, David
+MOVIE = No Country for Old Men (2007)
+	Coen, Ethan
+	Coen, Joel
+MOVIE = Perdita Durango (1997)
+	de la Iglesia, Alex
+MOVIE = Pirates of the Caribbean Dead Men Tell No Tales (2017)
+	Ronning, Joachim
+	Sandberg, Espen
+MOVIE = Pronostic reservat (1994)
+	Mollà, Antonio
+MOVIE = Segunda piel (1999)
+	Vera, Gerardo (I)
+MOVIE = Sherman and Pacifico (2012)
+	Tarr, Daniel (I)
+MOVIE = Skyfall (2012)
+	Mendes, Sam (I)
+MOVIE = Tacones lejanos (1991)
+	Almodovar, Pedro
+MOVIE = The Counselor (2013)
+	Scott, Ridley
+MOVIE = The Dancer Upstairs (2002)
+	Malkovich, John
+MOVIE = The Gunman (2015)
+	Morel, Pierre (I)
+MOVIE = The Last Face (2015)
+	Penn, Sean (I)
+MOVIE = To the Wonder (2012)
+	Malick, Terrence
+MOVIE = Variaciones 1113 (2003)
+	Aguirre, Javier (I)
+MOVIE = Vicky Cristina Barcelona (2008)
+	Allen, Woody
+MOVIE = Extasis (1996)
+	Barroso, Mariano
+MOVIE = Cartaz Cultural (2003)
+	Airoso, Eduardo
+	Dias, Carlos Pedro
+MOVIE = El dia por delante (1989)
+	Navarro, Mari
+MOVIE = Extreme Close Up with (2001)
+	Rigler, Thomas
+MOVIE = Movie Rush (2006)
+	McNally, Matt

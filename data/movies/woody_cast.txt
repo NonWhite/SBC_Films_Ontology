@@ -1,0 +1,2954 @@
+MOVIE = A Midsummer Nights Sex Comedy (1982)
+	Allen, Woody
+	Barbour, Thomas (I)
+	Copeland, David (VI)
+	Farentino, Tony
+	Ferrer, Jose (I)
+	Frieder, Sol
+	Higgins, Michael (I)
+	Jenkins, Timothy (I)
+	Redfield, Adam
+	Roberts, Tony (I)
+	Rosenfeld, Moishe
+	Zoubok, Boris
+	Biano, Sandy
+	Farrow, Mia
+	Hagerty, Julie
+	McGregor-Stewart, Kate
+	O'Heaney, Caitlin
+	Steenburgen, Mary
+MOVIE = Alice (1990)
+	Attaway, Roy
+	Balaban, Bob
+	Baldwin, Alec
+	Chan, Kim (I)
+	Cherry, Alfred
+	Cortino, Anthony
+	Edelson, Kenneth
+	Hurt, William
+	Luke, Keye
+	Manos, George J.
+	Mantegna, Joe
+	McDaniel, James (I)
+	O'Neal, Patrick (I)
+	Polenz, Robert
+	Rubin, Marshall
+	Snell, Don
+	Spielberg, David
+	Sullivan, Michael-Vaughn
+	Taylor, Billy (I)
+	Terban, Marvin
+	Toback, James
+	Tolan, Peter
+	Wheeler, Ira
+	Williamson, Matthew H.
+	Aaron, Caroline
+	Barrett, Amy (I)
+	Bartlett, Robin
+	Bridges, Lynda
+	Cheng, Diane
+	Danner, Blythe
+	Davis, Judy (I)
+	Farrow, Mia
+	Gallagher, Gina (I)
+	Graves, Kristy
+	Henry, Alexi
+	Hugot, Marceline
+	Kavner, Julie
+	Kimbrell, Diane
+	Long, Jodi (I)
+	Macpherson, Elle
+	Marie, Lisa (I)
+	Miley, Peggy
+	Miner, Rachel (I)
+	Moore, Patience
+	Nayber, Laurie
+	O'Neill, Suzanne
+	O'Sullivan Farrow, Dylan
+	Peters, Bernadette
+	Salinger, Diane
+	Schumann, Katja (IV)
+	Shepherd, Cybill
+	Squibb, June
+	Stein, Mary (I)
+	Taylor, Holland
+	Thomas, Vanessa (III)
+	Verdon, Gwen
+	Wallem, Linda
+	Weston-Moran, Kim
+MOVIE = Annie Hall (1977)
+	Allen, Gary (I)
+	Allen, Woody
+	Anzell, Hy
+	Aronin, Michael (I)
+	Balter, James
+	Bandhu, Ved
+	Bernstein, Walter
+	Bertoni, Riccardo
+	Burge, James (I)
+	Callahan, Lee
+	Callaway, William (I)
+	Capote, Truman
+	Carson, Wayne (I)
+	Cavett, Dick
+	Crawford, Scott (III)
+	Davis, Humphrey
+	Dentice, Keith
+	Doucette, Gregory
+	Doumanian, John
+	Gampel, Chris
+	Glover, John (I)
+	Goldblum, Jeff
+	Gould, Eric (I)
+	Haymer, Johnny
+	Horton, Russell (I)
+	Johnston, John Dennis
+	Karm, Michael (I)
+	Landers, Alan
+	Lawner, Mordecai
+	Lenard, Mark
+	Levin, Charles (I)
+	MacKrell, James
+	Maroff, Bob
+	McLuhan, Marshall
+	Mule Deer, Gary
+	Munk, Jonathan (I)
+	Newman, Roger (I)
+	O'Brien, Vince (I)
+	Ottenheimer, Albert
+	Perezic, Hamit
+	Petrucelli, Rick
+	Picetti, Lou
+	Roberts, Tony (I)
+	Rosenblatt, Martin
+	Ruskin, Dan
+	Simon, Paul (I)
+	Styles, Bernie
+	Symington, Donald
+	Vohs, Frank
+	Walken, Christopher
+	Walter, Tracey
+	Wier, David (I)
+	Bird, Laurie
+	Bowan, Sybil
+	Boylan, Mary (I)
+	Casey, Shaun
+	Citron, Jan
+	D'Angelo, Beverly (I)
+	Dewhurst, Colleen
+	Duvall, Shelley
+	Flippin, Lucy Lee
+	Frost, Jean Sarah
+	Girard, Wendy
+	Hack, Shelley
+	Johnson, Petronia
+	Jones, Christine (I)
+	Kane, Carol (I)
+	Keaton, Diane
+	Levitan, Amy
+	Ludlam, Helen
+	Margolin, Janet
+	Mellinger, Susan
+	Neuman, Joan
+	Novikoff, Rashel
+	Paris, Robin Mary
+	Radburn, Veronica
+	Trueman, Paula
+	Tupper, Loretta
+	Volner, Ruth
+	Warwick, Margaretta
+	Weaver, Sigourney
+MOVIE = Another Woman (1988)
+	Behn, Noel
+	Bosco, Philip (I)
+	Friedman, Bruce Jay
+	Gelber, Jack
+	Hackman, Gene
+	Hamilton, Josh (I)
+	Holm, Ian
+	Houseman, John (I)
+	Kirby, Michael (I)
+	Leighton, Bernie
+	Levy, Jacques (I)
+	Mailer, Stephen
+	Melamed, Fred
+	Munna, Dax
+	Schenck, John
+	Sheinberg, Georges
+	Sills, Paul (I)
+	Stiers, David Ogden
+	Sweda, Fred
+	Towey, John
+	Welsh, Kenneth
+	Yulin, Harris
+	Buckley, Betty (I)
+	Conroy, Frances
+	Dahm, Gretchen
+	Danner, Blythe
+	Dennis, Sandy (I)
+	Farrow, Mia
+	Frank, Janet
+	Friedman, Dee Dee
+	Grody, Kathryn
+	Ivey, Dana
+	Laslo, Mary
+	Marx, Margaret
+	McComb, Jennifer Lynn
+	McGee, Caroline
+	Plimpton, Martha
+	Rowlands, Gena
+	Schock, Carlotta
+	Schultz, Carol (I)
+	Spivak, Alice
+	Sullivan, Heather (II)
+	Whitaker, Jill
+MOVIE = Anything Else (2003)
+	Allen, Woody
+	Arkin, Anthony
+	Babbin, James
+	Biggs, Jason (I)
+	Conrad, David (I)
+	DeVito, Danny
+	Edelson, Kenneth
+	Fallon, Jimmy
+	Garvey, Ray
+	Grant, Carson (I)
+	Grenier, Adrian
+	Hill, William (I)
+	Jefferson, David (II)
+	LaPlaca, Charles
+	McLarty, Zach
+	Orvis, Greg
+	Pope, Ralph (I)
+	Ribustello, Anthony J.
+	Sonnenberg, Maurice
+	Stellato, Frank
+	Stevens, Fisher
+	Taylor, Joseph Lyle
+	Tonken, Eric
+	Channing, Stockard
+	Krall, Diana
+	Kullman, Wynter
+	Leerhsen, Erica
+	Ricci, Christina (I)
+	Russo, Melisanne
+	Strickland, KaDee
+MOVIE = Bananas (1971)
+	Ackerman, Stanley
+	Allen, Woody
+	Anderson, Axel
+	Anzell, Hy
+	Axelrod, Jack
+	Bain, Conrad
+	Barth, Eddie
+	Braden, John (I)
+	Callinan, Dick
+	Carroll, Beeson
+	Caso, Anthony
+	Chapman, Ted (I)
+	Cosell, Howard
+	Crowley, Ed (I)
+	De Beer, Baron
+	DeVito, Danny
+	Dudley, Robert (II)
+	Dunphy, Don
+	Enriquez, Rene
+	Evans, Norman (II)
+	Frazer, Dan
+	Garfield, Allen
+	Grimsby, Roger
+	Hughes, Arthur (I)
+	Montalban, Carlos
+	Morales, Jacobo
+	O'Connell, Bob (I)
+	Ortiz, David (I)
+	Peraza, Eulogio
+	Perez, Tigre
+	Saunders, Nicholas (I)
+	Stallone, Sylvester
+	Suarez, Miguel Angel (I)
+	Switkes, Willy
+	Abascal, Nati
+	Catlett, Mary Jo
+	Crane, Dagne
+	Fatosh, Princess
+	Fox, Dorothi
+	Greenhouse, Martha
+	Hellendall, Ines
+	Hengst, Marilyn
+	Lasser, Louise
+	Rae, Charlotte
+MOVIE = Blue Jasmine (2013)
+	Agid, Gary
+	Arness, Andy
+	Baldwin, Alec
+	Bellan, Joe
+	Bland, John Harrington
+	Boxell, Mickey
+	Bridges, Patrick D
+	C.K., Louis
+	Cannavale, Bobby
+	Cantu, Martin
+	Casella, Max
+	Caspillo, Glen
+	Chamberlain, Cabran E.
+	Clay, Andrew Dice
+	Conti, Richard (I)
+	Cuellas, Nestor
+	Dalby, Thomas
+	Edelson, Kenneth
+	Ehrenreich, Alden
+	Else, Ryan
+	Engler, Patrick
+	Eydelman, Aleks
+	Factora, Marshall
+	Farwood, Dean (I)
+	Fleshler, Glenn
+	Greene, Christopher (VII)
+	Hepner, Daniel
+	Jenkins, Jeffrey W.
+	Jenks, Daniel
+	Johnston, Keenan
+	Kellicut, Conor
+	Kemp, Tom (I)
+	Lasquete, Rick
+	Lavell, Mark (I)
+	Long, Andrew (XIX)
+	Lopez, Alejandro (XVIII)
+	Meyerson, Michael (II)
+	Minto, Justin
+	Mykals, Cloud
+	Neustadt, Ted
+	Nichols, Steven Jon
+	O'Brien, Michael (XLIV)
+	Palagonia, Al
+	Pelaez, Jekyns
+	Ram, Duane
+	Rankin, Jeff
+	Rubin, Christopher (I)
+	Rush Freeman, Boston
+	Rutherford, Max
+	Sampson, Brian
+	Sarsgaard, Peter
+	Savella, Gregg
+	Schreiber, Carl
+	Sonnenberg, Maurice
+	Stuhlbarg, Michael
+	Tahan, Charlie
+	Talbot, Tim
+	Thomson, Colin (I)
+	Totis, Nicholas
+	Weston II, James D.
+	Wiig, Steven
+	Zimmerman, Leonard (I)
+	Alexander, Jaden
+	Allan, Laurena
+	Amos, Diane
+	AnnaCorey
+	Bergl, Emily
+	Blanchard, Tammy
+	Blanchett, Cate
+	Booker, Shelley K.
+	Carlin, Joy
+	Connor, Tiffany
+	De Jesus, Ivette
+	Diamond, Val
+	Fedotowsky, Ali
+	Finn, Shannon (I)
+	Foley, Lynn
+	Freeman, London
+	Garrick, Barbara
+	Gilton, Tina
+	Grady, Adrianne
+	Hawkins, Sally (I)
+	Hebert, Allene
+	Hsu, Emily
+	Indelicato, Julietta
+	Jahier, Donna Sue
+	Kopf, Kim
+	Levi, Irit
+	Lore, Annie
+	Lyles, Leslie
+	MacNeal, Catherine
+	Mapp, Yoli
+	Maricely, Tatiana
+	McNamara, Annie
+	Montoya, Mahal
+	Nkechi
+	Pace, Jessiqa
+	Perry, Melanie Deane
+	Rieloff, Alexandra Tejeda
+	Ross, Vanessa (III)
+	Sandow, Peggy
+	Savella, Emma
+	Sosine, Gretta
+	Steir, Laurel
+	Thayer, Brynn
+	Tiemann, Katy
+	Tong, Kathy
+	Travers, Virginia (I)
+	Tung Crystal, Lily
+	Valley, Lynne
+	Vick, Etienne
+	Zeitlin, Josephine
+MOVIE = Broadway Danny Rose (1984)
+	Allen, Woody
+	Axler, George
+	Badalucco, Michael
+	Baron, Sandy (I)
+	Berle, Milton
+	Bordo, Edwin
+	Castellotti, Peter (I)
+	Cosell, Howard
+	D'Amodio, Charles
+	Dahdah, Robert
+	Davis Jr., Sammy (I)
+	DeAngelo, Bobby
+	Doumanian, John
+	Forte, Nick Apollo
+	Franklin, Joe (I)
+	Gayle, Jackie
+	Greco, Paul (I)
+	Gunty, Morty
+	Hardwick, Mark (I)
+	Jordan, Will (I)
+	Kieserman, David
+	Kissel, David I.
+	Lanzano, Richard
+	Maccone, Ronald
+	Matteo, Dom
+	Monica, Corbett
+	Pantano, Nicholas
+	Pantano, Rocco
+	Paulson, William (I)
+	Pistilli, Carl
+	Renzulli, Frank
+	Reynolds, Gary (I)
+	Reynolds, Herb (I)
+	Rollins, Bob (I)
+	Rollins, Jack (I)
+	Rosen, Herschel
+	Schoenfeld, Gerald
+	Schroder, Ricky
+	Shrog, Maurice
+	Steiner, Leo
+	Storm, Howard (I)
+	Turca, Tony
+	Vandenburgh, Craig
+	Weil, Robert (I)
+	Amerling, Cecilia
+	Ballard, Alba
+	Barbato, Olga
+	Barbuto, Julia
+	Berger, Belle
+	Bond, Sheila
+	DeAngeles, Gina
+	Farrow, Mia
+	Gallo, Joie
+	Iacono, Lucy
+	Parker, Gloria (I)
+	Raffone, Antoinette
+	Ranone, Maggie
+	Richman, Sandy
+	Rollins, Etta
+	Rosotti, Betty
+	Saviola, Camille
+	Sceusa, Anna
+	Torterello, Gilda
+	Wool-Rush, Susan
+	Zolten, Diane
+MOVIE = Bullets Over Broadway (1994)
+	Alvarez, Jose (I)
+	Aquilino, Frank
+	Ardeshir, Sohrab
+	Bell, Kernan
+	Broadbent, Jim
+	Canfield, Gene
+	Castellotti, Peter (I)
+	Colicchio, Victor
+	Conforti, Tony
+	Cragin, Charles
+	Cusack, John (I)
+	Darrow, Tony
+	Di Benedetto, John
+	Dolezar, Gerald Edward
+	Doumanian, John
+	Eppolito, Louis
+	Erskine, Howard
+	Fierstein, Harvey
+	Herman, Paul (I)
+	Hoyt, John (II)
+	Iacovino, Nick
+	Mazzola, Jeff
+	McConnachie, Brian
+	McRobbie, Peter
+	Palminteri, Chazz
+	Reiner, Rob
+	Reno, James (I)
+	Roberts, Ken (I)
+	Sirico, Tony (I)
+	Stein, Phil (I)
+	Torlage, Leigh
+	Ventimiglia, John (I)
+	Viterelli, Joe
+	Warden, Jack
+	Washburn, Rick (I)
+	Arturo, Lisa
+	Cramer, Alison
+	Edwards, Annie Joe
+	Falco, Edie
+	Groninger, Kelly
+	Haddon, Dayle
+	Lamberts, Jennifer
+	Laumeister, Shannah
+	Mazar, Debi
+	McGee, Fran
+	Meadows, Carol Lee
+	Nelkin, Stacey
+	Parker, Mary-Louise
+	Regan, Molly
+	Sacharoff, Hope W.
+	Sherman, Patty
+	Spaulding, Rachel Black
+	Strange, Meghan
+	Telford, Jo
+	Tilly, Jennifer
+	Ullman, Tracey
+	Van Dyck, Jennifer
+	Venuta, Benay
+	von Arx, Nina
+	Wiest, Dianne
+	Wiseman, Debra
+	Zajaczkowska, Malgorzata
+MOVIE = Cassandras Dream (2007)
+	Bardock, Matt
+	Benfield, John
+	Boatman, Ross
+	Bodrozic, Milo
+	Budin-Jones, Terry
+	Carter, Dan (XI)
+	Carter, Jim (I)
+	Clear, Tom
+	Daly, Peter-Hugo
+	Davis, Paul Marc
+	Davis, Philip (I)
+	Edelson, Kenneth
+	Farrell, Colin (I)
+	Fiddy, James
+	Fisher, Tom (I)
+	Gardner, Paul (IX)
+	Graham, Richard (I)
+	Harm, Michael
+	Horovitch, David
+	Howard, Andrew (I)
+	Lintern, Richard
+	Mack, Tommy (II)
+	McGregor, Ewan
+	Noonan, Stephen (I)
+	Ramsey, Allan (I)
+	Rathbone, Hugh (II)
+	Richmond, George (I)
+	Smee, Keith
+	Umbers, Mark
+	Viano, Franck
+	Whitlock, Lee
+	Wickes, Scott (III)
+	Wilkinson, Tom (I)
+	Atwell, Hayley
+	Fowler, Cate
+	Gilchrist, Emily
+	Hawkins, Sally (I)
+	Higgins, Clare (I)
+	Higham, Jennifer
+	Madekwe, Ashley
+	McCarthy, Maggie (I)
+	Outhwaite, Tamzin
+	Roberts, Phyllis
+MOVIE = Celebrity (1998)
+	Addison, Bernard (I)
+	Addy, William
+	Affif, Ron
+	Alexi-Malle, Adam
+	Andreas, Casper
+	Arluck, Neal
+	Aronoff, Ethan
+	Azaria, Hank
+	Baker, Dylan (I)
+	Band, Michael Moon
+	Becker, Gerry
+	Berwick, Arthur
+	Bibic, Vladimir (I)
+	Blaine, David (I)
+	Bonsangue, Frank
+	Boyden, Peter
+	Branagh, Kenneth
+	Buttafuoco, Joey
+	Caban, Angel
+	Carter, John (IV)
+	Castellotti, Peter (I)
+	Catalfumo, New York Joe
+	Chemerka, Bill
+	Christianson, Jay Alan
+	Cividanes, Robert (I)
+	Cohen, Ray
+	Colicchio, Victor
+	Costelloe, John
+	Cowling, Gary
+	Crecco, Michael
+	Cuccioli, Robert
+	Daloise, Sean
+	Dark, Peter (I)
+	Darrow, Tony
+	DiCaprio, Leonardo
+	Doumanian, John
+	Edelson, Kenneth
+	Eisenberg, Ned (I)
+	Elston, Ken
+	Emanuel, Alex (I)
+	Erskine, Howard
+	Faragallah, Ramsey
+	Fitzgerald, Donegal
+	Ford, Clebert (I)
+	Friedman, Bruce Jay
+	Gerber, Bill (I)
+	Gestone, Anthony
+	Gray, Sam (I)
+	Gregory, Andre
+	Grenier, Adrian
+	Gunn, Bruno
+	Guy-Bremond, Lionel
+	Harriell, Robert
+	Harris, Wood
+	Iacona, Richard
+	Izzo, Markanthony
+	Jackson, Reuben
+	Jerome, Timothy
+	Jordan, Randy
+	Kaiser, David (II)
+	Kell, Michael (I)
+	Khosla, Surinder
+	Kinnard, Ralph
+	Kirchner, Tom
+	Kulish, Kyle
+	Landi, Carl
+	Lerner, Michael (I)
+	Licari, Frank (I)
+	Mantegna, Joe
+	Margulies, David (I)
+	Marlo, Kevin
+	Mason, Anthony (III)
+	Mawe, Richard
+	Mazzola, Jeff
+	McCarthy, Patrick (I)
+	McConnachie, Brian
+	McCormack, Brian (I)
+	McGrath, Douglas
+	McKeown, Denis
+	McRobbie, Peter
+	Mellor, Steve (II)
+	Millman, Gabriel
+	Mingalone, Dick
+	Mizrahi, Isaac
+	Moody, Jim (I)
+	Moon, Michael (I)
+	Moran, Dan (I)
+	Morris, A. Lee
+	Mottola, Greg
+	Mowat, Rick
+	Neustadt, Ted
+	Nicolaidis, George
+	Occhino, Murphy
+	Pellegrino, Frank (II)
+	Persky, Stan
+	Pine, Larry
+	Poccia, Cory
+	Ponella, Mike
+	Pope, Ralph (I)
+	Primes, Myron
+	Puertollano, Rio
+	Quijada, Francisco
+	Randazzo, Steven
+	Reynolds, Evan
+	Richards, Joe (I)
+	Rockwell, Sam
+	Rolf, Frederick
+	Rose, Skip
+	Scullin, Kevin
+	Shenkel, Leslie
+	Sietz, Adam
+	Simmons, J.K.
+	Sirico, Tony (I)
+	Somerhalder, Ian
+	Sonnenberg, Maurice
+	Steinman, Robert
+	Sullivan, Greg (II)
+	Sweeney, Matthew (I)
+	Tedesco, Tony (I)
+	Torres, Robert (I)
+	Trump, Donald
+	Tudisco, Joseph
+	Ulmschneider, Craig
+	Valencia, Carlos (II)
+	Vanderloo, Mark
+	Von Leczycki Goncharova Barrett, Valeria
+	Wright, Jeffrey (I)
+	Zaks, Gael
+	Adams, Polly (II)
+	Bagley, Lorri
+	Baker, Becky Ann
+	Baxter, Tommie
+	Berhaut, Jennifer
+	Bern, Mina
+	Billingham, Dar
+	Buff, Sarah
+	Burke, Marylouise
+	Burns, Lauren (I)
+	Burton, Kate (I)
+	Buttafuoco, Mary Jo
+	Coogan, Tracy
+	Crowe-Paz, Michelle (I)
+	Cuervo, Alma
+	D'Arbanville, Patti
+	Davis, Judy (I)
+	de Lucia, Amy
+	Dell'Orefice, Carmen
+	DePriest, Teresa
+	DeVega, Sian
+	Doyle, Kathleen (I)
+	Duffy, Karen (I)
+	Edgar, Lela
+	Eng, Melinda
+	Fowler, Monique
+	Getz, Ileen
+	Glezos, Irene
+	Griffith, Melanie (I)
+	Haddon, Dayle
+	Halston, Julie
+	Hanover, Donna
+	Hawk, Kali
+	Henry, Sonita
+	Janney, Allison
+	Janssen, Famke
+	Johnson, Wendy (IV)
+	Jong, Erica
+	Kalinov, Vivian
+	Kirk, Kristi
+	Laino, Janine
+	Levy, Nicole (II)
+	Lippin, Renee
+	Long, Jodi (I)
+	Lucas, Autumn
+	Marlow, Janet
+	Marni, Heather
+	McGettrick, Trish
+	McNamara, Maureen (I)
+	Meer, Alicia
+	Merano, Elizabeth
+	Messing, Debra
+	Michaiah
+	Mol, Gretchen
+	Nativo, Laura
+	Neuwirth, Bebe
+	Oh, Jina
+	Palladino, Aleksa
+	Pantaeva, Irina
+	Prince, Daisy
+	Ragee, Jill
+	Raphael, Marilyn
+	Rogers, Ingrid
+	Ross, Yolonda
+	Rouhani, Michelle
+	Ryder, Winona
+	Saint Louis Augustin, Chrystele
+	Salvail, Eve
+	Samuels, Mary
+	Sandmeyer, April
+	Schwartzberg, Antonette
+	Seldes, Marian
+	Sloan, Tina
+	Theron, Charlize
+	Turturro, Aida
+	Van Der Wal, Frederique
+	van Heteren, Sanny
+	Weston, Celia
+	Williams, Gigi
+	Williams, Roshumba
+	Wright, Mary Catherine
+	Zollicoffer, Diana C.
+MOVIE = Crimes and Misdemeanors (1989)
+	Alda, Alan
+	Allen, Woody
+	Antell, Pete
+	Anzell, Hy
+	Argo, Victor
+	Bergmann, Martin (I)
+	Bernstein, Bill
+	Bloch, Merv (I)
+	Bolster, Thomas L.
+	Crowe, Thomas (I)
+	Edelman, Gregg
+	Eisenberg, Avner
+	Fink, Randy Aaron
+	Finkel, Barry (I)
+	Fogel, Joel
+	Frieder, Sol
+	Gitkin, Matthew T.
+	Gorruso, Anthony
+	Halley Jr., Major
+	Howard, David S.
+	Kalin, Peter
+	Landau, Martin
+	Levinsky, Walt
+	Maidment, Steve
+	Malinowski, Chester
+	Manos, George J.
+	Masso, George
+	Melamed, Fred
+	Meyers, Gary Allen
+	Miles, Charles (I)
+	Musiker, Lee
+	Mussolini, Benito
+	Orbach, Jerry
+	Reichman, Stanley
+	Simowitz, Garrett
+	Smith, Derek (II)
+	Sotos, Tony (I)
+	Tedesco, Tony (I)
+	Terban, Marvin
+	Vache, Warren
+	Vance, Kenny
+	Waterston, Sam
+	Zaks, Jerry
+	Zaremby, Justin
+	Zion, Joel Y.
+	Aaron, Caroline
+	Arden, Nancy
+	Bartlett, Robin
+	Berger, Anna (I)
+	Bloom, Claire (I)
+	Castellano, Donna
+	Cohen, Nancy (I)
+	Conroy, Frances
+	Constantine, Karen
+	Dobrin, Marilyn
+	Ephron, Nora
+	Farrow, Mia
+	Gleason, Joanna (I)
+	Hannah, Daryl
+	Huston, Anjelica
+	Jasper, Zina
+	Kauders, Sylvia
+	Keyser, Sunny
+	Loveman, Lenore
+	Nichols, Jenny (I)
+	O'Sullivan Farrow, Dylan
+	Phillips, Grace (I)
+	Pitt, Myla
+	Roth Haberle, Stephanie
+	Ruehl, Mercedes
+	Sanford, Nadia
+	Schull, Rebecca
+	Sutton, Dolores
+	Toscanini-Horowitz, Wanda
+	Wagner, Maggie (I)
+	Walters, Terry (I)
+MOVIE = Deconstructing Harry (1997)
+	Allen, Woody
+	Anzell, Hy
+	Aranha, Ray
+	Balaban, Bob
+	Benjamin, Richard (I)
+	Bloom, Mitchell (II)
+	Bogosian, Eric
+	Bosco, Philip (I)
+	Bruno, Jerry
+	Buck, Joe (II)
+	Campbell, Vernon
+	Castellotti, Peter (I)
+	Chalawsky, Max
+	Charone, Irwin
+	Chatinover, Marvin
+	Cohen, Ray
+	Crystal, Billy
+	Darrow, Tony
+	Doumanian, John
+	Edelson, Kenneth
+	Frazer, Dan
+	Garvey, Ray
+	Giamatti, Paul
+	Glazer, Brett
+	Harper, Robert (I)
+	Howard, David S.
+	Jacobson, Peter (I)
+	Jenkowsky, Sid
+	Jerome, Timothy
+	LaPaglia, Jonathan
+	Leffert, Joel
+	Lloyd, Eric (I)
+	Maguire, Tobey
+	Manishor, Michael
+	Mazzola, Jeff
+	McConnachie, Brian
+	McRobbie, Peter
+	Metzman, Irving
+	Moran, Dan (I)
+	Picker, Si
+	Pope, Ralph (I)
+	Realbuto, Tim
+	Reidy, Joseph P.
+	Resnick, Floyd
+	Rolf, Frederick
+	Rose, Adam (I)
+	Saks, Gene
+	Shankin, Bobby
+	Sirico, Tony (I)
+	Sontag, David (II)
+	Spiegel, Howard
+	Stettner, Dave
+	Stockman, Todd
+	Troobnick, Eugene
+	Tucci, Stanley (I)
+	Williams, Robin (I)
+	Wolf, Daniel (I)
+	Aaron, Caroline
+	Alley, Kirstie
+	Arnold, Annette
+	Aronson, Alexa
+	Barudin, Amanda
+	Bauerlein, Judy
+	Bloch, Scotty
+	Buck, Waltrudis
+	Burdoe, Phyllis
+	Chae, Sunny (I)
+	Cohen, Lynn (I)
+	Davis, Judy (I)
+	Eshghi, Dana (II)
+	Garner, Jennifer (I)
+	Gelfman-Randazzo, Juliet
+	Goodman, Hazelle
+	Hale, Victoria (I)
+	Harris, Viola
+	Hayes, Lortensia
+	Hemingway, Mariel
+	Hoffman, Jane (I)
+	Hollander, Barbara (I)
+	Irving, Amy (I)
+	Kavner, Julie
+	Kieselstein-Cord, Elisabeth
+	Lerer, Shifra
+	Louis-Dreyfus, Julia
+	Meer, Alicia
+	Miller, Tracey Lynne
+	Moore, Demi
+	Myrin, Arden
+	Perri, Linda
+	Piel, Katie
+	Prince, Daisy
+	Roth Haberle, Stephanie
+	Shue, Elisabeth
+	Szydagis, Matilda
+	Vitiello, Jovanna
+MOVIE = Everyone Says I Love You (1996)
+	Alda, Alan
+	Allen, Woody
+	Bogue, Kevin
+	Burkhardt, Gerry
+	Cardona, Chris (I)
+	Correia, Don
+	Cranshaw, Patrick
+	Crudup, Billy
+	Cummings, Richard (III)
+	Dana, Al
+	De Simone, Kevin
+	DeRocker, Jeff
+	Evans, Paul (III)
+	Garvey, Ray
+	Giordano, Jonathan
+	Grant, Sean (I)
+	Green, Colton
+	Griffin, John (III)
+	Haas, Lukas (I)
+	Hagan, Kevin
+	Hayes, Devalle
+	Hayes, Roland (I)
+	Hibbert, Edward
+	Hodson, Ed
+	Jerome, Timothy
+	John, Tommy (II)
+	Khakh, Robert
+	Knepper, Robert
+	Lavery, Patrick
+	Lee, Darren (I)
+	Locarro, Joe (I)
+	Lyons, Jeff (II)
+	Mann III, Fred
+	Mark, Michael (II)
+	McCloud, Damon
+	Millman, Gabriel
+	Mineo, John
+	Mitchell, Gregory (I)
+	Moinot, Michel
+	Myers, Troy (II)
+	Norton, Edward (I)
+	O'Steen, Michael
+	Orrach, Joe (I)
+	Pacho, Andrew
+	Perez, Luis Martin
+	Perlman, Itzhak
+	Piedimonte, Andrea
+	Pietri, Frank
+	Ragaini, Robert
+	Roberts, Lenny
+	Rolf, Frederick
+	Rosario, Willie
+	Roth, Tim (I)
+	Seganti, Paolo
+	Selya, John
+	Sirico, Tony (I)
+	Stiers, David Ogden
+	Vivona, Jerome
+	Walker, Robert (IX)
+	Whitlock Jr., Isiah
+	Wilkinson, Ashley H.
+	Almendral, Ami
+	Balmaceda, Madeline
+	Barrymore, Drew (I)
+	Baxter, Tommie
+	Bindiger, Emily
+	Bloch, Scotty
+	Buck, Waltrudis
+	Cangelosi, Lisa
+	Canuel, Lindsy
+	Casey, Eileen
+	Ceballos, Rene
+	Cherry, Vivian
+	Cobitt, Cindy
+	Dunn, Colleen (II)
+	Everett, Pamela
+	Faith, Chrissy
+	Farrington, Malinda
+	Frankel, Shelley
+	Gottschall, Ruth
+	Gray, Diva
+	Hawn, Goldie
+	Hayman, Olivia
+	Hoffmann, Gaby (I)
+	Hollander, Barbara (I)
+	Jones, Cherylyn
+	Klein, Trude
+	Kuriloff, Linda
+	LeGuillou, Lisa
+	Lyonne, Natasha
+	Mantz, Delphine T.
+	Martin, Arlene (I)
+	McHugh, Joanne
+	McSwain, Monica
+	Miles, Helen (II)
+	Miles, Jenna
+	Misner, Susan
+	Moore, Dana (I)
+	Nicklaus, Jill
+	Onrubia, Cynthia
+	Paul, Tina
+	Perlman, Navah
+	Pettet, Kristen
+	Portman, Natalie
+	Prince, Daisy
+	Richmond, Krissy
+	Roberts, Julia (I)
+	Romano, Christy Carlson
+	Sanders, Annette
+	Sanson, Kathy
+	Schnurr, Vikki
+	Setterfield, Valda
+	Taylor, Myra Lucretia
+	Telford, Jo
+	Textor, Terry
+	Thomas, Vaneese Y.
+	Ticotin, Nancy
+MOVIE = Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (1972)
+	Adams, Stanley (I)
+	Alden, Norman
+	Allen, Woody
+	Barry, Jack (I)
+	Beckley, William
+	Beregi Jr., Oscar
+	Caillou, Alan
+	Carradine, John
+	Chuy, Don
+	Clark, Dort (I)
+	Holder, Geoffrey
+	Jacobi, Lou
+	Lewis, Robert Q.
+	Lumet, Baruch
+	Mack, Tom (I)
+	Miller, Sidney (I)
+	Philbin, Regis
+	Quayle, Anthony
+	Randall, Tony (I)
+	Reynolds, Burt (I)
+	Robinson, Jay (I)
+	Sanchez, Ref
+	Vandis, Titos
+	Walden, Robert (I)
+	West, H.E.
+	Wilder, Gene
+	Fleming, Erin (I)
+	Giftos, Elaine
+	Holt, Toni
+	Lasser, Louise
+	MacRae, Heather
+	Mason, Pamela (I)
+	Neilsen, Inga
+	Redgrave, Lynn
+MOVIE = Hannah and Her Sisters (1986)
+	Allen, Woody
+	Barry, Chris (XIV)
+	Bates, Paul (I)
+	Black, Lewis
+	Bramon, Michael
+	Caine, Michael (I)
+	Carrotte
+	Cerratto, Joe
+	Clemenson, Christian
+	Costigan, Ken
+	De Fluiter, Stephen
+	DeCheser, Allen
+	DeCheser, Artie
+	Doumanian, John
+	Farrow, Moses (I)
+	Haber, Daniel (I)
+	Jenkins, Richard (I)
+	Kronenfeld, Ivan (I)
+	Leighton, Bernie
+	Magee, Rusty
+	Major, Pierre (I)
+	Marlowe, Branden
+	Melamed, Fred
+	Nolan, Lloyd
+	Paul, Richard (VII)
+	Peer, Beverly
+	Postrel, Leo
+	Previn, Fletcher Farrow
+	Roberts, Tony (I)
+	Schmidt, Benno (I)
+	Scott, Rob (III)
+	Shaw, Dickson
+	Short, Bobby (I)
+	Stern, Daniel (I)
+	Sturgis, William
+	Tenenbaum, Irwin J.
+	Turturro, John
+	von Sydow, Max (I)
+	Walsh, J.T.
+	Waterston, Sam
+	Wheeler, Ira
+	Chiara, Maria
+	Farrow, Mia
+	Fisher, Carrie (I)
+	Gleason, Joanna (I)
+	Gordon-Clark, Susan
+	Greenhill, Amy
+	Hershey, Barbara
+	Hobson, Verna O.
+	Kavner, Julie
+	Kennedy, Tracy (I)
+	Louis-Dreyfus, Julia
+	Miller, Helen (I)
+	O'Sullivan, Maureen (I)
+	Pappas, Mary (I)
+	Previn, Daisy
+	Previn, Soon-Yi
+	Sheridan, Marje
+	Wiest, Dianne
+MOVIE = Hollywood Ending (2002)
+	Allen, Woody
+	Arkin, Anthony
+	Cheng, Barney (I)
+	Dorian, Bob
+	Edelman, Gregg
+	Edelson, Kenneth
+	Eidelsberg, Joel
+	Erskine, Howard
+	Factora, Marshall
+	Faragallah, Ramsey
+	Garvey, Ray
+	Gerber, Bill (I)
+	Gerety, Peter
+	Gibson, Russell (II)
+	Hamilton, George (I)
+	Huff, Neal
+	Hurwitz, Steve
+	Lu, Yu (I)
+	Martin, Ivan (I)
+	Mazzola, Jeff
+	McGrath, Douglas
+	Melamed, Fred
+	Mizrahi, Isaac
+	Mottola, Greg
+	Neustadt, Ted
+	Rigano, Joseph
+	Rydell, Mark
+	Sonnenberg, Maurice
+	Stanford, Aaron
+	Van Wagner, Peter
+	Webber, Mark (I)
+	Williams, Treat
+	Wolchok, Robert Lloyd
+	Carroll, Barbara (II)
+	Dell'Orefice, Carmen
+	Hayman, Olivia
+	Jacobi, Amanda
+	Last, Ruth (I)
+	Leerhsen, Erica
+	Leoni, Tea
+	Logan, Elizabeth (II)
+	Markell, Jodie
+	Messing, Debra
+	Oliver, Rochelle
+	Perry, Roxanne
+	Polen, Sarah
+	Roth Haberle, Stephanie
+	Samuels, Mary
+	Seldes, Marian
+	Takahashi, Reiko (I)
+	Thiessen, Tiffani
+	Toma, Judy
+MOVIE = Husbands and Wives (1992)
+	Allen, Woody
+	August, Ron
+	Bloch, Merv (I)
+	Boston, David (IV)
+	Bucher, John (I)
+	Burke, Edward (II)
+	Doumanian, John
+	Edelson, Kenneth
+	Flint, Matthew (I)
+	Friedman, Bruce Jay
+	Jerome, Timothy
+	Kasper, Kent
+	Kurland, Jeffrey
+	Levy, Philip (I)
+	McConnachie, Brian
+	Melamed, Fred
+	Metropolis, Nick (I)
+	Neeson, Liam
+	Nocerino, Anthony
+	Pollack, Sydney
+	Randazzo, Steven
+	Richardson, Jack (VI)
+	Rifkin, Ron
+	Rigsby, Gordon
+	Schmidt, Benno (I)
+	Truro, Victor
+	Turco, Tony
+	Vance, Kenny
+	Wheeler, Ira
+	Zaks, Jerry
+	Aaron, Caroline
+	Anthony, Lysette
+	Blackman, Ilene
+	Conaway, Cristi
+	Craze, Galaxy
+	Danner, Blythe
+	Davis, Judy (I)
+	Ephron, Nora
+	Farrow, Mia
+	Frankston, Jessica
+	Glenn, Rebecca (III)
+	Gustin, Lisa
+	Kimbrell, Diane
+	Lewis, Juliette (I)
+	Mestre, Adelaide
+	Picard, Connie
+	Turley, Michelle
+MOVIE = Interiors (1978)
+	Forsythe, Henderson
+	Jordan, Richard (I)
+	Marshall, E.G.
+	Morden, Roger
+	Waterston, Sam
+	Collins, Nancy (I)
+	Duffy, Kerry
+	Gaston, Penny
+	Griffith, Kristin
+	Hope, Missy
+	Hurt, Mary Beth
+	Keaton, Diane
+	Page, Geraldine
+	Stapleton, Maureen
+MOVIE = Irrational Man (2015)
+	Baker, David Aaron
+	Blackley, Jamie
+	Bocko, Ben
+	Boston, David (IV)
+	Boyd, Jim (II)
+	Burzenski, Mark
+	Casey, Devin (II)
+	Chez, Ron
+	Coppolelli, Jonah
+	Dunn, Alex (XII)
+	Eames, Curtis
+	Fagan, Shane
+	Florio, Mathieu (I)
+	Goldsmith, Michael (X)
+	Goode, Ed
+	Gordon, Jared M.
+	Griswold, Jed
+	Howitt, Steven
+	Kemp, Tom (I)
+	Kincannon, Jeffery
+	Kipp, Bryce
+	Lemieux, Christopher
+	Matthews, Brian (XII)
+	Maurer, Margaret
+	Morgan, Colby E.
+	Morris, Randy (VII)
+	Nelson, Luke (XIII)
+	Oberton, Grady
+	Oliveira, Joseph (III)
+	Olson, Aaron (X)
+	Palermo, Chris (III)
+	Paolo, Gianni
+	Perroni, Jon
+	Petkoff, Robert
+	Phillips, Ethan (I)
+	Phoenix, Joaquin
+	Pittu, David
+	Popa, Robert
+	Roscoe, Gary
+	Rosenfield, Ben (II)
+	Sabatasso, Halie
+	Schuppert, Geoff
+	Stapleton, Joe (II)
+	Stram, Henry
+	Struffolino, David
+	Swanson, Michael Steven
+	Tanaka, Lino
+	Tempesta, Carl 'CJ'
+	Terzis, Greg
+	Valenti, J.P.
+	Vezina, George
+	Wilmes, Gary (I)
+	Zeisler, Mark
+	Aidem, Betsy
+	Allen, Manzie
+	Anderson, Leah (I)
+	Avery, Finise
+	Benko, Tina
+	Blattner, Amanda
+	Bouchard, Kaitlyn
+	Brough, Kylie
+	Calise, Ana Marie
+	Carroll, Nancy (VIII)
+	Conforti, Terry
+	Coppolelli, Hannah
+	Dawson, Julie Ann
+	DeFusco, Ariana
+	Faulkner, Britt (III)
+	Flanagan, Kate (III)
+	Gallerani, Allison
+	Giammarco, Gabriella
+	Giles, Nancy (I)
+	Grey, Elaine Victoria
+	Hagner, Meredith
+	Hall, London
+	Heiser, Abby Rain
+	Hickey, Tamara
+	Howard, Rosemary (II)
+	Kent, Jessica (II)
+	Laperriere, Lauren
+	Lundy-Paine, Brigette
+	Lynn, Phyllis
+	Marshall, Allie
+	Mascott, Christine
+	McGonigle, Kate
+	McWhorter, Lindsey
+	Mercedes, Marely
+	Nunes, Michaelah Noelle
+	Oberton, Josette
+	Pacheco, Rosemary
+	Pine, Haley
+	Plum, Paula
+	Posey, Parker
+	Pourfar, Susan
+	Re, Marina
+	Rosenstein, Jamie
+	Semer, Katelyn
+	Senerchia, Eva
+	Sexton, Dora
+	Shore, Nancy Ellen
+	Sinclaire, Jhennah
+	Stone, Emma (III)
+	Taylor, Adrienne
+	Villone, Nancy
+	von Haselberg, Sophie
+	Whetstone, Emily (II)
+	Wilcox, Pamela Figueiredo
+	Wynn, Lisa (I)
+MOVIE = Love and Death (1975)
+	Adet, Georges
+	Adu, Frank
+	Allen, Woody
+	Ardisson, Edmond
+	Atkine, Feodor
+	Augier, Albert
+	Barsacq, Yves
+	Battista, Lloyd
+	Berard, Jack
+	Birt, George
+	Brainville, Yves
+	Buhr, Gerard
+	Coburn, Brian (I)
+	Coutet, Henri
+	Czarniak, Henri
+	Eles, Sandor
+	Florian (I)
+	Frieder, Sol
+	Gould, Harold (I)
+	Hankin, Harry
+	Jay, Tony (I)
+	Lemkow, Tutte
+	Lenoir, Jack
+	Lensky, Leib
+	Lumont, Roger
+	Lutter III, Alfred
+	Marcus, Edward
+	Maury, Jacques (I)
+	Morris, Aubrey
+	Rose, Norman (I)
+	Rossett, Alan
+	Ruskin, Shimen
+	Russel, Percival
+	Sanders, Chris (I)
+	Scooler, Zvee
+	Smith, C.A.R.
+	Smith, Fred (I)
+	Taylor, Bernard (I)
+	Thierry, Clement
+	Tilvern, Alan
+	Tolkan, James
+	Vernon, Howard (I)
+	Williams, Glenn (I)
+	Witkin, Jacob
+	Betrand, Eva
+	Crown, Patricia (I)
+	Diamantidou, Despo
+	Fabiole, Luce
+	Fogt, Jacqueline
+	Georges-Picot, Olga
+	Harper, Jessica (I)
+	Keaton, Diane
+	Lonnberg, Anne
+	McKinley, Narcissa
+	Porter, Beth (I)
+	Potok, Rebecca
+	Peron, Denise
+	Tainsy, Andree
+	Vallier, Helene
+MOVIE = Magic in the Moonlight (2014)
+	Abelanski, Lionel
+	Alphonse, Ronald
+	Baker, Ronald (IV)
+	Bandey, Paul
+	Bauer, Baby
+	Chomnalez, Pedro
+	Edelson, Kenneth
+	Firth, Colin
+	Keto, Kelly
+	Krause, Rudolf (I)
+	Linklater, Hamish
+	Marchevet, Olivier
+	McBurney, Simon
+	Muller, Didier
+	Nouel, Geroges Edouard
+	Pissors, Wolfgang
+	Shamos, Jeremy
+	Sims, Mark (IV)
+	Siroux, Sebastien
+	Wollasch, Peter
+	Zard, Patrick
+	Zwingel, Jurgen
+	Andrews, Natasha
+	Atkins, Eileen
+	Beaulieu, Valerie (II)
+	Clarke, Antonia
+	Forde, Jessica
+	Harden, Marcia Gay
+	Leerhsen, Erica
+	Lemper, Ute
+	McCormack, Catherine (I)
+	Stone, Emma (III)
+	Weaver, Jacki
+MOVIE = Manhattan (1979)
+	Allen, Woody
+	Anthony, Bill (I)
+	Doumanian, John
+	Lafford, Llewellyn
+	Levin, Charles (I)
+	Linn-Baker, Mark
+	Murphy, Michael (I)
+	O'Donoghue, Michael (I)
+	Rasche, David
+	Scheller, Damion
+	Serra, Raymond
+	Shawn, Wallace
+	Truro, Victor
+	Vance, Kenny
+	Weis, Gary (I)
+	Abzug, Bella
+	Allen, Karen (I)
+	Conroy, Frances
+	Farrow, Tisa
+	Hanft, Helen
+	Hemingway, Mariel
+	Hoffman, Anne Byrne
+	Keaton, Diane
+	Ludwig, Karen (I)
+	Streep, Meryl
+MOVIE = Manhattan Murder Mystery (1993)
+	Addy, William
+	Adler, Jerry (I)
+	Alda, Alan
+	Allen, Woody
+	Bair, John D.
+	Boston, David (IV)
+	Braff, Zach
+	Costelloe, John
+	Doumanian, John
+	Lavin, Harry
+	Levy, Philip (I)
+	Luggio, Michael
+	Manos, George J.
+	Pellegrino, Frank (II)
+	Pierce, Wendell (I)
+	Randazzo, Steven
+	Rifkin, Ron
+	Sfinias, Yanni
+	Wheeler, Ira
+	Behar, Joy
+	Cohen, Lynn (I)
+	Huston, Anjelica
+	Irizarry, Gloria
+	Kauders, Sylvia
+	Keaton, Diane
+	Last, Ruth (I)
+	Norris, Melanie (I)
+	Raffaelli, Suzanne
+	Redmond, Marge
+	Taylor, Linda (I)
+	Turturro, Aida
+MOVIE = Match Point (2005)
+	Armstrong, Alexander
+	Botes, Morne
+	Bremner, Ewen (I)
+	Cox, Brian (I)
+	Fortune, John (I)
+	Gatiss, Mark
+	Goode, Matthew (I)
+	Handy, Scott
+	Kaye, Paul (IV)
+	Kebbell, Toby
+	Kunz, Simon (I)
+	Mansfield, Philip (I)
+	Nesbitt, James (I)
+	O'Donnell, Anthony (I)
+	Oke, Alan (I)
+	Pemberton, Steve (I)
+	Penry-Jones, Rupert
+	Rhys Meyers, Jonathan
+	Salmon, Colin
+	Silver, Leonard (I)
+	Streatfeild, Geoffrey
+	Argenti, Alex
+	Cadell, Selina
+	Chapman, Georgina
+	Gilchrist, Emily
+	Hegarty, Mary (I)
+	Johansson, Scarlett
+	Keegan, Rose
+	Kelly, Janis (I)
+	Lima, Michelle (I)
+	Mortimer, Emily
+	Murphy, Dawn (II)
+	Raison, Miranda
+	Telford, Zoe
+	Tyzack, Margaret
+	Whymark, Patricia
+	Wilton, Penelope
+MOVIE = Melinda and Melinda (2004)
+	Baker, David Aaron
+	Borowitz, Andy
+	Boston, David (IV)
+	Brolin, Josh
+	Buntzen, Rob
+	Carell, Steve
+	Ecklund, James (I)
+	Edelson, Kenneth
+	Ejiofor, Chiwetel
+	Farina, Michael J.
+	Ferrell, Will (I)
+	Harder, Alex
+	Holmes, Rick (II)
+	Jiang, Yi-wen
+	Li, Honggang
+	Li, Weigang (I)
+	Miller, Jonny Lee
+	Nauffts, Geoffrey
+	Orth, Zak
+	Pepe, Neil
+	Pine, Larry
+	Rose, Quincy
+	Servitto, Matt
+	Shawn, Wallace
+	Sunjata, Daniel
+	Tzavaras, Nick
+	Adler, Lauren
+	Bareikis, Arija
+	Durning, Michelle
+	Harlow, Shalom
+	Kirk, Christina (I)
+	Kreisler, Katie
+	Lloyd, Sabrina (I)
+	Lovell, Jacqueline
+	Mitchell, Radha
+	Peet, Amanda (I)
+	Pridham, Alyssa
+	Roth Haberle, Stephanie
+	Scorzelli, Michalina
+	Sevigny, Chloe
+	Shaw, Vinessa
+	Silverlieb, Natalie
+	Smith, Brooke (I)
+MOVIE = Midnight in Paris (2011)
+	Bagdassarian, Serge
+	Bennett, Michael (VIII)
+	Brody, Adrien
+	Claret, Laurent
+	Cordier, Tom
+	Cortes, Vincent Menjou
+	de Van, Adrien
+	Di Fonzo Bo, Marcial
+	Edelson, Kenneth
+	Elmaleh, Gad
+	Fuller, Kurt (I)
+	Gouix, Guillaume
+	Hancisse, Thierry
+	Heck, Yves
+	Hiddleston, Tom
+	Kelif, Atmen
+	Lolov, Sava
+	Lowe, David (V)
+	Lundh, Daniel
+	Rabourdin, Olivier
+	Rostain, François (I)
+	Sheen, Michael
+	Sonnenberg, Maurice
+	Spielvogel, Laurent
+	Spoto, Yves-Antoine
+	Stoll, Corey
+	Vuillermoz, Michel
+	Wilson, Owen (I)
+	Arianda, Nina
+	Basler, Marianne
+	Bates, Kathy (I)
+	Benguigui, Catherine
+	Bourou-Rubinsztein, Therese
+	Bruni, Carla
+	Conde, Marie-Sohna
+	Cotillard, Marion
+	Fleurot, Audrey
+	Kennedy, Mimi
+	McAdams, Rachel
+	Pill, Alison
+	Rolland, Sonia
+	Seydoux, Lea
+	Uzan, Emmanuelle
+	Vanasse, Karine
+MOVIE = Mighty Aphrodite (1995)
+	Abraham, F. Murray
+	Addy, William
+	Allen, Woody
+	Alper, Gary
+	Bair, John D.
+	Blocher, Kent
+	Cerullo, Al (I)
+	Chaib, Elie
+	Coleman, Joseph P.
+	Dalton, John (I)
+	Darrow, Tony
+	De La Pena, George
+	Durkin, Thomas (I)
+	Edelson, Kenneth
+	Fink, Dann
+	Fitzpatrick, Barney
+	Fowler, Scott (I)
+	Fraboni, Angelo
+	Garvey, Ray
+	Gertsacov, Seth (I)
+	Giamatti, Paul
+	Herman, Paul (I)
+	Kramer, David H.
+	Kurland, Jeffrey
+	Mann III, Fred
+	Marcus, Dominic
+	McQuaid, Jimmy
+	McRobbie, Peter
+	Mineo, John
+	Moran, Dan (I)
+	Moreland, Rawleigh
+	Mullane, Dan
+	Navarra, Paul
+	Nelson, Christopher (II)
+	Poor, Bray
+	Randazzo, Steven
+	Rapaport, Michael (I)
+	Robin, Tucker (I)
+	Sechler, Craig
+	Sirico, Tony (I)
+	Stiers, David Ogden
+	Symington, Donald
+	Timoney, Bill
+	Toorvald, Sven
+	Tuffy, Nolan
+	Wallace, Don (III)
+	Warden, Jack
+	Weller, Peter (I)
+	Winant, Bruce
+	Blair, Pamela
+	Bloom, Claire (I)
+	Bonham Carter, Helena
+	Ceballos, Rene
+	DiMauro, Joanne
+	Doyle, Kathleen (I)
+	Dukakis, Olympia (I)
+	Faye, Denise (I)
+	Ferland, Danielle
+	Filali, Marian
+	Greenhut, Jennifer
+	Haidorfer, Karin
+	Halston, Julie
+	Hawkins, Yvette
+	James, Sondra
+	Karr, Patti
+	Lee, Adrian (III)
+	Longwell, Karen
+	Murphy, Rosemary
+	Pasare, Georgette
+	Setterfield, Valda
+	Smith-Cameron, J.
+	Sorvino, Mira
+	Vidal, Lisa (I)
+MOVIE = New York Stories (1989)
+	Allen, Woody
+	Argo, Victor
+	Boone Junior, Mark
+	Borrego, Jesse
+	Briz
+	Brody, Adrien
+	Buscemi, Steve
+	Chatinover, Marvin
+	Coppola, Carmine
+	Cryer, David (I)
+	David, Larry (I)
+	Elliott, Chris (I)
+	Gabriel, Peter
+	Geier, Paul
+	Giannini, Giancarlo
+	Gitkin, Matthew T.
+	Grund, Richard J.
+	Harper, Phil (I)
+	Herman, Paul (I)
+	Higgins, Michael (I)
+	Keane, James (I)
+	Koch, Ed
+	MacMillan, Andrew (I)
+	Mardirosian, Tom
+	McGregor, Kenneth
+	Moor, Bill (I)
+	Moreland, Rawleigh
+	Mougey, Paul
+	Muller, Ernst
+	Nolte, Nick
+	Novello, Don
+	O'Neal, Patrick (I)
+	Powell, Michael (I)
+	Price, Richard (I)
+	Rafferty, George
+	Rizzo, Michael (I)
+	Rosen, Herschel
+	Rosenblatt, Martin
+	Ruggiero, Lou
+	Schindler, George
+	Scorsese, Martin
+	Starr, Mike (I)
+	Tlili, Selim
+	Trull, Victor
+	Vitolo, F.X.
+	von Leitis, Gregorij
+	Wheeler, Ira
+	Wood-Chappelle, Robin
+	Andre, Lola
+	Arquette, Rosanna
+	Bako, Brigitte
+	Barretto, Amber
+	Becker, Alexandra (I)
+	Bouquet, Carole
+	Bud, Joan
+	Campanelli, Julia
+	Carpenter, Thelma
+	Combs, Holly Marie
+	Cooper, Elana (I)
+	Coppola, Gia
+	Cosman, Diane Lin
+	Douglas, Illeana
+	Dunst, Kirsten
+	Edwards, Annie Joe
+	Enfield, Jackie
+	Farrow, Mia
+	French, Adele
+	Giles, Nancy (I)
+	Hanft, Helen
+	Harry, Debbie
+	Hirsch, Selma
+	Kavner, Julie
+	Keosian, Jessie
+	Lenet, Lynda
+	LoNardo
+	Long, Jodi (I)
+	McCarthy, Doris
+	McComb, Heather (I)
+	Nestell, Celia
+	Nichols, Jenny (I)
+	O'Sullivan Farrow, Dylan
+	Questel, Mae
+	Regan, Molly
+	Ryan, Bridgit
+	Scianni, Gina
+	Shire, Talia
+	Spiegel, Sarah
+	Starbuck, JoJo
+MOVIE = Radio Days (1987)
+	Aiello, Danny
+	Allen, Woody
+	Almquist, Gregg
+	Anzell, Hy
+	Beaucaire, J.E.
+	Beck, Jackson (I)
+	Berman, Paul
+	Bickford, David
+	Block, Oliver
+	Burns, Stan
+	Burns, Stanley
+	Butler, Artie
+	Cale, David
+	Castellotti, Peter (I)
+	Clark, Andrew B.
+	Colner, Marc
+	Cowen, Henry (II)
+	Craig, Wendell
+	Daniels, Jeff (I)
+	David, Larry (I)
+	Eidelsberg, Joel
+	Erwin, Lee (I)
+	Field, Todd
+	Flanagan, William (I)
+	Gerard, Greg
+	Green, Seth (I)
+	Hammer, Roger (I)
+	Herman, Paul (I)
+	Horne, J.R. (I)
+	Jarchow, Bruce
+	Joy, Robert
+	Kotkin, Edward S.
+	Kronenfeld, Ivan (I)
+	Le Bow, Guy
+	Leir, Ron
+	Levinsky, Ken
+	Lombard, Peter (I)
+	Macy, William H.
+	Magerman, William
+	Maniere, George
+	Mannain, Brian
+	Marchica, Ray
+	Mars, Kenneth
+	Melamed, Fred
+	Morgenstern, Ross
+	Mosberg, David
+	Mostel, Josh
+	Murray, Mick (I)
+	O'Brien, Frank (I)
+	Pardo, Don
+	Patterson, Mark (VIII)
+	Portnow, Richard
+	Previn, Fletcher Farrow
+	Puente, Tito
+	Roberts, Ken (I)
+	Roberts, Tony (I)
+	Roeder, Tommy
+	Rose, Norman (I)
+	Rosenblatt, Martin
+	Sharman, Martin
+	Shawn, Wallace
+	Shrog, Maurice
+	Shultz, Philip (I)
+	Sponholz, Kuno
+	Starr, Mike (I)
+	Swarts, Terry Lee
+	Toueg, Maurice
+	Tucker, Michael (I)
+	Tuminello, Sal
+	Vassilopoulos, Dimitri
+	Warrilow, David (I)
+	Weist, Dwight
+	Welsh, Kenneth
+	Wheeler, Ira
+	Yuk, Henry
+	Bakley, Bonnie Lee
+	Bennett, Roberta (I)
+	Berger, Belle
+	Blake, Sydney (II)
+	Carlisle, Kitty
+	Carrey, Leah
+	Childress, Yolanda
+	DeAngeles, Gina
+	Delaney, Shelley
+	Dumont, Denise (I)
+	Farrow, Mia
+	Felde, Kitty
+	Ferland, Danielle
+	Field, Crystal (I)
+	Gabrielle, Marie (I)
+	Gallo, Barbara
+	Jarvis, Jane (I)
+	Kavner, Julie
+	Keaton, Diane
+	Kurnitz, Julie
+	Lippin, Renee
+	Malina, Judith
+	Miller, Helen (I)
+	Morgenstern, Mindy (I)
+	Newman, Joy
+	Nickels, Rebecca
+	Payne, Ruby (I)
+	Rabinowitz, Hannah
+	Rapp, Ilana
+	Ruehl, Mercedes
+	Rugoff, Ruth
+	Schaeffer, Rebecca
+	Scheier, Christine
+	Thomson, Margaret (I)
+	Vochecowizc, Liz
+	Wiest, Dianne
+MOVIE = Scoop (2006)
+	Allen, Woody
+	Armstrong, Alexander
+	Bathurst, Robert
+	Bell, Geoff (I)
+	Bhaskar, Sanjeev
+	Cornwell, Phil
+	Dance, Charles (I)
+	Day, Matt (I)
+	Dunk, Jim
+	Frazer, Rupert
+	Friend, Sam
+	Fulford, Christopher
+	Glover, Julian (I)
+	Godwin, Christopher
+	Guo, Tao (III)
+	Halse, Jody
+	Head, Anthony
+	Heap, Mark
+	Hoyland, William
+	Jackman, Hugh
+	Johnson, Richard (I)
+	Jones, Toby (I)
+	Light, John (I)
+	Lindsay, Nigel (I)
+	Mastin, Pete
+	McNally, Kevin (I)
+	McShane, Ian
+	O'Donnell, Anthony (I)
+	Schneider, David (IV)
+	Standing, John
+	Stirling, Richard (I)
+	Wickham, Jeffry
+	Argenti, Alex
+	Backhouse, Carolyn
+	Baron, Lynda
+	Berrington, Elizabeth
+	Blakiston, Caroline
+	Brady, Moya
+	Cavaliero, Rosie
+	Deakin, Julia (I)
+	Garai, Romola
+	Hamilton, Victoria (I)
+	Johansson, Scarlett
+	Kerr, Robyn
+	Kewer, Suzy
+	Mantle, Doreen
+	Owen, Meg Wynn
+	Rath, Tina
+	Syal, Meera
+	Tyzack, Margaret
+	Wilcox, Paula
+	Woolgar, Fenella
+MOVIE = September (1987)
+	Elliott, Denholm
+	Warden, Jack
+	Waterston, Sam
+	Wheeler, Ira
+	Cecil, Jane
+	Farrow, Mia
+	Murphy, Rosemary
+	Stritch, Elaine
+	Wiest, Dianne
+MOVIE = Shadows and Fog (1991)
+	Allen, Woody
+	Appel, Peter
+	Arana, Tomas
+	Argo, Victor
+	Berman, Andy
+	Bolster, Thomas L.
+	Bosco, Philip (I)
+	Cragin, Charles
+	Cusack, John (I)
+	Dinklage, Peter
+	Farrell, Tom Riis
+	Gwynne, Fred
+	Joy, Robert
+	Kirby, Michael (I)
+	Loomis, Tim (I)
+	Macy, William H.
+	Malkovich, John
+	Mars, Kenneth
+	McRobbie, Peter
+	Melamed, Fred
+	Pleasence, Donald
+	Ramsay, Remak
+	Rebhorn, James
+	Reilly, John C. (I)
+	Riehle, Richard
+	Robinson, Max (I)
+	Shawn, Wallace
+	Sherrick, David
+	Silver, Robert (I)
+	Smiar, Brian
+	Smith, Kurtwood
+	Sommer, Josef
+	Stebner, Greg
+	Stewart, Paul Anthony
+	Stiers, David Ogden
+	Troy, Michael P.
+	Turek, Ron
+	Vestunis, Dennis
+	von Bargen, Daniel
+	Weyand, Ron
+	Wheeler, Ira
+	Balint, Eszter
+	Bates, Kathy (I)
+	Dierlam, Katy
+	Farrow, Mia
+	Foster, Jodie
+	Gibson, Rebecca (II)
+	Kavner, Julie
+	Lange, Anne (I)
+	Madonna
+	Nelligan, Kate
+	Saviola, Camille
+	Tomlin, Lily
+MOVIE = Sleeper (1973)
+	Allen, Woody
+	Avery, Brian (I)
+	Beck, John (II)
+	Cannon, John (I)
+	Cordic, Regis
+	Cosell, Howard
+	Furth, George
+	Glass, Seamon
+	Hobbs, Peter (I)
+	Keefer, Don
+	Kirchmar, Laurence
+	Mason, Jackie (I)
+	McLiam, John
+	Milligan, Spencer
+	Morgan, Read
+	Nixon, Richard
+	Picetti, Lou
+	Popwell, Albert
+	Rain, Douglas
+	Robinson, Bartlett
+	Ross, Stanley (I)
+	Rydbeck, Whitney
+	Forbes, Chris (I)
+	Gregory, Mary (I)
+	Keaton, Diane
+	Miller, Susan (IV)
+	Rains, Jessica
+	Small, Mews
+MOVIE = Small Time Crooks (2000)
+	Allen, Woody
+	Bertoni, Riccardo
+	Besserer, Rob
+	Chatinover, Marvin
+	Darrow, Tony
+	Doumanian, John
+	Edelson, Kenneth
+	Erskine, Howard
+	Faragallah, Ramsey
+	Garfinkle, Nick
+	Garvey, Ray
+	Gerber, Bill (I)
+	Grant, Hugh (I)
+	Grizzard, George
+	Hill, William (I)
+	Kroft, Steve
+	Levy, Jesse (I)
+	Levy, Lawrence Howard
+	Lovitz, Jon
+	Markinson, Brian
+	Mawe, Richard
+	McConnachie, Brian
+	McGrath, Douglas
+	McRobbie, Peter
+	Mizrahi, Isaac
+	Moran, Trevor (I)
+	Pine, Larry
+	Rapaport, Michael (I)
+	Sinopoli, Anthony
+	Sonnenberg, Maurice
+	Wheeler, Ira
+	Wood, Frank (III)
+	Black, Teri
+	Bloch, Scotty
+	Bradley, Diane (I)
+	Burdoe, Phyllis
+	Calabrese, Josephine
+	Carver, Cindy (II)
+	Chaney, Sarah (I)
+	Chinn, Alva
+	Field, Crystal (I)
+	Halston, Julie
+	Hayman, Olivia
+	Iocolano, Evelyn
+	Josepher, Sam
+	Laredo, Ruth
+	Lund, Julie (I)
+	May, Elaine (I)
+	Nielsen, Kristine (I)
+	Nikic, Fanda
+	Pipgras, Christine
+	Saxon, Carolyn
+	Stritch, Elaine
+	Towler, Laurine
+	Tyler, Dana
+	Ullman, Tracey
+	Wilks, Cindy
+	Wolfangle, Karla
+MOVIE = Stardust Memories (1980)
+	Ackerman, Stanley
+	Albeck, Andy
+	Allen, Woody
+	Anthony, Bill (I)
+	Austin, Alan (II)
+	Azito, Tony
+	Barnes, Wade (I)
+	Barre, Gabriel
+	Beaucaire, J.E.
+	Behn, Noel
+	Brocksmith, Roy
+	Carr, Larry Robert
+	Chapin, Ken
+	Chodorov, Samuel
+	Cimino, Leonardo
+	Cole, Gardenia
+	Daly, Patrick (I)
+	Dean, E. Brian
+	Dennis, Tom (I)
+	Derwin, Jordan
+	Don, Carl
+	Doumanian, John
+	Fishman, Larry (I)
+	Friedman, Daniel H.
+	Friedman, Robert (II)
+	Geller, Marc (I)
+	Gewirtz, Perry
+	Gorrin, Michael
+	Greenberg, Jerry Tov
+	Harter, James
+	Hollander, Jack
+	House, Henry (I)
+	Ireland, Douglas
+	Keyes, Irwin
+	Kiani, Mohammid Nabi
+	Kissel, Howard
+	Kotkin, Edward S.
+	Leavitt, Max (I)
+	Lenkowsky, Philip
+	Lipman, David (I)
+	Lomita, Sol
+	Lowe, Charles (I)
+	Maroff, Bob
+	Mastren, Carmen
+	Maxwell, Wayne (I)
+	Metzman, Irving
+	Michaels, Bert (I)
+	Mintz, Eli
+	Miranti, Bob
+	Modell, Frank
+	Munk, Robert
+	Murray, Marc (I)
+	Napolitan, Neil
+	Newey, Simon
+	Ostaro
+	Otis, James (I)
+	Pagano, Joe (I)
+	Peisner, Marvin
+	Petrolino, Dominick
+	Rayson, Benjamin
+	Richards, Adrian (I)
+	Riggs III, Charles
+	Riggs, Geoffrey
+	Roberts, Tony (I)
+	Rollins, Jack (I)
+	Rothman, John (I)
+	Ruinsky, Robin
+	Shimerman, Armin
+	Shrog, Maurice
+	Spiner, Brent
+	Steinfink, Iryn
+	Stern, Daniel (I)
+	Summo, Joseph
+	Tassell, Gustave
+	Tennenhouse, Robert
+	Touchard, Michel
+	Truro, Victor
+	Van Valkenburg, Eric
+	Vance, Kenny
+	Vassilopoulos, Dimitri
+	Weiss, Barry (I)
+	Zannella, Michael
+	Zinsser, William
+	Zoldessy, Brian
+	Albrecht, Liz
+	Bari, Jade
+	Barrault, Marie-Christine
+	Bosniak, Sloane
+	Brous, Sharon (I)
+	Cohen, Judith (I)
+	Crist, Judith
+	Danon, Denice
+	Davis, Sylvia (I)
+	De Salvo, Anne
+	Delano, Laura
+	Demay, Sally
+	Dorsey, Kimberly
+	Freeman, Ann
+	French, Jacqueline (I)
+	Friedman, Lisa (I)
+	Gibb, Cynthia
+	Ginsburg, Susan (I)
+	Goldner, Judy
+	Grossman, Edith
+	Hale, Helen
+	Hanft, Helen
+	Harper, Jessica (I)
+	Hellman, Bonnie
+	Holasek, Vanina
+	Johnson, Deborah (I)
+	Korzen, Annie
+	Lane, Marie (I)
+	Lasser, Louise
+	Leon, Dorothy
+	Levins, Maureen P.
+	Lippin, Renee
+	Loving, Candy
+	Machado, Manuella (I)
+	Mims, Mary
+	Moroff, Madeline
+	Neuman, Joan
+	Newman, Laraine
+	Page, Victoria (I)
+	Pole, Frances
+	Raflo, Paula
+	Rampling, Charlotte
+	Risley, Ann
+	Roberts, Judith (I)
+	Rugoff, Ruth
+	Schiano, Marina
+	Sherrill, Martha (III)
+	Slade, Melissa
+	Slater, Doris Dugan
+	Smith, Leslie (I)
+	Spagnuolo, Filomena
+	Spivak, Alice
+	Stone, Sharon (I)
+	Strasun, Gabrielle
+	Whitehead, Martha (I)
+	Whyte, Ellen
+	Woodruff, Largo
+	Wright, Amy (I)
+	Wright, Rebecca (I)
+	Zussin, Victoria
+MOVIE = Sweet and Lowdown (1999)
+	Addy, William
+	Allen, Woody
+	Ambrose, Joe (I)
+	Bargonetti, Steve
+	Bauer, Chris (I)
+	Beehner, Scott
+	Bolus, Michael Peter
+	Brown, Benjamin Franklin
+	Bryant, Al (I)
+	Cowling, Gary
+	Criscuolo, Michael
+	Crouch, Stanley
+	Daniels, Howard Kevin
+	Darrow, Tony
+	Davis, Eddy
+	Duncan, Ben (I)
+	Edelson, Kenneth
+	Eisele, Eddie
+	Erskine, Drummond
+	Francis, Alan (III)
+	Garrett, Brad (I)
+	Garvey, Ray
+	Gayton, Clark
+	Giles III, Brooks
+	Giordano, Vince
+	Goehner, Fred
+	Guastaferro, Vincent
+	Hentoff, Nat
+	Hickman, Rick (I)
+	Johnson, Marc Damon
+	Jones, Ron Cephas
+	Kellin, Orange
+	Kemp, Emme
+	LaPaglia, Anthony
+	Leung, Peter (II)
+	Lewkowicz, Chuck
+	Markinson, Brian
+	McDonnell, Jon M.
+	McGrath, Douglas
+	McIntyre, Earl P.
+	McLaughlin, John Patrick
+	McLaurine, Marcus
+	Mingalone, Dick
+	Monday, Dick
+	Moran, Dan (I)
+	Mowat, Rick
+	Mowery, Josh
+	O'Hare, Denis (I)
+	O'Rourke, Mick (I)
+	Okrent, Daniel
+	Penn, Sean (I)
+	Pope, Ralph (I)
+	Reed, Darryl Alan (I)
+	Richardson, Jerome (I)
+	Rigano, Joseph
+	Sauchelli Jr., Alfred
+	Sietz, Adam
+	Spoons, Mr.
+	Sprague, Michael (I)
+	Stein, Dennis
+	Tobin, John H.
+	Urbaniak, James
+	Waters, John (I)
+	Wess, Frank
+	Wettenhall, Simon
+	Wilkins, Ted
+	Williams, James (XII)
+	Bayeux, Carole
+	Damergis, Anna
+	Dudley-Rose, Catherine
+	Egz, Lexi
+	Hamill, Katie
+	Jones, Fiona (III)
+	McGettrick, Trish
+	Mercedes, Yvette
+	Mol, Gretchen
+	Morton, Samantha (I)
+	Ottavia, Maria
+	Overbey, Kellie
+	Parrish, Paula
+	Pashalinski, Lola
+	Placksin, Sally
+	Price, Molly
+	Saxon, Carolyn
+	Shulman, Constance
+	Solar, Cory
+	Stout, Mary (I)
+	Thurman, Uma
+	Vernoff, Kaili
+	Woods, Carol
+MOVIE = Take the Money and Run (1969)
+	Ackerman, Stanley
+	Allen, Woody
+	Anderson, James (I)
+	Beck, Jackson (I)
+	Bellin, Thomas
+	Chapman, Lonny
+	Davis, Michael L.
+	Eisenhower, Dwight D.
+	Engel, Roy
+	Frazer, Dan
+	Gordon, Mark (I)
+	Hillaire, Marcel
+	Jacobson, Nate
+	Kaiser Wilhelm II
+	Leff, Henry
+	Merlin, Jan
+	Moskowitz, Minnow
+	Murphy, Micil
+	Nixon, Richard
+	O'Dowd, Mike (I)
+	Rose, Mickey
+	Schumacher, Paul (I)
+	Storm, Howard (I)
+	Tunick, Mitchell
+	Bauer, Grace (I)
+	Foley, Lynn
+	Hyde, Jacquelyn
+	Lasser, Louise
+	Margolin, Janet
+	Sokolow, Ethel
+MOVIE = The Curse of the Jade Scorpion (2001)
+	Alden, Howard
+	Allen, Woody
+	Aykroyd, Dan
+	Beckenstein, Raymond
+	Brown, Bruce (III)
+	Cahoon, Kevin
+	Copeman, Ty
+	Corey, Irwin
+	Dorian, Bob
+	Doumanian, John
+	Ecklund, Peter
+	Edelson, Kenneth
+	Erskine, Howard
+	Fante, Fabrizio
+	Faragallah, Ramsey
+	Feldman, Lawrence (I)
+	Garvey, Ray
+	Gerety, Peter
+	Giordano, Vince
+	Helleny, Joel
+	Horgan, Patrick (I)
+	Hyman, Dick (I)
+	Levy, Philip (I)
+	Linari, Peter
+	Lovelle, Herb
+	Markinson, Brian
+	McConnachie, Brian
+	Moran, Dan (I)
+	Mulheren, Michael
+	Nascarella, Arthur J.
+	Peplowski, Ken
+	Sandke, Randy
+	Schuck, John
+	Shawn, Wallace
+	Sommer, Ted
+	Sonnenberg, Maurice
+	Stebner, Greg
+	Stiers, David Ogden
+	Tormey, John (I)
+	Weisberg, Noah
+	Wheeler, Ira
+	Wilson, Chuck (II)
+	Bayeux, Carole
+	Berkley, Elizabeth
+	Carmen (I)
+	Gold, Judy
+	Hunt, Helen (I)
+	Klein, Trude
+	Sloan, Tina
+	Theron, Charlize
+	Vernoff, Kaili
+MOVIE = The Purple Rose of Cairo (1985)
+	Aiello, Danny
+	Anthony, Eugene J.
+	Appel, Marty
+	Bandel, Murray
+	Barnes, Wade (I)
+	Bennett, Albert S.
+	Bordo, Edwin
+	Brenner, Maurice
+	Castellotti, Peter (I)
+	Chapin, Ken
+	Cohen, Alexander
+	Dahdah, Robert
+	Daniels, Jeff (I)
+	Degidon, Tom
+	Graham, Joseph G.
+	Hamlin, George (I)
+	Hammond, Mark (I)
+	Herman, Paul (I)
+	Herrmann, Edward
+	Johnson, Van (I)
+	Kieserman, David
+	Kubiak, Tom
+	Lynch, James (II)
+	Maniere, George
+	Manos, George J.
+	Martin, George (II)
+	McRobbie, Peter
+	Metzman, Irving
+	Miller, Ebb
+	Murphy, Andrew (I)
+	O'Shea, Milo
+	Petrucelli, Rick
+	Postrel, Leo
+	Prendergast, James
+	Quigley, Don
+	Rayson, Benjamin
+	Rothman, John (I)
+	Seaman, Milton
+	Serra, Raymond
+	Tice, David (I)
+	Tjan, Willie
+	Trebor, Robert
+	Tucker, Michael (I)
+	Von Berg, Peter
+	Weber, David (I)
+	Wood, John (I)
+	Akers, Karen
+	Blake, Sydney (II)
+	Caldwell, Zoe (I)
+	Donald, Juliana
+	Edwards, Annie Joe
+	Farrow, Mia
+	Farrow, Stephanie
+	Field, Crystal (I)
+	Grollman, Elaine
+	Hanft, Helen
+	Headly, Glenne
+	Hedahl, Mary
+	Ivey, Lela
+	Lalumia, Drinda
+	MacLane, Gretchen
+	Miller, Helen (I)
+	Porter-Phillips, Sharon
+	Rush, Deborah
+	Saviola, Camille
+	Sherrill, Martha (III)
+	Shevlin, Jean
+	Thompson, Margaret (II)
+	Tupper, Loretta
+	Weddell, Mimi
+	Wiest, Dianne
+	Zussin, Victoria
+MOVIE = To Rome with Love (2012)
+	Acon, Daniel
+	Albanese, Antonio
+	Allen, Woody
+	Amato, Gaetano (I)
+	Argentieri, Maurizio
+	Armiliato, Fabio
+	Baldwin, Alec
+	Benigni, Roberto
+	Bini Bustric, Sergio
+	Bonetti, Matteo
+	Bonini, Fabio Massimo
+	Bruschetta, Antonino
+	Caiolo, Claudio
+	Calvani, Luca
+	Camerini, Duccio
+	Cara, Ruggero
+	Cecere, Vinicio
+	Comperatore, Dominic
+	De Lorenzo, Massimo
+	De Ruggieri, Carlo Luca
+	De Vita, Paolo
+	De Vito, Francesco
+	Della Casa, Roberto
+	Dolce, Domenico
+	Eisenberg, Jesse
+	Esposito, Giovanni (I)
+	Fadda, Giacomo
+	Ferroni, Massimo
+	Fornari, Augusto
+	Fortuna, Corrado
+	Frigerio, Gustavo
+	Gabbana, Stefano
+	Gemma, Giuliano
+	Guanciale, Lino
+	Leo, Edoardo
+	Mangiante, Alberto
+	Marchioni, Vinicio
+	Marchionne, Pierluigi
+	Pambieri, Giuseppe
+	Parenti, Flavio
+	Pasquesi, David
+	Procoli, Alessandro
+	Purgatori, Edoardo
+	Rainone, Gabriele
+	Rampino, Antonio
+	Rigillo, Mariano
+	Scamarcio, Riccardo
+	Solli, Sergio
+	Tallarida, Alessandro
+	Taschini, Antonio
+	Tiberi, Alessandro
+	Tognazzi, Gianmarco
+	Zucchini, Alessio
+	Alt, Carol
+	Benedetti, Giada
+	Cammarano, Rita
+	Caparrini, Simona
+	Capriotti, Cecilia
+	Corti, Federica
+	Cruz, Penelope
+	Davis, Judy (I)
+	Dell'Utri, Araba
+	Di Brigida, Rosa
+	Di Rauso, Margherita
+	Finocchiaro, Donatella
+	Gerwig, Greta
+	Gorgone, Nusia
+	Mastronardi, Alessandra
+	Matteucci, Brunella
+	Milani, Mariella
+	Muti, Ornella
+	Nappo, Monica
+	Omaggio, Maria Rosaria
+	Pacifico, Camilla
+	Page, Ellen
+	Palazzoni, Cristiana
+	Pill, Alison
+	Reggio, Ariella
+	Rocco, Marina
+	Ronconi, Roberta
+	Rossini, Anna Teresa
+	Sastri, Lina
+	Serrato, Ilaria
+	Smith, Claudia (I)
+	Swanson, Lynn (I)
+	Vicario, Margherita
+	Zoffoli, Marta
+	Zurn, Unica
+MOVIE = Untitled Woody Allen Project (2016)
+	Adler, Max (I)
+	Ashkenas, Rob
+	Binkley, Gregg (I)
+	Carell, Steve
+	Corapi, Richard R.
+	DiMaria, Anthony (I)
+	Eisenberg, Jesse
+	Elian, Michael
+	Garo, Armen
+	Gorn, Lev
+	Hyland, Edward James
+	Kemp, Tom (I)
+	Kunken, Stephen
+	Mancini, Joe (I)
+	McInnis, Tommy
+	Portnow, Richard
+	Routman, Steve
+	Schackman, Paul
+	Schneider, Paul (IV)
+	Sirico, Tony (I)
+	Stark, Don (I)
+	Stoll, Corey
+	Stott, Ken
+	Tillinger, Sebastian
+	Bailey, Penelope
+	Berlin, Jeannie
+	Bilger, Bettina
+	Camp, Anna
+	Carlson, Christine J.
+	Carr, Taylor (I)
+	Celeste, Liz
+	D'lyn, Shae
+	Davis, Judy (I)
+	Frazer, Tess
+	Griggs, Laurel
+	Hannigan, Jamie Marie
+	Kalinov, Vivian
+	Lennick, Sari
+	Lieu, Fran
+	Lively, Blake
+	Posey, Parker
+	Rappoport, Kate
+	Rohrbach, Kelly
+	Stewart, Kristen (I)
+	Vernoff, Kaili
+MOVIE = Vicky Cristina Barcelona (2008)
+	Barcelo, Manel
+	Bardem, Javier
+	Baste, Jordi
+	Bennett, Michael (VIII)
+	Caner, Christian
+	de Benito, Emilio
+	Domenech, Josep Maria (II)
+	Dunn, Kevin (I)
+	Folk, Abel
+	Joan, Joel
+	Messina, Chris (I)
+	Mir, Paco
+	Montane, Jaume (I)
+	Moon, Oliver
+	Orth, Zak
+	Pera, Joan
+	Perillan, Julio
+	Quesada, Juan (II)
+	Rojas, Rodrigo (IV)
+	Salom, Ricard
+	Schreiber, Pablo
+	Sonnenberg, Maurice
+	Welch, Christopher Evan
+	Bertran, Lloll
+	Clarkson, Patricia
+	Cruz, Penelope
+	Hall, Rebecca (I)
+	Johansson, Scarlett
+	Preston, Carrie (I)
+	Sabate, Silvia
+MOVIE = Whats Up Tiger Lily? (1966)
+	Allen, Woody
+	Amamoto, Hideyo
+	Boone, Steve
+	Butler, Joe (I)
+	Buxton, Frank
+	Kurobe, Susumu
+	Lovin' Spoonful, The
+	Maxwell, Len
+	Mihashi, Tatsuya
+	Nakamaru, Tadao
+	Nakamura, Tetsu (I)
+	Rose, Mickey
+	Sakai, Sachio
+	Yanovsky, Zal
+	Yusuf, Osman
+	Bennett, Julie (I)
+	Hama, Mie
+	Lasser, Louise
+	Lee, China (I)
+	Mizuno, Kumi
+	Wakabayashi, Akiko (I)
+	Wilson, Bryna
+MOVIE = Whatever Works (2009)
+	Antonucci, Steve
+	Austen, Marc Alan
+	Begley Jr., Ed
+	Brooks, Adam (I)
+	Burkarth, Dan
+	Cavill, Henry
+	David, Larry (I)
+	Dickson, Clifford Lee
+	Edelson, Kenneth
+	Gallagher Jr., John
+	Hill, Conleth
+	Kanouse, Lyle
+	Krupa, Olek
+	McKean, Michael (I)
+	Nussbaum, Gabriel
+	Nunez, Chris (II)
+	Rose, Quincy
+	Schultz, Armand
+	Welch, Christopher Evan
+	Basem, Julie
+	Bee, Samantha
+	Clarkson, Patricia
+	Cuthrell, Willa (I)
+	DeBonis, Marcia
+	Hecht, Jessica (I)
+	McCormick, Carolyn (I)
+	Nader, Lindsay Michelle
+	Patrick, Nicole (I)
+	Rea, Amanda
+	Ross, Yolonda
+	Singer, Robin Rose
+	Wood, Evan Rachel
+MOVIE = You Will Meet a Tall Dark Stranger (2010)
+	Ashton-Griffiths, Roger
+	Banderas, Antonio
+	Bremner, Ewen (I)
+	Brolin, Josh
+	Frazer, Rupert
+	Fulford, Christopher
+	Glenister, Philip
+	Harris, Johnny (II)
+	Hopkins, Anthony (I)
+	Hutchings, Geoffrey
+	Jackson, Neil (IV)
+	James, Theo
+	Kher, Anupam
+	Macqueen, Alex
+	Massa-Harris, Ian
+	McKay, Christian
+	Orpheus, David
+	Orth, Zak
+	Piddock, Jim
+	Portal, Robert
+	Quigley, Pearce
+	Ryland, Jonathan
+	Amoa, Augustina
+	Baron, Lynda
+	Collins, Pauline
+	David, Joanna (I)
+	Friel, Anna
+	Gecks, Eleanor
+	Harrison, Kelly (I)
+	Imrie, Celia
+	Jones, Gemma (I)
+	Khan, Shaheen (I)
+	Lawrence, Amanda (I)
+	Pinto, Freida
+	Punch, Lucy
+	Syal, Meera
+	Walter, Natalie
+	Watts, Naomi
+	Woolgar, Fenella
+MOVIE = Zelig (1983)
+	Allen, Woody
+	Amann, Max
+	Anderson, Arthur (II)
+	Beggins, Francis
+	Bell, Ralph (I)
+	Bellow, Saul
+	Berger, Robert (I)
+	Bettelheim, Bruno
+	Blevins, Michael (I)
+	Blum, John Morton
+	Brown, Garrett M.
+	Bruckner, Wilhelm
+	Buckwalter, John
+	Cannon, Jack (I)
+	Capone, Al
+	Chapin, Ken
+	Chaplin, Charles
+	Chatinover, Marvin
+	Cole Sr., Marshall
+	Coolidge, Calvin
+	Craig, Wendell
+	Denny, Charles
+	Dietrich, Sepp
+	DiMaggio, Joe (I)
+	Doumanian, John
+	Erskine, Howard
+	Fitzgerald, F. Scott
+	Gehrig, Lou
+	Goebbels, Joseph
+	Gould, Gordon
+	Grange, Harold 'Red'
+	Göring, Hermann
+	Hamlin, George (I)
+	Hansen, Gale
+	Hearst, William Randolph
+	Herlihy, Ed
+	Herold, Bernie
+	Hess, Rudolf
+	Hitler, Adolf
+	Holt, Willy
+	Horgan, Patrick (I)
+	Howe, Irving
+	Hussung, Will
+	Iglesia, Robert
+	Jerman-Jerosa, Vincent
+	Jeter, Michael
+	Kell, Michael (I)
+	Klein, Gerald (II)
+	Kuehn, Jurgen
+	Lane, Ed (I)
+	Ley, Robert (I)
+	Lindbergh, Charles A.
+	Litt, Richard
+	Lomita, Sol
+	Loud, Sherman
+	Marco, Anton
+	McPhillips, Edward
+	McRobbie, Peter
+	Menjou, Adolphe
+	Mix, Tom (I)
+	Nevens, Paul
+	Pfeffer von Salomon, Franz
+	Rambo, Bubba Dean
+	Resnick, Eli
+	Rose, Billy (I)
+	Rothman, John (I)
+	Ruth, Babe
+	Schaub, Julius
+	Simmonds, Stanley
+	Smits, Theodore R.
+	Sponholz, Kuno
+	Strasser, Gregor
+	Streicher, Julius
+	Swerdlow, Stanley
+	Vassilopoulos, Dimitri
+	von Epp, Franz
+	Walker, Jimmy (I)
+	Weist, Dwight
+	Whiting, Richard (I)
+	Baker, Josephine (I)
+	Beardsley, Alice
+	Brice, Fanny
+	Bricktop
+	Campbell, Erma
+	Davies, Marion
+	Deitch, Louise
+	del Rio, Dolores
+	Dowis, Bernice
+	Dressler, Marie
+	Farrow, Mia
+	Farrow, Stephanie
+	Ferrol-Young, Sharon
+	Garrison, Ellen
+	Jackson, Jeanine (I)
+	Kaitan, Elizabeth
+	Lombard, Carole (I)
+	Questel, Mae
+	Rothschild, Elizabeth
+	Rush, Deborah
+	Sontag, Susan
+	Tatum, Marianne (I)
+	Trowbridge, Jean
+	Trueman, Paula
+	Ulrich, Kim Johnston
+	Wilson, Mary Louise
+	Windsor, Claire
+MOVIE = Untitled Woody Allen Project (2016)
+	Adler, Max (I)
+	Ashkenas, Rob
+	Binkley, Gregg (I)
+	Carell, Steve
+	Corapi, Richard R.
+	DiMaria, Anthony (I)
+	Eisenberg, Jesse
+	Elian, Michael
+	Garo, Armen
+	Gorn, Lev
+	Hyland, Edward James
+	Kemp, Tom (I)
+	Kunken, Stephen
+	Mancini, Joe (I)
+	McInnis, Tommy
+	Portnow, Richard
+	Routman, Steve
+	Schackman, Paul
+	Schneider, Paul (IV)
+	Sirico, Tony (I)
+	Stark, Don (I)
+	Stoll, Corey
+	Stott, Ken
+	Tillinger, Sebastian
+	Bailey, Penelope
+	Berlin, Jeannie
+	Bilger, Bettina
+	Camp, Anna
+	Carlson, Christine J.
+	Carr, Taylor (I)
+	Celeste, Liz
+	D'lyn, Shae
+	Davis, Judy (I)
+	Frazer, Tess
+	Griggs, Laurel
+	Hannigan, Jamie Marie
+	Kalinov, Vivian
+	Lennick, Sari
+	Lieu, Fran
+	Lively, Blake
+	Posey, Parker
+	Rappoport, Kate
+	Rohrbach, Kelly
+	Stewart, Kristen (I)
+	Vernoff, Kaili
