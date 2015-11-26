@@ -10,7 +10,7 @@ PREFIX onto: <http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ont
 lembrar que ao usar made e maker, prefixo é 'foaf'
 para os demais, usar o nosso prefixo, no caso, 'onto'
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Atores que fizeram parte do filme F
 
@@ -18,16 +18,14 @@ SELECT ?nome_ator ?sobrenome_ator ?nome_filme
 	WHERE { 
 	?ator onto:e_membro ?elenco.
 	?elenco onto:estrelado ?filme.
-	?filme onto:nome_filme "Capitão América 3: A Guerra Civil"@pt.
-
+	?filme onto:nome_filme "The Avengers"@en.
 	?elenco rdf:type onto:Elenco.
 	?filme rdf:type onto:Filme.
-
 	?ator foaf:firstName ?nome_ator.
 	?ator foaf:familyName ?sobrenome_ator.
 	?filme onto:nome_filme ?nome_filme}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Quais filmes foram dirigidos pelo diretor D?
 
@@ -51,25 +49,9 @@ SELECT ?nome_filme
 	
 	?filme onto:nome_filme ?nome_filme}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Em quais filmes o ator X atuou?
-
-SELECT ?nome_ator ?sobrenome_ator ?nome_filme
-	WHERE { 
-	?ator onto:e_membro ?elenco.
-	?elenco onto:estrelado ?filme.
-	?ator foaf:firstName "Scarlett"@en.
-
-	?ator rdf:type onto:Ator.
-	?elenco rdf:type onto:Elenco.
-	?filme rdf:type onto:Filme.
-
-	?ator foaf:firstName ?nome_ator.
-	?ator foaf:familyName ?sobrenome_ator.
-	?filme onto:nome_filme ?nome_filme}
-
-ou
 
 SELECT ?nome_filme
 	WHERE { 
@@ -78,7 +60,7 @@ SELECT ?nome_filme
 
 	?filme onto:nome_filme ?nome_filme.}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Em quais filmes o ator X atuou junto com Y?
 
@@ -90,21 +72,9 @@ SELECT ?nome_filme
 
 	?filme onto:nome_filme ?nome_filme.}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Quem foram os diretores dos filmes nos quais os atores X e Y atuam juntos?
-
-SELECT ?nome_diretor ?sobrenome_diretor
-	WHERE { 
-	?diretor foaf:made ?filme.
-	?filme onto:estrela ?elenco.
-	?elenco foaf:member onto:Scarlett_Johansson;
-		foaf:member onto:Kon.
-
-	?diretor foaf:firstName ?nome_diretor.
-	?diretor foaf:familyName ?sobrenome_diretor.}
-
-ou para não mostrar duplicado
 
 SELECT DISTINCT ?diretor
 	WHERE { 
@@ -113,7 +83,7 @@ SELECT DISTINCT ?diretor
 	?elenco foaf:member onto:Scarlett_Johansson;
 		foaf:member onto:Chris_Evans.}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Qual o diretor que mais dirigiu filmes do ator X?
 
@@ -125,10 +95,10 @@ SELECT ?diretor (COUNT(?diretor) as ?quantidade_de_filmes)
 
 	?diretor rdf:type onto:Diretor}
 	GROUP BY ?diretor
-	ORDER BY DESC (?filmes)
+	ORDER BY DESC (?quantidade_de_filmes)
 	LIMIT 1
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Qual o ator que mais aparece nos filmes do diretor D?
 
@@ -144,7 +114,7 @@ SELECT ?ator (COUNT(?ator) as ?quantidade_de_filmes)
 	ORDER BY DESC (?quantidade_de_filmes)
 	LIMIT 1
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Entre os anos N1 e N2, quais diretores dirigiram filmes onde X e Y aparecem?
 
@@ -160,7 +130,7 @@ SELECT DISTINCT ?diretor
 	FILTER (?ano > 2015)
 	FILTER (?ano < 2017)}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Entre os anos N1 e N2, quais atores atuaram juntos nos filmes onde X e Y aparecem?
 
@@ -179,7 +149,7 @@ SELECT DISTINCT ?ator
 		?ator != onto:Chris_Evans)
 	}
 
----------------------------------------------------
+--------------------------------------------------- OK
 
 Quais filmes do diretor do filme F possuem X ou Y como atores?
 
@@ -187,7 +157,7 @@ SELECT DISTINCT ?filme
 	WHERE { 
 		{
 		?filme foaf:maker ?diretor.
-		?diretor foaf:made onto:Capitao_America_3_A_Guerra_Civil.
+		?diretor foaf:made onto:The_Avengers.
 		?filme onto:estrela ?elenco.
 		?elenco foaf:member onto:Chris_Evans
 		}
@@ -196,12 +166,12 @@ SELECT DISTINCT ?filme
 
 		{
 		?filme foaf:maker ?diretor.
-		?diretor foaf:made onto:Capitao_America_3_A_Guerra_Civil.
+		?diretor foaf:made onto:The_Avengers.
 		?filme onto:estrela ?elenco.
 		?elenco foaf:member onto:Scarlett_Johansson
 		}
 
-		FILTER (?filme != onto:Capitao_America_3_A_Guerra_Civil)
+		FILTER (?filme != onto:The_Avengers)
 	}
 
 
