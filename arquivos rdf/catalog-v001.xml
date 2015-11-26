@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1448396130503" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="ontologia-projeto_v3.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1448396130503" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="ontologia-projeto_v4.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1448396130503" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4" uri="ontologia-projeto.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1448396130503" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4" uri="ontologia-projeto_v2.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="header.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="last.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="ontologia-projeto_v3.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="ontologia-projeto_v4.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="ontologia-projeto_v5.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/inferido_3" uri="template.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4" uri="ontologia-projeto.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1448507879020" name="duplicate:http://www.semanticweb.org/marcelo/ontologies/2015/10/untitled-ontology-4" uri="ontologia-projeto_v2.rdf"/>
     </group>
 </catalog>
