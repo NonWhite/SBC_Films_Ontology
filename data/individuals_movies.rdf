@@ -766,6 +766,14 @@
 	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Gore_Verbinski"/>
 	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl"/>
 </owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Benny_and_Joon">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Benny and Joon</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jeremiah_S_Chechik"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Benny_and_Joon"/>
+</owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Dead_Man">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
 	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
@@ -895,14 +903,6 @@
 	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
 	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_September"/>
 </owl:NamedIndividual>
-<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ghost_in_the_Shell">
-	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
-	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
-	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2017</untitled-ontology-4:ano_lancamento>
-	<untitled-ontology-4:nome_filme xml:lang="en">Ghost in the Shell</untitled-ontology-4:nome_filme>
-	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rupert_Sanders"/>
-	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ghost_in_the_Shell"/>
-</owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Untitled_Woody_Allen_Project">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
 	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
@@ -1022,6 +1022,14 @@
 	<untitled-ontology-4:nome_filme xml:lang="en">Small Time Crooks</untitled-ontology-4:nome_filme>
 	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Woody_Allen"/>
 	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Small_Time_Crooks"/>
+</owl:NamedIndividual>
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manny_and_Lo">
+	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
+	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Manny and Lo</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lisa_Krueger"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Manny_and_Lo"/>
 </owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Unite_for_Japan">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
@@ -1856,13 +1864,13 @@
 	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;David_Fincher"/>
 	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Fight_Club"/>
 </owl:NamedIndividual>
-<owl:NamedIndividual rdf:about="&untitled-ontology-4;Benny_&_Joon">
+<owl:NamedIndividual rdf:about="&untitled-ontology-4;Ghost_in_the_Shell">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
 	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
-	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1993</untitled-ontology-4:ano_lancamento>
-	<untitled-ontology-4:nome_filme xml:lang="en">Benny & Joon</untitled-ontology-4:nome_filme>
-	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Jeremiah_S_Chechik"/>
-	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Benny_&_Joon"/>
+	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">2017</untitled-ontology-4:ano_lancamento>
+	<untitled-ontology-4:nome_filme xml:lang="en">Ghost in the Shell</untitled-ontology-4:nome_filme>
+	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Rupert_Sanders"/>
+	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Ghost_in_the_Shell"/>
 </owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Francesco">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
@@ -2025,14 +2033,6 @@
 	<untitled-ontology-4:nome_filme xml:lang="en">The Black Dahlia</untitled-ontology-4:nome_filme>
 	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Brian_De_Palma"/>
 	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_The_Black_Dahlia"/>
-</owl:NamedIndividual>
-<owl:NamedIndividual rdf:about="&untitled-ontology-4;Manny_&_Lo">
-	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>
-	<rdf:type rdf:resource="&untitled-ontology-4;Filme"/>
-	<untitled-ontology-4:ano_lancamento rdf:datatype="&xsd;integer">1996</untitled-ontology-4:ano_lancamento>
-	<untitled-ontology-4:nome_filme xml:lang="en">Manny & Lo</untitled-ontology-4:nome_filme>
-	<renata:FOAF-modifiedmaker rdf:resource="&untitled-ontology-4;Lisa_Krueger"/>
-	<untitled-ontology-4:estrela rdf:resource="&untitled-ontology-4;Elenco_Manny_&_Lo"/>
 </owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Home_Alone_3">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedProject"/>

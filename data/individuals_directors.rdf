@@ -233,7 +233,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 	<renata:FOAF-modifiedfirstName xml:lang="en">Jeremiah</renata:FOAF-modifiedfirstName>
 	<renata:FOAF-modifiedfamilyName xml:lang="en">S Chechik</renata:FOAF-modifiedfamilyName>
-	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Benny_&_Joon"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Benny_and_Joon"/>
 </owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Gore_Verbinski">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>
@@ -597,7 +597,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
 	<renata:FOAF-modifiedfirstName xml:lang="en">Lisa</renata:FOAF-modifiedfirstName>
 	<renata:FOAF-modifiedfamilyName xml:lang="en">Krueger</renata:FOAF-modifiedfamilyName>
-	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Manny_&_Lo"/>
+	<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;Manny_and_Lo"/>
 </owl:NamedIndividual>
 <owl:NamedIndividual rdf:about="&untitled-ontology-4;Mike_Newell">
 	<rdf:type rdf:resource="&renata;FOAF-modifiedAgent"/>

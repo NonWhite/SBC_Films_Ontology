@@ -6216,7 +6216,7 @@ CAST
 	Paula Wilcox
 	Fenella Woolgar
 MOVIE
-	Benny & Joon
+	Benny and Joon
 YEAR
 	1993
 DIRECTOR
@@ -16083,7 +16083,7 @@ DIRECTOR
 CAST
 	Javier Bardem
 MOVIE
-	Manny & Lo
+	Manny and Lo
 YEAR
 	1996
 DIRECTOR
