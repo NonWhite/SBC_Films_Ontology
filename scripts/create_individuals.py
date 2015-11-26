@@ -42,6 +42,8 @@ def create_individuals() :
 			actors_info[ actor ].append( movie )
 	for actor in actors_info :
 		individuals.append( person_individual( actor , actors_info[ actor ] ) )
+	export( individuals , '../data/individuals_actors.rdf' )
+	individuals = []
 	# CREATE DIRECTORS
 	directors_info = {}
 	for movie in data :
@@ -50,13 +52,18 @@ def create_individuals() :
 			directors_info[ director ].append( movie )
 	for director in directors_info :
 		individuals.append( person_individual( director , directors_info[ director ] , True ) )
+	export( individuals , '../data/individuals_directors.rdf' )
+	individuals = []
 	# CREATE ELENCO
 	for movie in data :
 		individuals.append( cast_individual( data[ movie ] ) )
+	export( individuals , '../data/individuals_cast.rdf' )
+	individuals = []
 	# CREATE MOVIES
 	for movie in data :
 		individuals.append( movie_individual( data[ movie ] ) )
-	return individuals
+	export( individuals , '../data/individuals_movies.rdf' )
+	individuals = []
 
 def export( data , fpath = RDF_FILE ) :
 	with open( fpath , 'w' ) as f :
@@ -64,5 +71,4 @@ def export( data , fpath = RDF_FILE ) :
 			f.write( ind )
 
 if __name__ == '__main__' :
-	ind = create_individuals()
-	export( ind )
+	create_individuals()

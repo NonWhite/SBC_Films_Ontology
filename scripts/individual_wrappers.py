@@ -1,4 +1,4 @@
-TO_REPLACE = [ "\"" , "'" , ":" , "." , "," , "/" , '-' , '!' , '*' ]
+TO_REPLACE = [ "\"" , "'" , ":" , "." , "," , "/" , '-' , '!' , '*' , '&' ]
 
 def camelize( st ) :
 	for t in TO_REPLACE : st = st.replace( t , '' )
@@ -25,7 +25,8 @@ def person_individual( actor , movies , is_director = False ) :
 			individual += '\t<renata:FOAF-modifiedmade rdf:resource="&untitled-ontology-4;%s"/>\n' % camelize( m )
 	else :
 		for m in movies :
-			individual += '\t<untitled-ontology-4:e_membro rdf:resource="&untitled-ontology-4#Elenco_%s"/>\n' % camelize( m )
+			individual += '\t<untitled-ontology-4:e_membro rdf:resource="&untitled-ontology-4;Elenco_%s"/>\n' % camelize( m )
+			continue
 	individual += '</owl:NamedIndividual>\n'
 	#print individual
 	return individual
